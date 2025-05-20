@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/Untitled.md",
+                "file": "Main Notes/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "b4bbb08188167e10",
   "lastOpenFiles": [
-    "Main Notes/Untitled 1.md",
     "Main Notes/Untitled.md",
+    "Main Notes/Untitled 1.md",
     "1 Source Material/Ulysses.md",
     "1 Source Material",
     "3 Index",
