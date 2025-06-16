@@ -194,6 +194,8 @@ Father figure either Mr Deasy or Almidano Artifoni
 However they are polar opposites as shown in chapters 16 and 17
 "poles apart as they were, both in schooling and everything else"
 
+Two temperaments: "The scientific. The artistic." Page 635
+
 Page 471:
 "You are a necessary evil."
 
@@ -243,3 +245,195 @@ Page 595:
 
 Page 597:
 "He had transparently outlived his welcome. He ought to have either died naturally or on the scaffold high."
+
+Page 598:
+"I resent violence or intolerance in any shape or form. It never reaches anything or stops anything. A revolution must come on the due instalments plan. It's a patent absurdity on the face of it to hate people because they live round the corner and speak another vernacular, so to speak."
+
+Page 599:
+"Where you can live well, the sense is, if you work."
+
+Page 599:
+"—if you work.
+— Count me out, he managed to remark, meaning work.
+The eyes were surprised at this observation, because as he, the person who owned them pro tem., observed, or rather his voice speaking did: All must work, have to, together.
+— I mean, of course, the other hastened to affirm, work in the widest possible sense. Also literary labour, not merely for the kudos of the thing. Writing for the newspapers which is the readiest channel nowadays. That's work too. Important work. After all, from the little I know of you, after all the money expended on your education, you are entitled to recoup yourself and command your price. You have every bit as much right to live by your pen in pursuit of your philosophy as the peasant has. What? You both belong to Ireland, the brain and the brawn. Each is equally important."
+
+Page 605:
+"Can real love, supposing there happens to be another chap in the case, exist between married folk?"
+
+Page 609:
+"that man, or men in the plural, were always hanging around on the waiting list about a lady, even supposing she was the best wife in the world and they got on fairly well together for the sake of argument, when, neglecting her duties, she chose to be tired of wedded life, and was on for a little flutter in polite debauchery to press their attentions on her with improper intent, the upshot being that her affections centred on another, the cause of many _liaisons_ between still attractive married women getting on for fair and forty and younger men, no doubt as several famous cases of feminine infatuation proved up to the hilt."
+
+ Page 610:
+ "Though they didn't see eye to eye in everything, a certain analogy there somehow was, as if both their minds were travelling, so to speak, in the one train of thought."
+
+Page 621:
+"He reflected that the progressive extension of the field of individual development and experience was regressively accompanied by a restriction of the converse domain of interindividual relations.
+As in what ways?
+From inexistence to existence he came to many and was as one received: existence with existence he was with any as any with any: from existence to nonexistence gone he would be by all as none perceived."
+
+Page 630:
+"Concluding by inspection but erroneously that his silent companion was engaged in mental composition he reflected on the pleasures derived from literature of instruction rather than of amusement as he himself had applied to the works of William Shakespeare more than once for the solution of difficult problems in imaginary or real life."
+
+Page 650:
+"He affirmed his significance as a conscious rational animal proceeding syllogistically from the known to the unknown and a conscious rational reagent between a micro- and a macrocosm ineluctably constructed upon the incertitude of the void."
+
+Page 652-653:
+"Did he find the problems of the inhabitability of the planets and their satellites by a race, given in species, and of the possible social and moral redemption of said race by a redeemer, easier of solution?
+Of a different order of difficulty. Conscious that the human organism, normally capable of sustaining an atmospheric pressure of 19 tons, when elevated to a considerable altitude in the terrestrial atmosphere suffered with arithmetical progression of intensity, according as the line of demarcation between troposphere and stratosphere was approximated, from nasal hemorrhage, impeded respiration and vertigo, when proposing this problem for solution, he had conjectured as a working hypothesis which could not be proved impossible that a more adaptable and differently anatomically constructed race of beings might subsist otherwise under Martian, Mercurial, Veneral, Jovian, Saturnian, Neptunian or Uranian sufficient and equivalent conditions, though an apogean humanity of beings created in varying forms with finite differences resulting similar to the whole and to one another would probably there as here remain inalterably and inalienably attached to vanities, to vanities of vanities and to all that is vanity.
+And the problem of possible redemption?
+The minor was proved by the major."
+
+Page 654:
+"That it was not a heaventree, not a heavengrot, not a heavenbeast, not a heavenman. That it was a Utopia, there being no known method from the known to the unknown: an infinity renderable equally finite by the suppositious apposition of one or more bodies equally of the same and of different magnitudes: a mobility of illusory forms immobilised in space, remobilised in air: a past which possibly had ceased to exist as a present before its probable spectators had entered actual present existence. "
+
+Page 654:
+"What special affinities appeared to him to exist between the moon and woman?
+Her antiquity in preceding and surviving successive tellurian generations: her nocturnal predominance: her satellitic dependence: her luminary reflection: her constancy under all her phases, rising and setting by her appointed times, waxing 494 and waning: the forced invariability of her aspect: her indeterminate response to inaffirmative interrogation: her potency over effluent and refluent waters: her power to enamour, to mortify, to invest with beauty, to render insane, to incite to and aid delinquency: the tranquil inscrutability of her visage: the terribility of her isolated dominant implacable resplendent propinquity: her omens of tempest and of calm: the stimulation of her light, her motion and her presence: the admonition of her craters, her arid seas, her silence: her splendour, when visible: her attraction, when invisible."
+
+Page 660:
+"What composite asymmetrical image in the mirror then attracted his attention?
+
+The image of a solitary (ipsorelative) mutable (aliorelative) man.
+
+Why solitary (ipsorelative)?
+
+_Brothers and sisters had he none.  
+Yet that man's father was his grandfather's son._
+
+Why mutable (aliorelative)?
+
+From infancy to maturity he had resembled his maternal procreatrix. From maturity to senility he would increasingly resemble his paternal procreator."
+
+Page 672:
+"For what reason did he meditate on schemes so difficult of realisation?
+
+It was one of his axioms that similar meditations or the automatic relation to himself of a narrative concerning himself or tranquil recollection of the past when practised habitually before retiring for the night alleviated fatigue and produced as a result sound repose and renovated vitality."
+
+Page 672:
+"As a physicist he had learned that of the 70 years of complete human life at least 2/7ths, viz., 20 years are passed in sleep. As a philosopher he knew that at the termination of any allotted life only an infinitesimal part of any person's desires has been realised. As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence. "
+
+Page 684-685:
+"With what antagonistic sentiments were his subsequent reflections affected?
+
+Envy, jealousy, abnegation, equanimity.
+
+Envy?
+
+Of a bodily and mental male organism specially adapted for the superincumbent posture of energetic human copulation and energetic piston and cylinder movement necessary for the complete satisfaction of a constant but not acute concupiscence resident in a bodily and mental female organism, passive but not obtuse.
+
+Jealousy?
+
+Because a nature full and volatile in its free state, was alternately the agent and reagent of attraction. Because attraction between agents and reagents at all instants varied, with inverse proportion of increase and decrease, with incessant circular extension and radial reentrance. Because the controlled contemplation of the fluctuation of attraction produced, if desired, a fluctuation of pleasure.
+
+Abnegation?
+
+In virtue of a) acquaintance initiated in September 1903 in the establishment of George Mesias, merchant tailor and outfitter, 5 Eden Quay, b) hospitality extended and received in kind, reciprocated and reappropriated in person, c) comparative youth subject to impulses of ambition and magnanimity, colleagual altruism and amorous egoism, d) extraracial attraction, intraracial inhibition, supraracial prerogative, e) an imminent provincial musical tour, common current expenses, net proceeds divided.
+
+Equanimity?
+
+As natural as any and every natural act of a nature expressed or understood executed in natured nature by natural creatures in accordance with his, her and their natured natures, of dissimilar similarity. As not as calamitous as a cataclysmic annihilation of the planet in consequence of a collision with a dark sun. As less reprehensible than theft, highway robbery, cruelty to children and animals, obtaining money under false pretences, forgery, embezzlement, misappropriation of public money, betrayal of public trust, malingering, mayhem, corruption of minors, criminal libel, blackmail, contempt of court, arson, treason, felony, mutiny on the high seas, trespass, burglary, jailbreaking, practice of unnatural vice, desertion from armed forces in the field, perjury, poaching, usury, intelligence with the king's enemies, impersonation, criminal assault, manslaughter, wilful and premeditated murder. As not more abnormal than all other parallel processes of adaptation to altered conditions of existence, resulting in a reciprocal equilibrium between the bodily organism and its attendant circumstances, foods, beverages, acquired habits, indulged inclinations, significant disease. As more than inevitable, irreparable.
+
+Why more abnegation than jealousy, less envy than equanimity?
+
+From outrage (matrimony) to outrage (adultery) there arose nought but outrage (copulation) yet the matrimonial violator of the matrimonially violated had not been outraged by the adulterous violator of the adulterously violated.
+
+What retribution, if any?
+
+Assassination, never, as two wrongs did not make one right. Duel by combat, no. Divorce, not now. Exposure by mechanical artifice (automatic bed) or individual testimony (concealed ocular witnesses), not yet. Suit for damages by legal influence or simulation of assault with evidence of injuries sustained (selfinflicted), not impossibly. If any, positively, connivance, introduction of emulation (material, a prosperous rival agency of publicity: moral, a successful rival agent of intimacy), depreciation, alienation, humiliation, separation protecting the one separated from the other, protecting separator from both."
+
+Page 690:
+"I suppose she was pious because no man would look at her twice I hope Ill never be like her"
+
+Page 692-693:
+"why cant you kiss a man without going and marrying him first you sometimes love to wildly when you feel that way so nice all over you you cant help yourself I wish some man or other would take me sometime when hes there and kiss me in his arms theres nothing like a kiss long and hot down to your soul almost paralyses you"
+
+Page 694:
+"whats the idea making us like that with a big hole in the middle of us or like a Stallion driving it up into you because thats all they want out of you with that determined vicious look in his eye I had to halfshut my eyes [...] that's all they want out of you"
+
+Page 694:
+"I let him finish it in me nice invention they made for women for him to get all the pleasure but if someone gave them a touch of it themselves theyd know what I went through"
+
+Page 695:
+"he says your soul you have no soul inside only grey matter because he doesnt know what it is to have one "
+
+Page 696:
+"imagine having to get into bed with a thing like that that might murder you any moment"
+
+Page 696:
+"what do they ask us to marry them for if were so bad as all that comes to yes because they cant get on without us"
+
+Page 703:
+"he ought to chuck that Freeman with the paltry few shillings he knocks out of it and go into a post office or something where hed get regular pay or a bank where they could put him up on a throne to count the money all the day of course he prefers plottering about the house so you cant stir with him any side whats your programme today"
+
+Page 703:
+"I wish hed even smoke a pipe like father to get the smell of a man or pretending to be mooching about for advertisements when he could have been in Mr Cuffes"
+
+Page 704:
+"one of them pretending to hide it with her hand are they so beautiful of course compared with what a man looks like with his two bags full and his other thing hanging down out of him or sticking up at you like a hatrack no wonder they hide it with a cabbageleaf the woman is beauty"
+
+Page 705:
+"like some kind of a big infant I had at me they want everything in their mouth all the pleasure those men get out of a woman"
+
+Page 709:
+"I hate people that have always their poor story to tell everybody has their own troubles"
+
+Page 710:
+"as for being a woman as soon as youre old they might as well throw you out in the bottom of the ashpit"
+
+Page 712:
+"perhaps hes married some girl on the black water and is quite changed they all do they havent half the character a woman has she little knows what I did with her beloved husband before he ever dreamt of her"
+
+Page 714:
+"what do they find to gabber about all night squandering money and getting drunker and drunker couldnt they drink water"
+
+Page 714:
+"then play with the cat she rubs up against you for her own sake I wonder has she fleas shes as bad as a woman always licking and lecking but I hate their claws I wonder do they see anything that we cant staring like that when she sits at the top of the stairs so long and listening"
+
+Page 718:
+"it must be real love if a man gives up his life for her that way for nothing I suppose there are a few men like that left its hard to believe in it though unless it really happened to me the majority of them with not a particle of love in their natures to find two people like that nowadays full up of each other that would feel the same way as you do theyre usually a bit foolish in the head"
+
+Page 718:
+"his father must have been a bit queer to go and poison himself after her still poor old man I suppose he felt lost always making love to my things too the few old rags"
+
+Page 720:
+"I wouldnt mind being a man and get up on a lovely woman"
+
+Page 722-723:
+"I suppose he thinks I dont know deceitful men all their 20 pockets arent enough for their lies [...] hes such a born liar too"
+
+Page 723:
+"no hed never have the courage with a married woman thats why he wants me and Boylan"
+
+Page 725:
+"what do they go about like that for only getting themselves and their poetry laughed at"
+
+Page 725:
+"then if anything goes wrong in their business we have to suffer"
+
+ Page 726:
+ "no thats no way for him has he no manners nor no refinement nor no nothing in his nature slapping us behind like that on my bottom because I didnt call him Hugh the ignoramus that doesnt know poetry from a cabbage thats what you get for not keeping them in their proper place pulling off his shoes and trousers there on the chair before me so barefaced without even asking permission and standing out that vulgar way in the half of a shirt they wear to be admired like a priest or a butcher or those old hypocrites in the time of Julius Caesar of course hes right enough in his way to pass the time as a joke sure you might as well be in bed with what with a lion God Im sure hed have something better to say for himself an old Lion would O well I suppose its because they were so plump and tempting in my short petticoat he couldnt resist they excite myself sometimes its well for men all the amount of pleasure they get off a womans body were so round and white for them always I wished I was one myself for a change just to try with that thing they have swelling up on you so hard and at the same time so soft when you touch it"
+
+Page 726:
+"they can pick and choose what they please a married woman or a fast widow or a girl for their different tastes"
+
+ Page 727:
+ "of course a woman wants to be embraced 20 times a day almost to make her look young no matter by who so long as to be in love or loved by somebody if the fellow you want isnt there sometimes by the Lord God I was thinking would I go around by the quays there some dark evening where nobodyd know me and pick up a sailor off the sea thatd be hot on for it and not care a pin whose I was only do it"
+ 
+Page 727-728:
+"itd be much better for the world to be governed by the women in it you wouldnt see women going and killing one another and slaughtering when do you ever see women rolling around drunk like they do or gambling every penny they have and losing it on horses yes because a woman whatever she does she knows where to stop"
+
+Page 728:
+"they dont know what it is to be a woman and a mother how could they where would they all of them be if they hadnt all a mother to look after them what I never had thats why I suppose hes running wild now out at night away from his books and studies and not living at home on account of the usual rowy house I suppose well its a poor case that those that have a fine son like that theyre not satisfied and I none was he not able to make one it wasnt my fault"
+
+Page 728:
+"they have friends they can talk to weve none either he wants what he wont get or its some woman ready to stick her knife in you I hate that in women no wonder they treat us the way they do we are a dreadful lot of bitches I suppose its all the troubles we have makes us so snappy"
+
+Page 730:
+"I suppose that what a woman is supposed to be there for or He wouldn't have made us the way He did so attractive to men"
+
+Page 731:
+"why dont they go and create something I often asked him atheists or whatever they call themselves go and wash the cobbles off themselves first then they go howling for the priest and they dying and why why because theyre afraid of hell on account of their bad conscience ah yes I know them well who was the first person in the universe before there was anybody that made it all who ah that they dont know neither do I so there you are they might as well try to stop the sun from rising tomorrow the sun shines for you"
+
+Page 731:
+"yes he said I was a flower of the mountain yes so we are flowers all a womans body yes that was one true thing he said in his life and the sun shines for you today yes that was why I liked him because I saw he understood or felt what a woman is and I knew I could always get round him"
