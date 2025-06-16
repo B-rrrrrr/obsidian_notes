@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea.md",
+                "file": "2 Source Material/Ulysses.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Idea"
+              "title": "Ulysses"
             }
           }
         ],
@@ -184,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ae3f80cf359ee8c",
+  "active": "5dff68f8c1ca6f8b",
   "lastOpenFiles": [
-    "Idea.md",
+    "Main Notes/Untitled.md",
     "conflict-files-obsidian-git.md",
+    "Idea.md",
     "5 Templates/Full Note.md",
     "5 Templates",
     "2 Source Material/Ulysses.md",
     "2 Source Material",
-    "Main Notes/Untitled.md",
     "Main Notes/Untitled 1.md",
     "1 Source Material/Ulysses.md",
     "1 Source Material",

@@ -243,3 +243,22 @@ Page 595:
 
 Page 597:
 "He had transparently outlived his welcome. He ought to have either died naturally or on the scaffold high."
+
+Page 598:
+"I resent violence or intolerance in any shape or form. It never reaches anything or stops anything. A revolution must come on the due instalments plan. It's a patent absurdity on the face of it to hate people because they live round the corner and speak another vernacular, so to speak."
+
+Page 599:
+"Where you can live well, the sense is, if you work."
+
+Page 599:
+"—if you work.
+— Count me out, he managed to remark, meaning work.
+The eyes were surprised at this observation, because as he, the person who owned them pro tem., observed, or rather his voice speaking did: All must work, have to, together.
+— I mean, of course, the other hastened to affirm, work in the widest possible sense. Also literary labour, not merely for the kudos of the thing. Writing for the newspapers which is the readiest channel nowadays. That's work too. Important work. After all, from the little I know of you, after all the money expended on your education, you are entitled to recoup yourself and command your price. You have every bit as much right to live by your pen in pursuit of your philosophy as the peasant has. What? You both belong to Ireland, the brain and the brawn. Each is equally important."
+
+Page 605:
+"Can real love, supposing there happens to be another chap in the case, exist between married folk?"
+
+Page 609:
+"that man, or men in the plural, were always hanging around on the waiting list about a lady, even supposing she was the best wife in the world and they got on fairly well together for the sake of argument, when, neglecting her duties, she chose to be tired of wedded life, and was on for a little flutter in polite debauchery to press their attentions on her with improper intent, the upshot being that her affections centred on another, the cause of many _liaisons_ between still attractive married women getting on for fair and forty and younger men, no doubt as several famous cases of feminine infatuation proved up to the hilt."
+
