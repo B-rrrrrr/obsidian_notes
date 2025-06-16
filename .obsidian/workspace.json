@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/Untitled.md",
+                "file": "Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Idea"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "5dff68f8c1ca6f8b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Main Notes/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Idea.md",
     "Main Notes/Untitled 1.md",
     "1 Source Material/Ulysses.md",
