@@ -1,11 +1,16 @@
+# Introduction
+
 Page ix:
 "Worst is beginning"
 
  Page xxiii - xxiv:
  "in realism you are down to facts on which the world is based: that sudden reality which smashes romanticism into a pulp. What makes most people's lives unhappy is some disappointed romanticism, some unrealizable or misconceived ideal. In fact you may say that idealism is the ruin of man, and if we lived down to fact, as primitive man had to do, we would be better off. That is what we were made for. Nature is quite unromantic. It is we who put romance into her, which is a false attitude, an egotism, absurd like all egotisms."
 
+# Telemachus
+
 Page 23:
 "Usurper."
+# Nestor
 
 Page 25:
 "Had Pyrrhus not fallen by a beldam's hand in Argos or Julius Caesar not been knifed to death. They are not to be thought away. Time has branded them and fettered they are lodged in the room of the infinite possibilities they have ousted. But can those have been possible seeing that they never were? Or was that only possible which came to pass? Weave, weaver of the wind."
@@ -16,6 +21,8 @@ Like him was I, these sloping shoulders, this gracelessness. My childhood bends 
 
 Page 34:
 "A woman brought sin into the world. For a woman who was no better than she should be."
+
+# Proteus
 
 Page 37:
 "Ineluctable modality of the visible: at least that if no more, thought through my eyes."
@@ -28,9 +35,14 @@ Page 45:
 
 Page 48:
 "The good bishop of Cloyne took the veil of the temple out of his shovel hat: veil of space with coloured emblems hatched on its field. Hold hard. Coloured on a flat: yes, that's right. Flat I see, then think distance, near, far, flat I see, east, back. Ah, see now! Falls back suddenly, frozen in stereoscope."
+Berkeley argued that reality itself is mental-things do not exist, ideas alone exist-so Berkeley found reality in his own head. The "veil of the temple" separates the "holy place" from the "most holy" place, perhaps an indication that Berkeley goes beyond idealist philosophy to super-idealism in making all reality mental. The rest of the passage follows Berkeley's experiments with vision: we can't see without the mind, what we see as flat, distance is thought not seen; the veil, like a screen, is like the visible world upon which God projects signs (or ideas) to be read and thought; we think them into "stereoscope".
+# Calypso
 
 Page 58:
 "Nothing doing. Still an idea behind it."
+# Lotus Eaters
+
+# Hades
 
 Page 92:
 "Burial friendly society pays. Penny a week for a sod of turf. Our. Little. Beggar. Baby. Meant nothing. Mistake of nature. If it's healthy it's from the mother. If not from the man. Better luck next time. "
@@ -65,11 +77,15 @@ Page 105:
 Page 107:
 "The clay fell softer. Begin to be forgotten. Out of sight, out of mind."
 
+# Aeolus
+
 Page 117:
 "Everything speaks in its own way."
 
 Page 118:
 " And then the lamb and the cat and the dog and the stick and the water and the butcher. And then the angel of death kills the butcher and he kills the ox and the dog kills the cat. Sounds a bit silly till you come to look into it well. Justice it means but it's everybody eating everyone else. That's what life is after all. How quickly he does that job. Practice makes perfect. Seems to see with his fingers. "
+
+# Lestrygonians
 
 Page 156-157:
 "Cityful passing away, other cityful coming, passing away too: other coming on, passing on. Houses, lines of houses, streets, miles of pavements, piledup bricks, stones. Changing hands. This owner, that. Landlord never dies they say. Other steps into his shoes when he gets his notice to quit. They buy the place up with gold and still they have all the gold. Swindle in it somewhere. Piled up in cities, worn away age after age. Pyramids in sand. Built on bread and onions. Slaves Chinese wall. Babylon. Big stones left. Round towers. Rest rubble, sprawling suburbs, jerrybuilt. Kerwan's mushroom houses built of breeze. Shelter, for the night. "
@@ -83,6 +99,8 @@ Page 158:
 Page 161:
 "Am I like that? See ourselves as others see us."
 
+# Scylla and Charybdis
+
 Page 182:
 "Wait. Five months. Molecules all change. I am other I now. Other I got pound.
 Buzz. Buzz.
@@ -90,9 +108,19 @@ But I, entelechy, form of forms, am I by memory because under everchanging forms
 I that sinned and prayed and fasted.
 A child Conmee saved from pandies.
 I, I and I. I."
+entelechy, form of forms: two different ways of saying "soul" as Aristotle means the term: "The soul is the first entelechy of a naturally organic body" and "The intellectual soul is the form of forms". Entelechy = actuality, for Aristotle the form-giving cause capable of reproducing itself.
+I,I - continuity of existence because of memory
+I.I - discontinuity of existence because of everchanging forms
 
 Page 182:
 "A man or genius makes no mistakes. His errors are volitional and are the portals of discovery."
+
+Page 186:
+" — As we, or mother Dana, weave and unweave our bodies, Stephen said, from day to day, their molecules shuttled to and fro, so does the artist weave and unweave his image. And as the mole on my right breast is where it was when I was born, though all my body has been woven of new stuff time after time, so through the ghost of the unquiet father the image of the unliving son looks forth. In the intense instant of imagination, when the mind, Shelley says, is a fading coal, that which I was is that which I am and that which in possibility I may come to be. So in the future, the sister of the past, I may see myself as I sit here now but by reflection from that which then I shall be.
+Drummond of Hawthornden helped you at that stile. "
+"It is with this movement, with the passage and dissolution of impressions, images, sensations, that analysis leaves off - that continual vanishing away, that strange, perpetual, weaving and unweaving of ourselves." - Walter Pater, The Renaissance 1873
+"Poetry is not like reasoning, a power to be exerted according to the determination of the will. A man cannot say, “I will compose poetry.” The greatest poet even cannot say it, for the mind in creation is as a fading coal which some invisible influence like an inconstant wind awakens to transitory brightness; this power arrises from within, like the colour of a flower which fades and changes as it is developed, and the conscious portions of our natures are unprophetic either of its approach or its departure." - P. B. Shelley, A Defense of Poetry 1821
+"If thou dost complain that there shall be a Time in which thou shalt not be, why dost thou not also grieve that there was a time in which thou was not; and so that thou art not as old as that enlivening Planet of Time? ... That will be after us, which, long long before we were, was." - William Drummond of Hawthornden, A Cypresse Grove 1623
 
 Page 189:
 "Was du verlacht hast wirst du noch dienen."
@@ -103,6 +131,8 @@ Page 196:
 Page 199:
 "On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void. Upon incertitude, upon unlikelihood. Amor matris, subjective and objective genitive, may be the only true thing in life."
 
+See 650
+
 Page 199:
 "Paternity may be a legal fiction. Who is the father of any son that any son should love him or he any son?"
 
@@ -112,11 +142,18 @@ Page 199:
 Page 204:
 "Every life is many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves."
 
+# Wandering Rocks
+
 Page 233:
 "She is drowning. Agenbite. Save her. Agenbite. All against us. She will drown me with her, eyes and hair. Lank coils of seaweed hair around me, my heart, my soul. Salt green death.
 We.
 Agenbite of inwit. Inwit's agenbite.
 Misery! Misery!"
+
+# Sirens
+
+# Cyclops
+"Since monocularity allows no depth perception (it takes two eyes sufficiently widely spaced and forward-looking for that), it sits fittingly with bigorty, self-centredness, and rage."
 
 Page 310:
 "A dishonoured wife, that's what the cause of all our misfortunes."
@@ -129,6 +166,9 @@ Page 319:
 
 Page 319:
 "Love loves to love love."
+
+# Nausicaa
+"For Gerty here is the object of this discourse, not its subject; she is constructed by and through it, not vice versa. Similarly, she is the fantasy, not the fantasist. As fantasy, as object, she is also a cultural commodity, a product if societal notions of what 'woman' is or should be. If as Joyce remarked to Power, 'it all took place in Bloom's imagination', Gerty is Bloom's 'Projected Mirage'; she is his fantasy, a product of the masculine desire of what a woman would be for him - 'as fair a specimen of winsome Irish girlhood as one could wish to see'. Or as Gerty says, she is 'more sinned against than sinning'.
 
 Page 352:
 "Lingerie does it. Felt for the curves inside her deshabillé. Excites them also when they're. I'm all clean come and dirty me. And they like dressing one another for the sacrifice."
@@ -145,14 +185,27 @@ Page 363:
 Page 363:
 "O! Exhausted that female has me. Not so young no. Will she come here tomorrow? Wait for her somewhere for ever. Must come back. Murderers do. Will I?"
 
+# Oxen of the Sun
+"Fertility for Joyce came in recirculation and recycling, not purifying and sterilizing."
+
 Page 372:
 "Both babe and parent now glorify their Maker, the one in limbo gloom, the other in purgefire. But, gramercy, what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of Life? For, sirs, he said, our lust is brief. We are means to those small creatures within us and nature has other ends than we."
 
 Page 373:
-"In woman's womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veniet."
+"His words were then these as followeth: Know all men, he said, time's ruins build eternity's mansions. What means this? Desire's wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of time. Mark me now. In woman's womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veniet."
+
+"Every Mortal loss is an Immortal Gain. The Ruins of Time build Mansions in Eternity" - William Blake 1800
 
 Page 374:
-"Or she knew him, that second I say, and was but creature of her creature, vergine madre figlia di tuo figlio or she knew him not and then stands she in the one denial or ignorancy with Peter Piscator who lives in the house that Jack built and with Joseph the joiner patron of the happy demise of all unhappy marriages, parceque M. Léo Taxil nous a dit que qui l'avait mise dans cette fichue position c'était le sacré pigeon, ventre de Dieu! Entweder transubstantiality oder consubstantiality but in no case subsubstantiality. And all cried out upon it for a very scurvy word. A pregnancy without joy, he said, a birth without pangs, a body without blemish, a belly without bigness. Let the lewd with faith and fervour worship. With will will we withstand, withsay. "
+"Or she knew him, that second I say, and was but creature of her creature, vergine madre figlia di tuo figlio or she knew him not and then stands she in the one denial or ignorancy with Peter Piscator who lives in the house that Jack built and with Joseph the joiner patron of the happy demise of all unhappy marriages, parce-que M. Léo Taxil nous a dit que qui l'avait mise dans cette fichue position c'était le sacré pigeon, ventre de Dieu! Entweder transubstantiality oder consubstantiality but in no case subsubstantiality. And all cried out upon it for a very scurvy word. A pregnancy without joy, he said, a birth without pangs, a body without blemish, a belly without bigness. Let the lewd with faith and fervour worship. With will will we withstand, withsay."
+
+Either Mary had sexual knowledge of her child, in which case this was a physical creation or she didn't, meaning she was not impregnated or didn't know what was happening.
+
+Transubstantiality: changing from one substance into another
+Consubstantiality: the uniting as one substance or the existance of one and the same substance
+Subsubstantiality: less than substance or, perhaps, the debasing of substance
+
+These link to the heretics Arius (thought Father and Son not of the same substance but merely of similar, due to the Son being the Father's first creation and therefore inferior to Him. The Counil of Nicacea used the term consubstantial to emphasize that Father and Son are of the same substance) and Sabellius (thought the three members of the trinity were a strict unity, i.e. merely different modes of the same substance)
 
 Page 388:
 "To those who create themselves wits at the cost of feminine delicacy (a habit of mind which he never did hold with) to them he would concede neither to bear the name nor to herit the tradition of a proper breeding: while for such that, having lost all forbearance, can lose no more, there remained the sharp antidote of experience to cause their insolency to beat a precipitate and inglorious retreat. Not but what he could feel with mettlesome youth which, caring nought for the mows of dotards or the gruntlings of the severe, is ever (as the chaste fancy of the Holy Writer expresses it) for eating of the tree forbid it yet not so far forth as to pretermit humanity upon any condition soever towards a gentlewoman when she was about her lawful occasions. To conclude, while from the sister's words he had reckoned upon a speedy delivery he was, however, it must be owned, not a little alleviated by the intelligence that the issue so auspicated after an ordeal of such duress now testified once more to the mercy as well as to the bounty of the Supreme Being."
@@ -175,6 +228,9 @@ Page 399:
 
 Page 400-401:
 "There are sins or (let us call them as the world calls them) evil memories which are hidden away by man in the darkest places of the heart but they abide there and wait. He may suffer their memory to grow dim, let them be as though they had not been and all but persuade himself that they were not or at least were otherwise. Yet a chance word will call them forth suddenly and they will rise up to confront him in the most various circumstances, a vision or a dream, or while timbrel and harp soothe his senses or amid the cool silver tranquility of the evening or at the feast, at midnight, when he is now filled with wine. Not to insult over him will the vision come as over one that lies 400 under her wrath, not for vengeance to cut him off from the living but shrouded in the piteous vesture of the past, silent, remote, reproachful."
+
+# Circe
+"Return of the Repressed" - Sigmund Freud
 
 Page 433:
 "Better one guilty escape than ninetynine wrongfully condemned"
@@ -234,8 +290,33 @@ Stephen's relationship to his dead mother.
 Page 556:
 "To the devil which hath made glad my young days."
 
+# Eumaeus
+"'Preperatory to everything else', Eumaeus begins: begins itself and claims to power to begin Ulysses all over again."
+
 Page 587:
 "Your washing. Still, candour compelled him to admit he had washed his wife's undergarments when soiled in Holles street and women would and did too a man's similar garments initialled with Bewley and Draper's marking ink (hers were, that is) if they really loved him, that is to say. Love me, love my dirty shirt. Still, just then, being on tenterhooks, he desired the female's room more than her company so it came as a genuine relief when the keeper made her a rude sign to take herself off."
+
+Page 588-589:
+"— You, as a good catholic, he observed, talking of body and soul, believe in the soul. Or do you mean the intelligence, the brainpower as such, as distinct from any outside object, the table, let us say, that cup. I believe in that myself because it has been explained by competent men as the convolutions of the grey matter. Otherwise we would never have such inventions as X rays, for instance. Do you?
+
+Thus cornered, Stephen had to make a superhuman effort of memory to try and concentrate and remember before he could say:
+
+— They tell me on the best authority it is a simple substance and therefore incorruptible. It would be immortal, I understand, but for the possibility of its annihilation by its First Cause, Who, from all I can hear, is quite capable of adding that to the number of His other practical jokes, corruptio per se and corruptio per accidens both being excluded by court etiquette. 
+
+Mr Bloom thoroughly acquiesced in the general gist of this though the mystical finesse involved was a bit out of his sublunary depth still he felt bound to enter a demurrer on the head of simple, promptly rejoining:
+
+— Simple? I shouldn't think that is the proper word. Of course, I grant you, to concede a point, you do knock across a simple soul once in a blue moon. But what I am anxious to arrive at is it is one thing for instance to invent those rays Röntgen did, or the telescope like Edison, though I believe it was before his time, Galileo was the man I mean. The same applies to the laws, for example, of a farreaching natural phenomenon such as electricity but it's a horse of quite another colour to say you believe in the existence of a supernatural God.
+
+— O that, Stephen expostulated, has been proved conclusively by several of the bestknown passages in Holy Writ, apart from circumstantial evidence.
+
+On this knotty point, however, the views of the pair, poles apart as they were, both in schooling and everything else, with the marked difference in their respective ages, clashed.
+
+— Has been? the more experienced of the two objected, sticking to his original point. I'm not so sure about that. That's a matter for everyman's opinion and, without dragging in the sectarian side of the business, I beg to differ with you in toto there. My belief is, to tell you the candid truth, that those bits were genuine forgeries all of them put in by monks most probably or it's the big question of our national poet over again, who precisely wrote them, like Hamlet and Bacon, as you who know your Shakespeare infinitely better than I, of course I needn't tell you. Can't you drink that coffee, by the way? Let me stir it. And take a piece of that bun. It's like one of our skipper's bricks disguised. Still, no-one can give what he hasn't got. Try a bit.
+
+— Couldn't, Stephen contrived to get out, his mental organs for the moment refusing to dictate further."
+
+"We must assert that the intellectual principle which we call the human soul is incorruptable. For a thing may be corrupted in two ways - of itself (corruptio per se), and accidentally (per accidens)". - St. Thomas Aquinas, Summa Theologica
+He goes on to argue that soul, being "simple" cannot be corrupted, for "corruption is found only where there is contrariety".
 
 Page 595:
 "England was toppling already and her downfall would be Ireland, her Achilles heel"
@@ -267,6 +348,9 @@ Page 609:
  Page 610:
  "Though they didn't see eye to eye in everything, a certain analogy there somehow was, as if both their minds were travelling, so to speak, in the one train of thought."
 
+# Ithaca
+"Action, so precisely delineated, broken down into such minute constituent movements, applied to such exactly named physical phenomena, virtually ceases to be action."
+
 Page 621:
 "He reflected that the progressive extension of the field of individual development and experience was regressively accompanied by a restriction of the converse domain of interindividual relations.
 As in what ways?
@@ -275,14 +359,30 @@ From inexistence to existence he came to many and was as one received: existence
 Page 630:
 "Concluding by inspection but erroneously that his silent companion was engaged in mental composition he reflected on the pleasures derived from literature of instruction rather than of amusement as he himself had applied to the works of William Shakespeare more than once for the solution of difficult problems in imaginary or real life."
 
+Page 631:
+"What acrostic upon the abbreviation of his first name had he (kinetic poet) sent to Miss Marion (Molly) Tweedy on the 14 February 1888?
+
+_Poets oft have sung in rhyme  
+Of music sweet their praise divine.  
+Let them hymn it nine times nine.  
+Dearer far than song or wine,  
+You are mine. The world is mine."
+
+"The feelings excited by improper art are kinetic, desire or loathing. Desire urges us to possess, to go to something; loathing urges us to abandon, to go from something. These are kinetic emotions. The arts which excite them, pornographical or didactic, are therefore improper arts." - James Joyce, A Portrait of the Artist as a Young Man 
+
 Page 650:
 "He affirmed his significance as a conscious rational animal proceeding syllogistically from the known to the unknown and a conscious rational reagent between a micro- and a macrocosm ineluctably constructed upon the incertitude of the void."
+
+See 199
 
 Page 652-653:
 "Did he find the problems of the inhabitability of the planets and their satellites by a race, given in species, and of the possible social and moral redemption of said race by a redeemer, easier of solution?
 Of a different order of difficulty. Conscious that the human organism, normally capable of sustaining an atmospheric pressure of 19 tons, when elevated to a considerable altitude in the terrestrial atmosphere suffered with arithmetical progression of intensity, according as the line of demarcation between troposphere and stratosphere was approximated, from nasal hemorrhage, impeded respiration and vertigo, when proposing this problem for solution, he had conjectured as a working hypothesis which could not be proved impossible that a more adaptable and differently anatomically constructed race of beings might subsist otherwise under Martian, Mercurial, Veneral, Jovian, Saturnian, Neptunian or Uranian sufficient and equivalent conditions, though an apogean humanity of beings created in varying forms with finite differences resulting similar to the whole and to one another would probably there as here remain inalterably and inalienably attached to vanities, to vanities of vanities and to all that is vanity.
+
 And the problem of possible redemption?
 The minor was proved by the major."
+
+Bloom's problem (major premiss) if life exists elsewhere it is human and therefore subject to human frailties ("vanity"), so (minor premiss), since life exists elsewhere it will be vain, redemption is improbable.
 
 Page 654:
 "That it was not a heaventree, not a heavengrot, not a heavenbeast, not a heavenman. That it was a Utopia, there being no known method from the known to the unknown: an infinity renderable equally finite by the suppositious apposition of one or more bodies equally of the same and of different magnitudes: a mobility of illusory forms immobilised in space, remobilised in air: a past which possibly had ceased to exist as a present before its probable spectators had entered actual present existence. "
@@ -341,6 +441,10 @@ From outrage (matrimony) to outrage (adultery) there arose nought but outrage (c
 What retribution, if any?
 
 Assassination, never, as two wrongs did not make one right. Duel by combat, no. Divorce, not now. Exposure by mechanical artifice (automatic bed) or individual testimony (concealed ocular witnesses), not yet. Suit for damages by legal influence or simulation of assault with evidence of injuries sustained (selfinflicted), not impossibly. If any, positively, connivance, introduction of emulation (material, a prosperous rival agency of publicity: moral, a successful rival agent of intimacy), depreciation, alienation, humiliation, separation protecting the one separated from the other, protecting separator from both."
+
+# Penelope
+"It begins and ends with the female word yes. It turns like the huge earth ball slowly surely and evenly round and round spinning, its four cardinal points being the female breasts, arse, womb and cunt expressed by the words because, bottom, woman, yes. Though probably more obscene than any preceding episode it seems to me to be perfectly sane full amoral fertilisable untrustworthy engaging shrewd limited prudent indifferent Weib. Ich bin der [sic] Fleisch der stets bejaht."
+"The last word (human, all too human) is left to Penelope. This is the indispensable countersign to Bloom's passport to eternity. I mean the last episode Penelope"
 
 Page 690:
 "I suppose she was pious because no man would look at her twice I hope Ill never be like her"
