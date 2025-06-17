@@ -45,26 +45,42 @@ The beginning of the intense misogny in this book, blaming women for everything.
 **Page 37:**
 > Ineluctable modality of the visible: at least that if no more, thought through my eyes.
 
+“The inescapable nature of that which can be seen.”
+Echoes Aristotles thoughts in *De Sensu et Sensibili* and *De Anima*. He considers how individuals perceive the material world and how each sense only exists through the qualities bodies receive: hearing through sound, smell through odour, etc.
+Stephen is thus contemplating the inescapability of the material world.
+
 **Page 38:**
-> There all the time without you : and ever shall be, world without end.
+> See now. There all the time without you : and ever shall be, world without end.
+
+Full quote from the Gloria Patri: “Glory be to the Father, and to the Son, and to the Holy Ghost; as it was in the beginning, is now and ever shall be, world without end”.
+
+Before this quote from the book Stephen has his eyes closed and is contemplating on opening them and this is his reaction to seeing the world again. Again, looking at Page 37, Stephen notices the inescapability of the material world and how despite anything you may do, the world keeps turning.
 
 **Page 45:**
 > He saved men from drowning [...] Would you do what he did? A boat would be near, a lifebuoy. Natürlich, put there for you. Would you or would you not? The man that was drowned nine days ago off Maiden's rock. They are waiting for him now. The truth, spit it out. I would want to. I would try. I am not a strong swimmer. Water cold soft. When I put my face into it in the basin at Clongowes. Can't see! Who's behind me? Out quickly, quickly! Do you see the tide flowing quickly in on all sides, sheeting the lows of sand quickly, shellcocoacoloured? If I had land under my feet. I want his life still to be his, mine to be mine. A drowning man. His human eyes scream to me out of horror of his death. I... With him together down... I could not save her. Waters: bitter death: lost.
 
+The bitter dilemma that comes up when a moral value interferes with our traditional way of thinking and way of acting. Despite everything being in place to save a drowning man, Stephen feels not up to the action and is terrified of it, wishing that the man’ situation is his to deal with and not his, Stephen’s, responsibility. The guilt of the death of his mother also appears at the end of the quote, showing that she still haunts him.
+
 **Page 48:**
 > The good bishop of Cloyne took the veil of the temple out of his shovel hat: veil of space with coloured emblems hatched on its field. Hold hard. Coloured on a flat: yes, that's right. Flat I see, then think distance, near, far, flat I see, east, back. Ah, see now! Falls back suddenly, frozen in stereoscope.
 
-Berkeley argued that reality itself is mental-things do not exist, ideas alone exist-so Berkeley found reality in his own head. The "veil of the temple" separates the "holy place" from the "most holy" place, perhaps an indication that Berkeley goes beyond idealist philosophy to super-idealism in making all reality mental. The rest of the passage follows Berkeley's experiments with vision: we can't see without the mind, what we see as flat, distance is thought not seen; the veil, like a screen, is like the visible world upon which God projects signs (or ideas) to be read and thought; we think them into "stereoscope".
+Berkeley argued that reality itself is mental-things do not exist, ideas alone exist-so Berkeley found reality in his own head. The ‘veil of the temple’ separates the ‘holy place’ from the ‘most holy’ place, perhaps an indication that Berkeley goes beyond idealist philosophy to super-idealism in making all reality mental. The rest of the passage follows Berkeley's experiments with vision: we can't see without the mind, what we see as flat, distance is thought not seen; the veil, like a screen, is like the visible world upon which God projects signs (or ideas) to be read and thought; we think them into ‘stereoscope’.
+
+Continues the thoughts of Pages 37 and 38 giving the idea that the world is a blank slate on which we put or thoughts and ideals onto. Every sense we experience is relating to other things we have experienced, therefore without the mind we don’t experience the world, we cannot see.
 # Calypso
 
 **Page 58:**
 > Nothing doing. Still an idea behind it.
+
+Even when thinking about nothing, there are still thoughts around. Just ones you cannot tell. You cannot tell your thoughts apart from nothing until you realize that it’s an impossibility. 
 # Lotus Eaters
 
 # Hades
 
 **Page 92:**
 > Burial friendly society pays. Penny a week for a sod of turf. Our. Little. Beggar. Baby. Meant nothing. Mistake of nature. If it's healthy it's from the mother. If not from the man. Better luck next time.
+
+Way of viewing the death of Rudy being that in the end he meant nothing to anyone in the grand scheme of things and if you really want a child that you just have to try again and have better luck next time. Also shows the display of the man and female roles in the act of child birth being that if the woman, who endures the 9 months of pregnancy, gives birth to an unhealthy child, then it is the man’s responsibility and vice versa.
 
 **Page 93:**
 > — But the worst of all, Mr Power said, is the man who takes his own life.
@@ -74,51 +90,77 @@ Berkeley argued that reality itself is mental-things do not exist, ideas alone e
 > — They say a man who does it is a coward, Mr Dedalus said.
 > — It is not for us to judge, Martin Cunningham said.
 
+Suicide shown as a very negative thing here as the worst thing a person can do, makes them a coward and is a disgrace to the family. They also regard suicide as a temporal emotion that must be endured and conquered. Cunningham tries to redirect the conversation due to Bloom’s father having killed himself.
+
 **Page 96:**
 > That's the maxim of the law. Better for ninetynine guilty to escape than for one innocent person to be wrongfully condemned.
 
+A parallel to Page 433
+It’s better to know that in a prison everyone has been punished for something they did. Even if guilty people escape, if they redo a crime they will be put back on trial. Innocent people shouldn’t experience the horrors that being guilty brings, a feeling amplified by feelings of being treated unfairly.
+
 **Page 96:**
 > They looked. Murderer's ground. It passed darkly. Shuttered, tenantless, unweeded garden. Whole place gone to hell. Wrongfully condemned. Murder. The murderer's image in the eye of the murdered. They love reading about it. Man's head found in a garden. Her clothing consisted of. How she met her death. Recent outrage. The weapon used. Murderer is still at large. Clues. A shoelace. The body to be exhumed. Murder will out.
+
+Areas where people died became hallowed grounds, a place where their aura remains and taints it. The last thing a person sees when they are murdered is the murdrers face and once somebody is murdered all we care about is who did it and we will find it.
 
 **Page 100:**
 > It's all written down: he has to do it. [...] He must be fed up with that job, shaking that thing over all the corpses they trot up. What harm if he could see what he was shaking it over. Every mortal day a fresh batch: middleaged men, old women, children, women dead in childbirth, men with beards, baldheaded businessmen, consumptive girls with little sparrows' breasts. All the year round he prayed the same thing over them all and shook water on top of them: sleep. On Dignam now.
 > — In paradisum.
 > Said he was going to paradise or is in paradise. Says that over everybody. Tiresome kind of a job. But he has to say something.
 
+Here Bloom mentions how we become desensitized to our daily deeds. After doing this so many times, to so many people that he doesn’t know, how can he properly care about the dead person? But at the end of the day he has to comfort people, not the dead though, the living. The dead don’t matter anymore.
+
 **Page 104:**
 > — I am the resurrection and the life. That touches a man's inmost heart.
 > — It does, Mr Bloom said.
 > Your heart perhaps but what price the fellow in the six feet by two with his toes to the daisies? No touching that. Seat of the affections. Broken heart. A pump after all, pumping thousands of gallons of blood every day. One fine day it gets bunged up: and there you are. Lots of them lying around here: lungs, hearts, livers. Old rusty pumps: damn the thing else. The resurrection and the life. Once you are dead you are dead. That last day idea. Knocking them all up out of their graves. Come forth, Lazarus! And he came fifth and lost the job. Get up! Last day! Then every fellow mousing around for his liver and his lights and the rest of his traps. Find damn all of himself that morning. Pennyweight of powder in a skull. Twelve grammes one pennyweight. Troy measure.
 
+First Bloom comments about how we feel so empowered by pronouncing how much we care about dead people, but what does it matter for them? They aren’t in this world anymore and anything that happens in it has no meaning to them.
+He then talks about how the death is sudden and how by putting ourselves on this high seat, we forget how close we are to death itself. Usually though my thoughts bring me closer to death than away but I digress.
+With the mention of Lazarus Bloom talks about how we wish for the dead to come again and to rejoin us in our lives. Despite the improbability we still wish for it to happen.
+
 **Page 105:**
 > Burying him. We come to bury Caesar. His ideas of March or June. He doesn't know who is here nor care.
+
+Once dead the world loses all meaning. What does it matter if no one cared about you? You are gone and the next step is yet to come if there even is one.
 
 **Page 107:**
 > The clay fell softer. Begin to be forgotten. Out of sight, out of mind.
 
+Once buried a person begins to be forgotten. We think we hold them in our hearts for eternity but eventually a person will not exist anymore, anywhere. Not in real life nor in a memory.
 # Aeolus
 
 **Page 117:**
 > Everything speaks in its own way.
 
+Everyone has their own voice and manners.
+
 **Page 118:**
 > And then the lamb and the cat and the dog and the stick and the water and the butcher. And then the angel of death kills the butcher and he kills the ox and the dog kills the cat. Sounds a bit silly till you come to look into it well. Justice it means but it's everybody eating everyone else. That's what life is after all. How quickly he does that job. Practice makes perfect. Seems to see with his fingers. 
 
+Life is a circle and everyone is merely a part of a greater part. One feeds the other so the other can live. The only person who isn’t a part of the cycle though is the angel of death but I think he sees it as it is: as life. Practice makes perfect.
 # Lestrygonians
 "If Bloom doubles back so does time: contemplating coincidence"
 
 **Page 156-157:**
 > Cityful passing away, other cityful coming, passing away too: other coming on, passing on. Houses, lines of houses, streets, miles of pavements, piledup bricks, stones. Changing hands. This owner, that. Landlord never dies they say. Other steps into his shoes when he gets his notice to quit. They buy the place up with gold and still they have all the gold. Swindle in it somewhere. Piled up in cities, worn away age after age. Pyramids in sand. Built on bread and onions. Slaves Chinese wall. Babylon. Big stones left. Round towers. Rest rubble, sprawling suburbs, jerrybuilt. Kerwan's mushroom houses built of breeze. Shelter, for the night.
 
+
+
 **Page 157:**
 > No one is anything.
+
+We are all tiny specks in a tremendously large world. We are all meaningless at the end of the day.
 
 **Page 158:**
 > Coming events cast their shadows before.
 
+
+
 **Page 161:**
 > Am I like that? See ourselves as others see us.
 
+A thought I’ve had before, where once I see myself in say a mirror or hear myself or see my actions being performed by another, I wonder if I really am that bad and just in general shit. Am I like that and do people see this as me and despite the thing they see being terrible do they still want to interact with it?
 # Scylla and Charybdis
 
 **Page 182:**
@@ -259,6 +301,8 @@ These link to the heretics Arius (thought Father and Son not of the same substan
 
 **Page 433:**
 > Better one guilty escape than ninetynine wrongfully condemned.
+
+Parallel to Page 96
 
 **Page 446:**
 > You are a perfect stranger.
