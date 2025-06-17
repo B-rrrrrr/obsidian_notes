@@ -11,10 +11,24 @@
             "id": "2db58c02a70287fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 Source Material/Ulysses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ulysses"
             }
           }
         ]
@@ -167,8 +181,8 @@
   },
   "active": "2db58c02a70287fb",
   "lastOpenFiles": [
-    "2 Source Material/Ulysses.md",
     "conflict-files-obsidian-git.md",
+    "2 Source Material/Ulysses.md",
     "5 Templates/Full Note.md",
     "Idea.md",
     "Main Notes/Untitled.md",

@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "tab2",
+    "tab"
+  ]
+}
