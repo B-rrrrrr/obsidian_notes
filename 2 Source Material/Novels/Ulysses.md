@@ -3,26 +3,43 @@
 **Page ix:**
 > Worst is beginning
 
- **Page xxiii - xxiv:**
->  in realism you are down to facts on which the world is based: that sudden reality which smashes romanticism intpulp. What makes most people's lives unhappy is some disappointed romanticism, some unrealizable or misconceivedo a  ideal. In fact you may say that idealism is the ruin of man, and if we lived down to fact, as primitive man had to do, we would be better off. That is what we were made for. Nature is quite unromantic. It is we who put romance into her, which is a false attitude, an egotism, absurd like all egotisms.
+Quite literally what I always experience every time I get to work. Especially in regards to difficult literature (Ulysses) the hardest part was always starting out and once I got into it then everything progressed easier. Of course also applies to procrastination with trying to delay the start because of the uncomfort it brings, but once you get into it, it's not that bad.
 
+ **Page xxiii - xxiv:**
+>  in realism you are down to facts on which the world is based: that sudden reality which smashes romanticism into a pulp. What makes most people's lives unhappy is some disappointed romanticism, some unrealizable or misconceived ideal. In fact you may say that idealism is the ruin of man, and if we lived down to fact, as primitive man had to do, we would be better off. That is what we were made for. Nature is quite unromantic. It is we who put romance into her, which is a false attitude, an egotism, absurd like all egotisms.
+
+idealism = the unrealistic belief or pursuit of perfection
+
+Here Joyce talks about how we create and think with things that move from the real to the fiction and how we then use these moves of fiction as the way that life or nature should be. This leads us to be unhappy and some say that this is the ruin of man and that primitive men were better off, which rings of nihilstic belief and the idea that consciousness is an evolutionary mistake. He also claims that it is egotistic to put fictious elements in those which have none.
 # Telemachus
 
 **Page 23:**
 > Usurper.
+
+Stephen sees himself as being usurped in three ways even though he is technically the usurper in regards to The Odyssey by Homer with Penelopes suitors being usurpers of Odysseuses house (Stephen stays at the Tower even though he doesn't pay rent or his debts)
+1. By Buck stealing the affection and attention from his fellow countryfolk (milkwoman)
+2. By Buck taking control of the Martello tower.
+3. By Haines taking on Irish culture as his own.
 # Nestor
 
 **Page 25:**
 > Had Pyrrhus not fallen by a beldam's hand in Argos or Julius Caesar not been knifed to death. They are not to be thought away. Time has branded them and fettered they are lodged in the room of the infinite possibilities they have ousted. But can those have been possible seeing that they never were? Or was that only possible which came to pass? Weave, weaver of the wind.
+
+"Pyrrhic Victory" = victory that comes at a great cost and making it debateable of whether or not the action was worth it
+
+I think here Stephen is contemplating about how everything is always possible and how that once an event happens, that all these other possibilities are lost and were therefore impossible... or were they? I think parallel universes continue this trend of thought, considering the other possibilities of every situation and outcome and how these are not necessarily impossible but just didn't happen in this case.
 
 **Page 28-29:**
 > Ugly and futile: lean neck and tangled hair and a stain of ink, a snail's bed. Yet someone had loved him, borne him in her arms and in her heart. But for her the race of the world would have trampled him underfoot, a squashed boneless snail. She had loved his weak watery blood drained from her own. Was that then real? The only true thing in life? His mother's prostrate body the fiery Columbanus in holy zeal bestrode. She was no more: the trembling skeleton of a twig burnt in the fire, an odour of rosewood and wetted ashes. She had saved him from being trampled underfoot and had gone, scarcely having been. A poor soul gone to heaven: and on a heath beneath winking stars a fox, red reek of rapine in his fur, with merciless bright eyes scraped in the earth, listened, scraped up the earth, listened, scraped and scraped. [...] 
 > 
 > Like him was I, these sloping shoulders, this gracelessness. My childhood bends beside me. Too far for me to lay a hand there once or lightly. Mine is far and his secret as our eyes. Secrets, silent, stony sit in the dark palaces of both our hearts: secrets weary of their tyranny: tyrants, willing to be dethroned. The sum was done.
 
+A view that I also share, where by viewing people that used to be in my position or similar, that I look at their imperfections and contemplate their background, wondering how similar they were to me. It also echoes a sense of self-hatred where when one views one's past self as being worse than they are now. I guess that could also be seen as positive. At the end of the day though we are all humans and so much that we have experienced we have all experienced.
+
 **Page 34:**
 > A woman brought sin into the world. For a woman who was no better than she should be.
 
+The beginning of the intense misogny in this book, blaming women for everything. However it must be noted that Penelope (Molly) shares this belief in both women and men. With her being seen as potentially one of the villians of the book this belief is almost believable until you realise how Leopold Bloom, Stephen Dedalus and more have also engaged in sinful behaviour. 
 # Proteus
 
 **Page 37:**
@@ -37,7 +54,7 @@
 **Page 48:**
 > The good bishop of Cloyne took the veil of the temple out of his shovel hat: veil of space with coloured emblems hatched on its field. Hold hard. Coloured on a flat: yes, that's right. Flat I see, then think distance, near, far, flat I see, east, back. Ah, see now! Falls back suddenly, frozen in stereoscope.
 
-Berkeley argued that reality itself is mental-things do not exist, ideas alone exist-so Berkeley found reality in his own head. The "veil of the temple" separates the "holy place" from the "most holy" place, perhaps an indication that Berkeley goes beyond idealist 			philosophy to super-idealism in making all reality mental. The rest of the passage follows Berkeley's experiments with vision: we can't see without the mind, what we see as flat, distance is thought not seen; the veil, like a screen, is like the visible world upon which God projects signs (or ideas) to be read and thought; we think them into "stereoscope".
+Berkeley argued that reality itself is mental-things do not exist, ideas alone exist-so Berkeley found reality in his own head. The "veil of the temple" separates the "holy place" from the "most holy" place, perhaps an indication that Berkeley goes beyond idealist philosophy to super-idealism in making all reality mental. The rest of the passage follows Berkeley's experiments with vision: we can't see without the mind, what we see as flat, distance is thought not seen; the veil, like a screen, is like the visible world upon which God projects signs (or ideas) to be read and thought; we think them into "stereoscope".
 # Calypso
 
 **Page 58:**
