@@ -21,3 +21,8 @@
     text-indent: 0;
     /* background-color: red; */
 }
+
+p {
+    text-indent:10px;
+}
+

@@ -210,10 +210,10 @@ See 650
 Either Mary had sexual knowledge of her child, in which case this was a physical creation or she didn't, meaning she was not impregnated or didn't know what was happening.
 
 Transubstantiality: changing from one substance into another
-Consubstantiality: the uniting as one substance or the existance of one and the same substance
+Consubstantiality: the uniting as one substance or the existence of one and the same substance
 Subsubstantiality: less than substance or, perhaps, the debasing of substance
 
-These link to the heretics Arius (thought Father and Son not of the same substance but merely of similar, due to the Son being the Father's first creation and therefore inferior to Him. The Counil of Nicacea used the term consubstantial to emphasize that Father and Son are of the same substance) and Sabellius (thought the three members of the trinity were a strict unity, i.e. merely different modes of the same substance)
+These link to the heretics Arius (thought Father and Son not of the same substance but merely of similar, due to the Son being the Father's first creation and therefore inferior to Him. The Council of Nicacea used the term consubstantial to emphasize that Father and Son are of the same substance) and Sabellius (thought the three members of the trinity were a strict unity, i.e. merely different modes of the same substance)
 
 **Page 388:**
 > To those who create themselves wits at the cost of feminine delicacy (a habit of mind which he never did hold with) to them he would concede neither to bear the name nor to herit the tradition of a proper breeding: while for such that, having lost all forbearance, can lose no more, there remained the sharp antidote of experience to cause their insolency to beat a precipitate and inglorious retreat. Not but what he could feel with mettlesome youth which, caring nought for the mows of dotards or the gruntlings of the severe, is ever (as the chaste fancy of the Holy Writer expresses it) for eating of the tree forbid it yet not so far forth as to pretermit humanity upon any condition soever towards a gentlewoman when she was about her lawful occasions. To conclude, while from the sister's words he had reckoned upon a speedy delivery he was, however, it must be owned, not a little alleviated by the intelligence that the issue so auspicated after an ordeal of such duress now testified once more to the mercy as well as to the bounty of the Supreme Being.
@@ -324,7 +324,7 @@ Stephen's relationship to his dead mother.
 > — Couldn't, Stephen contrived to get out, his mental organs for the moment refusing to dictate further.
 
 "We must assert that the intellectual principle which we call the human soul is incorruptable. For a thing may be corrupted in two ways - of itself (corruptio per se), and accidentally (per accidens)". - St. Thomas Aquinas, Summa Theologica
-He goes on to argue that soul, being "simple" cannot be corrupted, for "corruption is found only where there is contrariety".
+He goes on to argue that soul, being "simple" cannot be corrupted, for "corruption is found only where there is contrariety"
 
 **Page 595:**
 > England was toppling already and her downfall would be Ireland, her Achilles heel.
@@ -447,11 +447,7 @@ Bloom's problem (major premiss) if life exists elsewhere it is human and therefo
 > Assassination, never, as two wrongs did not make one right. Duel by combat, no. Divorce, not now. Exposure by mechanical artifice (automatic bed) or individual testimony (concealed ocular witnesses), not yet. Suit for damages by legal influence or simulation of assault with evidence of injuries sustained (selfinflicted), not impossibly. If any, positively, connivance, introduction of emulation (material, a prosperous rival agency of publicity: moral, a successful rival agent of intimacy), depreciation, alienation, humiliation, separation protecting the one separated from the other, protecting separator from both.
 
 # Penelope
-"It begins and ends with the female word yes. It turns like the huge earth ball slowly surely and evenly round and round spinning, its four cardinal points being the female breasts, arse, womb and cunt expressed by the words because, bottom, woman, yes. Though probably more obscene than any preceding episode it seems to me to be perfectly sane full amoral fertilisable untrustworthy engaging shrewd limited prudent indifferent Weib. Ich bin der [sic] Fleisch der stets bejaht.
-
-asdasdasdasdasdasdasdasdasd
-"The last word (human, all too human) is left to Penelope. This is the indispensable countersign to Bloom's passport to eternity. I mean the last episode Penelope"
-
+"It begins and ends with the female word yes. It turns like the huge earth ball slowly surely and evenly round and round spinning, its four cardinal points being the female breasts, arse, womb and cunt expressed by the words because, bottom, woman, yes. Though probably more obscene than any preceding episode it seems to me to be perfectly sane full amoral fertilisable untrustworthy engaging shrewd limited prudent indifferent Weib. Ich bin der [sic] Fleisch der stets bejaht. The last word (human, all too human) is left to Penelope. This is the indispensable countersign to Bloom's passport to eternity. I mean the last episode Penelope"
 
 **Page 690:**
 > I suppose she was pious because no man would look at her twice I hope Ill never be like her

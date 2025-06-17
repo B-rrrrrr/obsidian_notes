@@ -1,5 +1,9 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "6 Main Notes",
-  "useTab": true
+  "useTab": true,
+  "spellcheck": false,
+  "tabSize": 3,
+  "showLineNumber": false,
+  "strictLineBreaks": true
 }
