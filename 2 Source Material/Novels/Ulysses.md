@@ -145,7 +145,7 @@ Life is a circle and everyone is merely a part of a greater part. One feeds the 
 **Page 156-157:**
 > Cityful passing away, other cityful coming, passing away too: other coming on, passing on. Houses, lines of houses, streets, miles of pavements, piledup bricks, stones. Changing hands. This owner, that. Landlord never dies they say. Other steps into his shoes when he gets his notice to quit. They buy the place up with gold and still they have all the gold. Swindle in it somewhere. Piled up in cities, worn away age after age. Pyramids in sand. Built on bread and onions. Slaves Chinese wall. Babylon. Big stones left. Round towers. Rest rubble, sprawling suburbs, jerrybuilt. Kerwan's mushroom houses built of breeze. Shelter, for the night.
 
-
+We are small things in this world and in the end only the things we create and the symbols we leave behind are what people remember. Also we are able to be replaced and aren’t fixed to be here forever. The landlord never dies, he is replaced and continues to live on.
 
 **Page 157:**
 > No one is anything.
@@ -155,7 +155,7 @@ We are all tiny specks in a tremendously large world. We are all meaningless at 
 **Page 158:**
 > Coming events cast their shadows before.
 
-
+Happens over and over again in Ulysses. Kind of a reverse deja vu and how our actions do have consequences. If we don’t change ourselves and improve we will spiral down to whatever we are going to, whether that be good or bad.
 
 **Page 161:**
 > Am I like that? See ourselves as others see us.
