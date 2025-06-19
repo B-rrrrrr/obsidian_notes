@@ -16,3 +16,6 @@
 
 **Page 17:**
 > Is it disrespectful to the House to love some Statues more than others? I sometimes ask Myself this question. It is my belief that the House itself loves and blesses equally everything that it has created. Should I try to do the same? Yet, at the same time, I can see that it is in the nature of men to prefer one thing to another, to find one thing more meaningful than another.
+
+**Page 30-31:**
+> In the Air he was a miraculous being - a Heavenly Being - but on the Stones of the Pavement he was mortal and subject to the same embarrassments and clumsiness as other mortals.

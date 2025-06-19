@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Source Material/Novels/Ulysses.md",
+                "file": "2 Source Material/Novels/Piranesi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ulysses"
+              "title": "Piranesi"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "5dff68f8c1ca6f8b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "2 Source Material/Novels/Ulysses.md",
+    "conflict-files-obsidian-git.md",
     "2 Source Material/Novels/Piranesi.md",
     "OneNote",
     "2 Source Material/Poetry/Thomas Ligotti/This Degenerate Little Town.md",
