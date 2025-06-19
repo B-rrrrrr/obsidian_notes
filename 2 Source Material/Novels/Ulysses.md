@@ -172,15 +172,19 @@ A thought I’ve had before, where once I see myself in say a mirror or hear mys
 > I, I and I. I."
 
 Entelechy, form of forms: two different ways of saying "soul" as Aristotle means the term: "The soul is the first entelechy of a naturally organic body" and "The intellectual soul is the form of forms". Entelechy = actuality, for Aristotle the form-giving cause capable of reproducing itself.
+
 I,I - continuity of existence because of memory
 I.I - discontinuity of existence because of everchanging forms
+
+Lots of words that contradict each other but I think the main point out of this is how we all keep changing and that this change is both continuous, we remember ourselves in a certain way and for us everything is a logical a to b type of existence, and discontinuous due to our bodies changing which is a really interesting perspective.
 
 **Page 182:**
 > A man or genius makes no mistakes. His errors are volitional and are the portals of discovery.
 
+Only by making mistakes do we find the truths of life and through accidents special things are discovered. A lot of parts in Ulysses are plaged with errors and also misinformed belief and yet Joyce says that he agrees with the changes, especially in Penelope.
+
 **Page 186:**
-> — As we, or mother Dana, weave and unweave our bodies, Stephen said, from day to day, their molecules shuttled to and fro, so does the artist weave and unweave his image. And as the mole on my right breast is where it was when I was born, though all my body has been woven of new stuff time after time, so through the ghost of the unquiet father the image of the unliving son looks forth. 
-> In the intense instant of imagination, when the mind, Shelley says, is a fading coal, that which I was is that which I am and that which in possibility I may come to be. So in the future, the sister of the past, I may see myself as I sit here now but by reflection from that which then I shall be.
+> — As we, or mother Dana, weave and unweave our bodies, Stephen said, from day to day, their molecules shuttled to and fro, so does the artist weave and unweave his image. And as the mole on my right breast is where it was when I was born, though all my body has been woven of new stuff time after time, so through the ghost of the unquiet father the image of the unliving son looks forth. In the intense instant of imagination, when the mind, Shelley says, is a fading coal, that which I was is that which I am and that which in possibility I may come to be. So in the future, the sister of the past, I may see myself as I sit here now but by reflection from that which then I shall be.
 > Drummond of Hawthornden helped you at that stile.
 
 "It is with this movement, with the passage and dissolution of impressions, images, sensations, that analysis leaves off - that continual vanishing away, that strange, perpetual, weaving and unweaving of ourselves." - Walter Pater, *The Renaissance* (1873)
@@ -189,25 +193,43 @@ I.I - discontinuity of existence because of everchanging forms
 
 "If thou dost complain that there shall be a Time in which thou shalt not be, why dost thou not also grieve that there was a time in which thou was not; and so that thou art not as old as that enlivening Planet of Time? ... That will be after us, which, long long before we were, was." - William Drummond of Hawthornden, *A Cypresse Grove* (1623)
 
+Really interesting words from Stephen here. I think he is commenting on how the artist cannot control what happens in his mind and how the image of the artist changes constantly. And yet there are some parts that remain from the beginning that continue to breathe new life into future and past art. The coal also shows how one cannot control when the inspiration strikes; it just does. He also regards at how his future self might regard him, thanking him or hating him for the work he does then. That remark is reiinterperated from Hawthronden who comments that we should be grateful for being here now than worried about when we are gone.
+
 **Page 189:**
 > Was du verlacht hast wirst du noch dienen.
 
+A warning. A lot of the people we criticize or make fun of are people we end up obeying, usually because we have to. Perhaps this is just the way our brains cope with the fact of having people in a position higher than ours. Hmm
+
 **Page 196:**
 > The sense of beauty leads us astray.
+
+Misogynistic excuse. Notice though how it says sense instead of just beauty. Could mean how every woman or man or whatever has something that could lead someone away from that which truly matters. In a way reminds me of the human carvings in Junji Ito’s Amigara Fault.
 
 **Page 199:**
 > On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void. Upon incertitude, upon unlikelihood. Amor matris, subjective and objective genitive, may be the only true thing in life.
 
 See 650
+Definitely have to revisit this after reading about the void from Nietzsche. 
+However without that knowledge I’d say this is a criticism to the church and religion and how it is founded not on the basis of loving one another but rather on our incertitude about everything. The church is a coping method for that.
 
 **Page 199:**
 > Paternity may be a legal fiction. Who is the father of any son that any son should love him or he any son?
 
+legal fiction = an assertion accepted as true (though probably fictitious) to achieve a useful purpose, esp. in legal matters
+
+Put in simple English: is the person that somebody loves their son / is the person who is loved by somebody their father
+Brings very early insight into the father/son dynamic of Bloom and Stephen and puts into question of role models and how one can become a father or son figure for the other.
+
 **Page 199:**
 > The son unborn mars beauty: born, he brings pain, divides affection, increases care. He is a male: his growth is his father's decline, his youth his father's envy, his friend his father's enemy.
 
+Before knowing someone we can proclaim all our wishes and desires upon them and once we make contact all or most of those thoughts vanish. 
+In regards to male children, it shows how the father is getting progressivly weaker and more useless as he ages and is dissolving his ego and his masculinity. He envies therefore the youth and any great things that his child may do he intrinsicaly wishes on their downfall so that he may be seen as greater. 
+
 **Page 204:**
 > Every life is many days, day after day. We walk through ourselves, meeting robbers, ghosts, giants, old men, young men, wives, widows, brothers-in-love, but always meeting ourselves.
+
+We have thoughts imprinted on others. We think we know people and therefore they have expectations for us. Thus we walk through and meet ourselves. Also life is long.
 
 # Wandering Rocks
 
@@ -217,6 +239,9 @@ See 650
 > Agenbite of inwit. Inwit's agenbite.
 > Misery! Misery!
 
+Agenbite of inwit = remorse of conscience
+
+Good way of describing the events of Circe and is an expression that means a lot to Stephen and the death of his mother. Though remorse of conscience can have a repressive, paralyzing effect, as in Stephen’s case, it is also vaguely positive. A self-conscious awareness of the past, even the sins of the past, helps constitute an individual as an ethical being in the present.
 # Sirens
 "All art constantly aspires towards the condition of music." - Walter Pater, *The Renaissance* (1873)
 # Cyclops
@@ -225,33 +250,49 @@ See 650
 **Page 310:**
 > A dishonoured wife, that's what the cause of all our misfortunes.
 
+If you base your entire happiness onto a woman and she misuses your trust and becomes dishonoured then definitely it will cause a downward spiral into madness and unhappiness. However I don’t think that’s what they’re referring to and I think it’s just more misogny from them. Could also be a way of looking into the Bloom and Molly relationship and how for Bloom the dishonoured wife really doesn’t cause him that much misfortune and moreso inconviences him.
+
 **Page 317:**
 > A nation? A nation is the same people living in the same place.
+
+I mean at the end of the day it’s a made up bs thing created by society so any definition of a nation is going to tumble into little itty bitty pieces. Bloom picked a good choice though since he as an Irish man who is jewish finds quite some contention in regards to his nationality.
 
 **Page 319:**
 > But it's no use. Force, hatred, history, all that. That's not life for men and women, insult and hatred. And everybody know that it's the very opposite of that that is really life. [...] Love.
 
+If we truly all hated each other we wouldn’t be where we are today and we wouldn’t find the joys in life. That’s where love and compassion enter the game.
+
 **Page 319:**
 > Love loves to love love.
 
+Mean way of looking at it but it does come from the I. He sees love as an egotistical way of thought and how if once you love something you feel that everyone should love it as way. Love breeds love. Although putting it like that makes it sound quite positive. Hmm
 # Nausicaa
 "For Gerty here is the object of this discourse, not its subject; she is constructed by and through it, not vice versa. Similarly, she is the fantasy, not the fantasist. As fantasy, as object, she is also a cultural commodity, a product if societal notions of what 'woman' is or should be. If as Joyce remarked to Power, 'it all took place in Bloom's imagination', Gerty is Bloom's 'Projected Mirage'; she is his fantasy, a product of the masculine desire of what a woman would be for him - 'as fair a specimen of winsome Irish girlhood as one could wish to see'. Or as Gerty says, she is 'more sinned against than sinning'."
 
 **Page 352:**
 > Lingerie does it. Felt for the curves inside her deshabillé. Excites them also when they're. I'm all clean come and dirty me. And they like dressing one another for the sacrifice.
 
+
+
 **Page 358:**
 > Dogs at each other behind. Good evening. Evening. How do you sniff? Hm. Hm. Very well, thank you. Animals go by that. Yes now, look at it that way. We're the same. Some women for instance warn you off when they have their period. Come near. Then get a hogo you could hang your hat on. Like what? Potted herrings gone stale or. Boof! Please keep off the grass.
+
+Primal insticts. That’s what sex and love is at the end of the day.
 
 **Page 359:**
 > I am a fool perhaps. He gets the plums and I the plumstones.
 
+Really well done saying that describes Bloom’s situation. All he’s left with is the remains of what used to be, not nothing though, just the core. But is the core better than the plum itself? The outside goes away but the seed does not. It grows again and shows itself again.
+
 **Page 363:**
 > Ugly : no woman thinks she is. Love, lie and be handsome for tomorrow we die.
+
+As time goes on their beauty dies out. Until then women think they are beautiful because they know they will get worse.
 
 **Page 363:**
 > O! Exhausted that female has me. Not so young no. Will she come here tomorrow? Wait for her somewhere for ever. Must come back. Murderers do. Will I?
 
+Also something I did. Not the jacking off part though, mind you. However the neverending wait to see someone again in the hopes that I can experience them again. But eventually I won’t be there waiting. I will grow tired and I won’t come back. But they might. Will I?
 # Oxen of the Sun
 "Fertility for Joyce came in recirculation and recycling, not purifying and sterilizing."
 
