@@ -272,7 +272,7 @@ Mean way of looking at it but it does come from the I. He sees love as an egotis
 **Page 352:**
 > Lingerie does it. Felt for the curves inside her deshabillé. Excites them also when they're. I'm all clean come and dirty me. And they like dressing one another for the sacrifice.
 
-
+Despite sex being such a personal experience filled with love from both sides there still needs a kind of attraction between both parties, though usually from the female/bottom side and this kind of breaks off from the fact that sex is an activity of love and not lust. Also despite the pleasures that sex brings it still can be painful and makes one vulnerable to the other, therefore the phrase the sacrifice.
 
 **Page 358:**
 > Dogs at each other behind. Good evening. Evening. How do you sniff? Hm. Hm. Very well, thank you. Animals go by that. Yes now, look at it that way. We're the same. Some women for instance warn you off when they have their period. Come near. Then get a hogo you could hang your hat on. Like what? Potted herrings gone stale or. Boof! Please keep off the grass.
@@ -299,21 +299,29 @@ Also something I did. Not the jacking off part though, mind you. However the nev
 **Page 372:**
 > Both babe and parent now glorify their Maker, the one in limbo gloom, the other in purgefire. But, gramercy, what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of Life? For, sirs, he said, our lust is brief. We are means to those small creatures within us and nature has other ends than we.
 
+At a stillbirth the baby would go to limbo and the mother to purgatory
+
+Here Stephen is referring to masturbation and the sperm (godpossibled souls) that eventually dies and he wonders whether these souls will go to limbo or not. He also excuses his sin by saying that we are means to nature and the temptations that control us. 
+
 **Page 373:**
-> His words were then these as followeth: Know all men, he said, time's ruins build eternity's mansions. What means this? Desire's wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of time. Mark me now. In woman's womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veniet.
+> His words were then these as followeth: Know all men, he said, time's ruins build eternity's mansions. What means this? Desire's wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of time. Mark me now. In woman's womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veniet. (All flesh will come to you.)
 
 "Every Mortal loss is an Immortal Gain. The Ruins of Time build Mansions in Eternity" - William Blake (1800)
+
+First of all this sentence is beautiful and I love it so goddamn much it’s insane. Basically what it’s saying is that everytime this world loses someone, the afterlife grows. One loses, the other gains, except it’s worded so wonderfully.
+
 
 **Page 374:**
 > Or she knew him, that second I say, and was but creature of her creature, vergine madre figlia di tuo figlio or she knew him not and then stands she in the one denial or ignorancy with Peter Piscator who lives in the house that Jack built and with Joseph the joiner patron of the happy demise of all unhappy marriages, parce-que M. Léo Taxil nous a dit que qui l'avait mise dans cette fichue position c'était le sacré pigeon, ventre de Dieu! Entweder transubstantiality oder consubstantiality but in no case subsubstantiality. And all cried out upon it for a very scurvy word. A pregnancy without joy, he said, a birth without pangs, a body without blemish, a belly without bigness. Let the lewd with faith and fervour worship. With will will we withstand, withsay.
 
 Either Mary had sexual knowledge of her child, in which case this was a physical creation or she didn't, meaning she was not impregnated or didn't know what was happening.
 
-Transubstantiality: changing from one substance into another
-Consubstantiality: the uniting as one substance or the existence of one and the same substance
-Subsubstantiality: less than substance or, perhaps, the debasing of substance
-
+- Transubstantiality: changing from one substance into another
+- Consubstantiality: the uniting as one substance or the existence of one and the same substance
+- Subsubstantiality: less than substance or, perhaps, the debasing of substance
 These link to the heretics Arius (thought Father and Son not of the same substance but merely of similar, due to the Son being the Father's first creation and therefore inferior to Him. The Council of Nicacea used the term consubstantial to emphasize that Father and Son are of the same substance) and Sabellius (thought the three members of the trinity were a strict unity, i.e. merely different modes of the same substance)
+
+
 
 **Page 388:**
 > To those who create themselves wits at the cost of feminine delicacy (a habit of mind which he never did hold with) to them he would concede neither to bear the name nor to herit the tradition of a proper breeding: while for such that, having lost all forbearance, can lose no more, there remained the sharp antidote of experience to cause their insolency to beat a precipitate and inglorious retreat. Not but what he could feel with mettlesome youth which, caring nought for the mows of dotards or the gruntlings of the severe, is ever (as the chaste fancy of the Holy Writer expresses it) for eating of the tree forbid it yet not so far forth as to pretermit humanity upon any condition soever towards a gentlewoman when she was about her lawful occasions. To conclude, while from the sister's words he had reckoned upon a speedy delivery he was, however, it must be owned, not a little alleviated by the intelligence that the issue so auspicated after an ordeal of such duress now testified once more to the mercy as well as to the bounty of the Supreme Being.
@@ -344,9 +352,12 @@ These link to the heretics Arius (thought Father and Son not of the same substan
 > Better one guilty escape than ninetynine wrongfully condemned.
 
 Parallel to Page 96
+Here the wording makes it seem that he is the guilty who is trying to escape rather than with the other wording. They still mean the exact same thing though.
 
 **Page 446:**
 > You are a perfect stranger.
+
+Badass line. You’ve changed so much or the person who is speaking this to you is so disgusted with your prescense and manners they see you as a person that they pass on the street and want to never see again.
 
 **Page 449:**
 > You're [Bloom] not his [Stephen] father, are you?
@@ -365,11 +376,17 @@ Two temperaments: "The scientific. The artistic." Page 635
 **Page 471:**
 > You are a necessary evil.
 
+Only by experiencing or doing horrible things do we realise how bad they are.
+
 **Page 471:**
 > What the eye can't see the heart can't grieve for.
 
+Kinda reminds me of that one experiment where you had to shock someone when told to without seeing them (Milgram’s Experiment). Blinded by your imagination you forget the humanity. 
+
 **Page 474:**
 > Death is the highest form of life.
+
+Once death becomes visible to us do we see what we actually have to do and what has meaning. Only then do we actually stop wasting our time with meaningless things and we move on in life.
 
 **Page 485:**
 > Ocularly woman's bivalve case is worse. Always open sesame. The cloven sex. Why they fear vermin, creeping things. Yet Eve and the serpent contradicts. Not a historical fact. Obvious analogy to my idea. Serpents too are gluttons for woman's milk. Wind their way through miles of omnivorous forest to sucksucculent her breast dry. Like those bubblyjocular Roman matrons one reads of in Elephantuliasis.
@@ -377,22 +394,35 @@ Two temperaments: "The scientific. The artistic." Page 635
 **Page 485:**
 > Instinct rules the world. In life. In death.
 
+Just human nature. We do as we please whenever we please how we please.
+
 **Page 487:**
 > Spirit is willing but the flesh is weak.
+
+We want to advance and become better but our bodies condense us down to a form worse than what we want. This is where stuff like AI can advance beyond us due to them not being limited by a physical form in the way we are. Also shows for sport where my brain might want to keep pushing but my body does not.
 
 **Page 496:**
 > Exuberant female. Enourmously I desiderate your domination. I am exhausted, abandoned, no more young.
 
+
+
 **Page 503:**
 > The sins of your past are rising against you. Many. Hundreds.
+
+"Return of the Repressed" - Sigmund Freud
+Consequences of our actions do not die out after the fulfillment of them. Also shows for stuff like procrastination or inaction or not doing enough like say not practicing enough for a concert or something like that where the limited amount that you did for yourself shows itself to all and most importantly to yourself.
 
 **Page 508:**
 > Bloom: Ten and six. The act of low scoundrels. Let me go. I will return. I will prove...
 > A voice: Swear!
 > Bello: As a paying guest or a kept man? Too late. You have made your secondbest bed and others must lie in it. Your epitaph is written. You are down and out and don't you forget it, old bean.
 
+He wants to become better for others and himself but he cannot revert his actions. They are done and he has no choice but to show them to others and let them experience the consequences or the actions.
+
 **Page 528:**
 > Thou thoughtest as how thou wastest invisible.
+
+We think as though our actions have no consequences to others and that we are sole humans that don’t impact anyone.
 
 **Page 539-542:**
 Stephen's relationship to his dead mother.
@@ -400,6 +430,7 @@ Stephen's relationship to his dead mother.
 **Page 556:**
 > To the devil which hath made glad my young days.
 
+We’d rather wish to have joy in this temporary world than have joy in the eternal world. aka rather hell than heaven.
 # Eumaeus
 "'Preperatory to everything else', Eumaeus begins: begins itself and claims to power to begin Ulysses all over again."
 

@@ -63,3 +63,22 @@
 **Page 64:**
 > ‘Excellent!’ I said. ‘Brilliant! Thank you! But what I value even more than the shoes themselves is the proof they give of our friendship! I consider the possession of such a friend as you to be one of the greatest happinesses of my Life!’
 
+**Page 87:**
+> ‘Ha! Yes! I see what you mean. What an excellent name for him! The other. No matter what the situation he is only ever “the other”. Someone else always takes precedence. He is always second fiddle. And he knows it. It eats him up.’
+
+**Page 87:**
+> ‘For all the grand intellectual manner and the dark, penetrating stare, he hasn’t an original thought in his head. All his ideas are second-hand. Actually all his ideas are mine.’
+
+**Page 88-89:**
+> ‘My contemporaries did not understand this. They were all enamoured with the idea of progress and believed that whatever was new must be superior to what was old. As if merit was a function of chronology! But it seemed to me that the wisdom of the ancients could not have simply vanished. Nothing simply vanishes. It’s not actually possible. I pictured it as a sort of energy flowing out of the world and I thought that this energy must be going somewhere. That was when I realised that there must be other places, other worlds. And so I set myself to find them.’
+> ‘And did you find any, sir?’ I asked.
+> ‘I did. I found this one. This is what I call a Distributary World – it was
+> created by ideas flowing out of another world. This world could not have
+> existed unless that other world had existed first. Whether this world is still
+> dependent on the continued existence of the first one, I don’t know.’
+
+**Page 90:**
+> ‘Imagine water flowing underground. It flows through the same cracks year after year and it wears away at the stone. Millennia later you have a cave system. But what you don’t have is the water that originally created it. That’s long gone. Seeped away into the earth. Same thing here. But Ketterley is an egotist. He always thinks in terms of utility. He cannot imagine why anything should exist if he cannot make use of it.’
+
+**Page 121:**
+> It is from these things that I deduce the idea of a *garden*. I do not believe this happens by accident. This is how the House places new ideas gently and naturally in the Minds of Men. This is how the House increases my understanding.
