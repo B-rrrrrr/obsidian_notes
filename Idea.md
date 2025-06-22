@@ -8,3 +8,4 @@ Aliens want to concur everything and do this via DNA scrambling and they meet th
 
 AI is just the next evolution of humans goodbye
 AI would know what's best for us
+humans have a low Critical Flicker Fusion Frequency, aliens and ai prolly more could be interesting

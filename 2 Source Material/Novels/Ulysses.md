@@ -326,6 +326,8 @@ These link to the heretics Arius (thought Father and Son not of the same substan
 **Page 388:**
 > To those who create themselves wits at the cost of feminine delicacy (a habit of mind which he never did hold with) to them he would concede neither to bear the name nor to herit the tradition of a proper breeding: while for such that, having lost all forbearance, can lose no more, there remained the sharp antidote of experience to cause their insolency to beat a precipitate and inglorious retreat. Not but what he could feel with mettlesome youth which, caring nought for the mows of dotards or the gruntlings of the severe, is ever (as the chaste fancy of the Holy Writer expresses it) for eating of the tree forbid it yet not so far forth as to pretermit humanity upon any condition soever towards a gentlewoman when she was about her lawful occasions. To conclude, while from the sister's words he had reckoned upon a speedy delivery he was, however, it must be owned, not a little alleviated by the intelligence that the issue so auspicated after an ordeal of such duress now testified once more to the mercy as well as to the bounty of the Supreme Being.
 
+
+
 **Page 393-394:**
 > Bridie! Bridie Kelly! He will never forget the name, ever remember the night: first night, the bridenight. They are entwined in nethermost darkness, the willer with the willed, and in an instant (fiat!) light shall flood the world. Did heart leap to heart? Nay, fair reader. In a breath 'twas done but — hold! Back! It must not be! In terror the poor girl flees away through the murk. She is the bride of darkness, a daughter of night. She dare not bear the sunnygolden babe of day. No, Leopold. Name and memory solace thee not. That youthful illusion of thy strength was taken from thee — and in vain. No son of thy loins is by thee. There is none now to be for Leopold, what Leopold was for Rudolph.
 > 
@@ -333,17 +335,26 @@ These link to the heretics Arius (thought Father and Son not of the same substan
 > 
 > Onward to the dead sea they tramp to drink, unslaked and with horrible gulpings, the salt somnolent inexhaustible flood. And the equine portent grows again, magnified in the deserted heavens, nay to heaven's own magnitude, till it looms, vast, over the house of Virgo. And lo, wonder of metempsychosis, it is she, the everlasting bride, harbinger of the daystar, the bride, ever virgin. It is she, Martha, thou lost one, Millicent, the young, the dear, the radiant. How serene does she now arise, a queen among the Pleiades, in the penultimate antelucan hour, shod in sandals of bright gold, coifed with a veil of what do you call it gossamer. It floats, it flows about her starborn flesh and loose it streams, emerald, sapphire, mauve and heliotrope, sustained on currents of cold interstellar wind, winding, coiling, simply swirling, writhing in the skies a mysterious writing till, after a myriad metamorphoses of symbol, it blazes, Alpha, a ruby and triangled sign upon the forehead of Taurus.
 
+
+
 **Page 394-395:**
 > Francis was reminding Stephen of years before when they had been at school together in Conmee's time. He asked about Glaucon, Alcibiades, Pisistratus. Where were they now? Neither knew. You have spoken of the past and its phantoms, Stephen said. Why think of them? If I call them into life across the waters of Lethe will not the poor ghosts troop to my call? Who supposes it? I, Bous Stephanoumenos, bullockbefriending bard, am lord and giver of their life. He encircled his gadding hair with a coronal of vineleaves, smiling at Vincent. That answer and those leaves, Vincent said to him, will adorn you more fitly when something more, and greatly more, than a capful of light odes can call your genius father. All who wish you well hope this for you. All desire to see you bring forth the work you meditate. I heartily wish you may not fail them. O no, Vincent Lenehan said, laying a hand on the shoulder near him. Have no fear. He could not leave his mother an orphan.
+
+
 
 **Page 398-399:**
 > Still the plain straightforward question why a child of normally healthy parents and seemingly a healthy child and properly looked after succumbs unaccountably in early childhood (though other children of the same marriage do not) must certainly, in the poet's words, give us pause. Nature, we may rest assured, has her own good and cogent reasons for whatever she does and in all probability such deaths are due to some law of anticipation by which organisms in which morbous germs have taken up their residence (modern science has conclusively shown that only the plasmic substance can be said to be immortal) tend to disappear at an increasingly earlier stage of development, an arrangement which, though productive of pain to some of our feelings (notably the maternal), is nevertheless, some of us think, in the long run beneficial to the race in general in securing thereby the survival of the fittest.
 
+
+
 **Page 399:**
 > Once a woman has let the cat into the bag (an esthetic allusion, presumably, to one of the most complicated and marvellous of all nature's processes— the act of sexual congress) she must let it out again or give it life, as he phrased it, to save her own.
 
+
+
 **Page 400-401:**
 > There are sins or (let us call them as the world calls them) evil memories which are hidden away by man in the darkest places of the heart but they abide there and wait. He may suffer their memory to grow dim, let them be as though they had not been and all but persuade himself that they were not or at least were otherwise. Yet a chance word will call them forth suddenly and they will rise up to confront him in the most various circumstances, a vision or a dream, or while timbrel and harp soothe his senses or amid the cool silver tranquility of the evening or at the feast, at midnight, when he is now filled with wine. Not to insult over him will the vision come as over one that lies 400 under her wrath, not for vengeance to cut him off from the living but shrouded in the piteous vesture of the past, silent, remote, reproachful.
+
 
 # Circe
 "Return of the Repressed" - Sigmund Freud
@@ -391,6 +402,8 @@ Once death becomes visible to us do we see what we actually have to do and what 
 **Page 485:**
 > Ocularly woman's bivalve case is worse. Always open sesame. The cloven sex. Why they fear vermin, creeping things. Yet Eve and the serpent contradicts. Not a historical fact. Obvious analogy to my idea. Serpents too are gluttons for woman's milk. Wind their way through miles of omnivorous forest to sucksucculent her breast dry. Like those bubblyjocular Roman matrons one reads of in Elephantuliasis.
 
+Here there is criticism of women and how one must “open them up” in order to access them. They also criticise the hypocrisy of women by stating that despite fearing vermin Eve gave in to a serpent. They also adequate serpents to men by stating that both want woman’s milk and would travel great distances to get it.
+
 **Page 485:**
 > Instinct rules the world. In life. In death.
 
@@ -404,7 +417,7 @@ We want to advance and become better but our bodies condense us down to a form w
 **Page 496:**
 > Exuberant female. Enourmously I desiderate your domination. I am exhausted, abandoned, no more young.
 
-
+Bloom feels like he is a failure, that everything he’s done is terrible and therefore he requires punishment in order to feel something. He wants to be dominated to feel like he’s been put in his place. He is tired of acting like he’s fine. Perhaps this is why BDSM exists and why it happens behind closed doors, by letting one let their subconscious be truly happy while letting no one know.
 
 **Page 503:**
 > The sins of your past are rising against you. Many. Hundreds.
@@ -437,6 +450,8 @@ We’d rather wish to have joy in this temporary world than have joy in the eter
 **Page 587:**
 > Your washing. Still, candour compelled him to admit he had washed his wife's undergarments when soiled in Holles street and women would and did too a man's similar garments initialled with Bewley and Draper's marking ink (hers were, that is) if they really loved him, that is to say. Love me, love my dirty shirt. Still, just then, being on tenterhooks, he desired the female's room more than her company so it came as a genuine relief when the keeper made her a rude sign to take herself off.
 
+
+
 **Page 588-589:**
 > — You, as a good catholic, he observed, talking of body and soul, believe in the soul. Or do you mean the intelligence, the brainpower as such, as distinct from any outside object, the table, let us say, that cup. I believe in that myself because it has been explained by competent men as the convolutions of the grey matter. Otherwise we would never have such inventions as X rays, for instance. Do you?
 > 
@@ -462,32 +477,49 @@ He goes on to argue that soul, being "simple" cannot be corrupted, for "corrupti
 **Page 595:**
 > England was toppling already and her downfall would be Ireland, her Achilles heel.
 
+Sometimes that which is the weakest link, the little thing that you ignore forever, will be it’s downfall.
+
 **Page 595:**
 > His advice to every Irishman was : stay in the land of your birth and work for Ireland and live for Ireland. Ireland could not spare a single one of her sons.
+
+Interesting that he says that Ireland needs everyone because this also includes all the bad people. But anyways pretty much nationalism summed up.
 
 **Page 597:**
 > He had transparently outlived his welcome. He ought to have either died naturally or on the scaffold high.
 
+Famous people who go on to long outlive their welcome and they should’ve just died by natural cause or suicide. Something that happens to so many artists, Mishima comes to mind. Also carreer deaths such as Tarantinos comes to mind.
+
 **Page 598:**
 > I resent violence or intolerance in any shape or form. It never reaches anything or stops anything. A revolution must come on the due instalments plan. It's a patent absurdity on the face of it to hate people because they live round the corner and speak another vernacular, so to speak.
 
+
+
 **Page 599:**
 > Where you can live well, the sense is, if you work.
+
+
 
 **Page 599:**
 > — Count me out, he managed to remark, meaning work.
 > The eyes were surprised at this observation, because as he, the person who owned them pro tem., observed, or rather his voice speaking did: All must work, have to, together.
 > — I mean, of course, the other hastened to affirm, work in the widest possible sense. Also literary labour, not merely for the kudos of the thing. Writing for the newspapers which is the readiest channel nowadays. That's work too. Important work. After all, from the little I know of you, after all the money expended on your education, you are entitled to recoup yourself and command your price. You have every bit as much right to live by your pen in pursuit of your philosophy as the peasant has. What? You both belong to Ireland, the brain and the brawn. Each is equally important.
 
+
+
 **Page 605:**
 > Can real love, supposing there happens to be another chap in the case, exist between married folk?
+
+Can it? I think Ulysses answers yes, due to Molly and Bloom loving each other (kinda) and the main point of conflict in their marriage being the death of Rudy and their fear of what would happen if she is pregnant again. It is love, not lust that they experience.
 
 **Page 609:**
 > that man, or men in the plural, were always hanging around on the waiting list about a lady, even supposing she was the best wife in the world and they got on fairly well together for the sake of argument, when, neglecting her duties, she chose to be tired of wedded life, and was on for a little flutter in polite debauchery to press their attentions on her with improper intent, the upshot being that her affections centred on another, the cause of many _liaisons_ between still attractive married women getting on for fair and forty and younger men, no doubt as several famous cases of feminine infatuation proved up to the hilt.
 
+
+
  **Page 610:**
 >  Though they didn't see eye to eye in everything, a certain analogy there somehow was, as if both their minds were travelling, so to speak, in the one train of thought.
 
+What friendship and just in general interactions between people should inspire to be. Still coming to terms with each other despite the differences but staying on topic and causing each other to ponder of the position of the other.
 # Ithaca
 "Action, so precisely delineated, broken down into such minute constituent movements, applied to such exactly named physical phenomena, virtually ceases to be action."
 
