@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Source Material/Novels/Ulysses.md",
+                "file": "Creative Ideas/Idea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ulysses"
+              "title": "Idea"
+            }
+          },
+          {
+            "id": "ea317a12660225f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creative Ideas/Idea.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Idea"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,12 +215,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79953f40292f4eed",
+  "active": "5ae3f80cf359ee8c",
   "lastOpenFiles": [
-    "2 Source Material/Novels/Piranesi.md",
-    "2 Source Material/Novels/Ulysses.md",
-    "Idea.md",
+    "Creative Ideas",
+    "Creative Ideas/Idea 2.md",
     "Main Notes/Untitled.md",
+    "Creative Ideas/Idea.md",
+    "2 Source Material/Novels/James Joyce/Ulysses.md",
+    "2 Source Material/Novels/The Conspiracy Against the Human Race.md",
+    "2 Source Material/Novels/The Miner.md",
+    "2 Source Material/Novels/Ulysses.md",
+    "2 Source Material/Novels/Sun and Steel.md",
+    "2 Source Material/Novels/Osamu Dazai/The Setting Sun.md",
+    "2 Source Material/Novels/Osamu Dazai",
+    "2 Source Material/Novels/Naked Lunch.md",
+    "2 Source Material/Novels/James Joyce",
+    "2 Source Material/Novels/Georges Bataille/The Accursed Share.md",
+    "2 Source Material/Novels/Georges Bataille/Story of the Eye.md",
+    "2 Source Material/Novels/Georges Bataille",
+    "2 Source Material/Novels/Fyodor Dostoevsky/Notes from Underground.md",
+    "2 Source Material/Novels/Fyodor Dostoevsky",
+    "2 Source Material/Novels/Piranesi.md",
     "conflict-files-obsidian-git.md",
     "OneNote",
     "2 Source Material/Poetry/Thomas Ligotti/This Degenerate Little Town.md",
@@ -209,8 +249,6 @@
     "1 Source Material/Ulysses.md",
     "1 Source Material",
     "4 Index",
-    "3 Tags",
-    "Main Notes",
     "asd.md",
     "asindewnq.md",
     "asdasd.md"
