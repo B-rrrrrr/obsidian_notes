@@ -350,12 +350,12 @@ These link to the heretics Arius (thought Father and Son not of the same substan
 **Page 399:**
 > Once a woman has let the cat into the bag (an esthetic allusion, presumably, to one of the most complicated and marvellous of all nature's processes— the act of sexual congress) she must let it out again or give it life, as he phrased it, to save her own.
 
-
+Once a woman has sex she cannot go back to how she was before having sex, she must either continue having it or stay with the person she did it with.
 
 **Page 400-401:**
-> There are sins or (let us call them as the world calls them) evil memories which are hidden away by man in the darkest places of the heart but they abide there and wait. He may suffer their memory to grow dim, let them be as though they had not been and all but persuade himself that they were not or at least were otherwise. Yet a chance word will call them forth suddenly and they will rise up to confront him in the most various circumstances, a vision or a dream, or while timbrel and harp soothe his senses or amid the cool silver tranquility of the evening or at the feast, at midnight, when he is now filled with wine. Not to insult over him will the vision come as over one that lies 400 under her wrath, not for vengeance to cut him off from the living but shrouded in the piteous vesture of the past, silent, remote, reproachful.
+> There are sins or (let us call them as the world calls them) evil memories which are hidden away by man in the darkest places of the heart but they abide there and wait. He may suffer their memory to grow dim, let them be as though they had not been and all but persuade himself that they were not or at least were otherwise. Yet a chance word will call them forth suddenly and they will rise up to confront him in the most various circumstances, a vision or a dream, or while timbrel and harp soothe his senses or amid the cool silver tranquility of the evening or at the feast, at midnight, when he is now filled with wine. Not to insult over him will the vision come as over one that lies under her wrath, not for vengeance to cut him off from the living but shrouded in the piteous vesture of the past, silent, remote, reproachful.
 
-
+Trauma is basically described here and this topic is expanded upon in Circe.
 # Circe
 "Return of the Repressed" - Sigmund Freud
 
