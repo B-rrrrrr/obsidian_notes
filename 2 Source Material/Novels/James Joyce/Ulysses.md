@@ -274,6 +274,10 @@ Mean way of looking at it but it does come from the I. He sees love as an egotis
 
 Despite sex being such a personal experience filled with love from both sides there still needs a kind of attraction between both parties, though usually from the female/bottom side and this kind of breaks off from the fact that sex is an activity of love and not lust. Also despite the pleasures that sex brings it still can be painful and makes one vulnerable to the other, therefore the phrase the sacrifice.
 
+See William T Vollman on crossdressing and how he put himself in a vulnerable position every time he became a woman
+
+That one femboy vid about wanting to be as luxurious as possible
+
 **Page 358:**
 > Dogs at each other behind. Good evening. Evening. How do you sniff? Hm. Hm. Very well, thank you. Animals go by that. Yes now, look at it that way. We're the same. Some women for instance warn you off when they have their period. Come near. Then get a hogo you could hang your hat on. Like what? Potted herrings gone stale or. Boof! Please keep off the grass.
 
