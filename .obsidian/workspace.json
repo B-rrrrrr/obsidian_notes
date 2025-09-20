@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Source Material/Novels/Cormac McCarthy/Blood Meridian.md",
+                "file": "Creative Ideas/Idea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blood Meridian"
+              "title": "Idea"
             }
           }
         ],
@@ -216,8 +216,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -240,12 +240,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ae3f80cf359ee8c",
+  "active": "635f68b900c1bd53",
   "lastOpenFiles": [
     "Creative Ideas/Idea 2.md",
     "Creative Ideas/Idea.md",
     "Creative Ideas/GMTK 2025.md",
+    "2 Source Material/Novels/Fyodor Dostoevsky/Notes from Underground.md",
     "2 Source Material/Novels/Cormac McCarthy/Blood Meridian.md",
+    "6 Main Notes",
+    "4 Index",
+    "3 Tags",
+    "1 Rough Notes",
     "2 Source Material/Bible/Hell Doesn't Exist.md",
     "2 Source Material/Bible",
     "2 Source Material/Novels/Piranesi.md",
@@ -264,19 +269,13 @@
     "2 Source Material/Novels/Georges Bataille/The Accursed Share.md",
     "2 Source Material/Novels/Georges Bataille/Story of the Eye.md",
     "2 Source Material/Novels/Georges Bataille",
-    "2 Source Material/Novels/Fyodor Dostoevsky/Notes from Underground.md",
-    "2 Source Material/Novels/Fyodor Dostoevsky",
     "conflict-files-obsidian-git.md",
-    "OneNote",
     "2 Source Material/Poetry/Thomas Ligotti/This Degenerate Little Town.md",
     "2 Source Material/Poetry/Thomas Ligotti/I Have a Special Plan for This World.md",
     "2 Source Material/Ulysses.md",
-    "1 Rough Notes",
     "5 Templates/Full Note.md",
-    "5 Templates",
     "Main Notes/Untitled 1.md",
     "1 Source Material/Ulysses.md",
-    "asd.md",
-    "asindewnq.md"
+    "asd.md"
   ]
 }
