@@ -1,0 +1,1 @@
+You can’t keep a number of the times that you have been successful; live in the present, disregarding the past and the future. All that matters is today.

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Source Material/Novels/Cormac McCarthy/Blood Meridian.md",
+                "file": "2 Source Material/Novels/Piranesi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blood Meridian"
+              "title": "Piranesi"
+            }
+          },
+          {
+            "id": "f266509b63703bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Rough Notes/Addiction/Addiction wrt Infinite Jest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Addiction wrt Infinite Jest"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,43 +264,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ae3f80cf359ee8c",
+  "active": "f266509b63703bb7",
   "lastOpenFiles": [
+    "2 Source Material/Novels/James Joyce/Ulysses.md",
+    "1 Rough Notes/Untitled.md",
+    "1 Rough Notes/We need that which we do not have wrt Ulysses.md",
+    "2 Source Material/Novels/Cormac McCarthy/Blood Meridian.md",
+    "1 Rough Notes/Anhedonia wrt Infinite Jest.md",
+    "1 Rough Notes/Freedom of choosing pleasure wrt Infinite Jest.md",
+    "1 Rough Notes/Cages wrt Infinite Jest.md",
+    "1 Rough Notes/Addiction/Keeping goals wrt Infinite Jest.md",
+    "1 Rough Notes/Addiction/Addiction wrt Infinite Jest.md",
+    "1 Rough Notes/Addiction/Recovery wrt Infinite Jest.md",
+    "1 Rough Notes/Addiction/Denial wrt Infinite Jest.md",
+    "1 Rough Notes/Addiction",
+    "1 Rough Notes/Addiction/Becoming addicted wrt Infinite Jest.md",
+    "6 Main Notes/Untitled.md",
+    "2 Source Material/Novels/Piranesi.md",
     "Creative Ideas/Idea 2.md",
     "Creative Ideas/Idea.md",
     "Creative Ideas/GMTK 2025.md",
-    "2 Source Material/Novels/Cormac McCarthy/Blood Meridian.md",
-    "2 Source Material/Bible/Hell Doesn't Exist.md",
-    "2 Source Material/Bible",
-    "2 Source Material/Novels/Piranesi.md",
     "2 Source Material/Novels/Sun and Steel.md",
-    "2 Source Material/Novels/Naked Lunch.md",
-    "2 Source Material/Novels/James Joyce/Ulysses.md",
-    "2 Source Material/Novels/Cormac McCarthy",
-    "Creative Ideas",
-    "Main Notes/Untitled.md",
     "2 Source Material/Novels/The Conspiracy Against the Human Race.md",
+    "2 Source Material/Novels/Naked Lunch.md",
     "2 Source Material/Novels/The Miner.md",
-    "2 Source Material/Novels/Ulysses.md",
     "2 Source Material/Novels/Osamu Dazai/The Setting Sun.md",
-    "2 Source Material/Novels/Osamu Dazai",
-    "2 Source Material/Novels/James Joyce",
     "2 Source Material/Novels/Georges Bataille/The Accursed Share.md",
     "2 Source Material/Novels/Georges Bataille/Story of the Eye.md",
-    "2 Source Material/Novels/Georges Bataille",
     "2 Source Material/Novels/Fyodor Dostoevsky/Notes from Underground.md",
+    "2 Source Material/Bible/Hell Doesn't Exist.md",
+    "2 Source Material/Bible",
+    "2 Source Material/Novels/Cormac McCarthy",
+    "Creative Ideas",
+    "2 Source Material/Novels/Osamu Dazai",
+    "2 Source Material/Novels/James Joyce",
+    "2 Source Material/Novels/Georges Bataille",
     "2 Source Material/Novels/Fyodor Dostoevsky",
-    "conflict-files-obsidian-git.md",
     "OneNote",
-    "2 Source Material/Poetry/Thomas Ligotti/This Degenerate Little Town.md",
-    "2 Source Material/Poetry/Thomas Ligotti/I Have a Special Plan for This World.md",
-    "2 Source Material/Ulysses.md",
-    "1 Rough Notes",
-    "5 Templates/Full Note.md",
-    "5 Templates",
-    "Main Notes/Untitled 1.md",
-    "1 Source Material/Ulysses.md",
-    "asd.md",
-    "asindewnq.md"
+    "1 Rough Notes"
   ]
 }
