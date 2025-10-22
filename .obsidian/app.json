@@ -6,5 +6,6 @@
   "tabSize": 3,
   "showLineNumber": false,
   "strictLineBreaks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
