@@ -16,7 +16,7 @@ Bataille
 - _Simulation and hyperreality_
     
 - _Transgression as a mode of deconstruction_
-
+**Cruelty Squad as a Postmodern Simulation and Hyperreality of Meaning Implosion**
 WORKS:
 Simulacra and Simulation
 Cruelty Squad
