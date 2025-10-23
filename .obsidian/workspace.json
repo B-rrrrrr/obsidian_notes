@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Ideas/Idea.md",
+                "file": "5 Templates/Full Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Idea"
+              "title": "Full Note"
             }
           }
         ],
@@ -216,8 +216,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -225,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,9 +241,11 @@
   },
   "active": "635f68b900c1bd53",
   "lastOpenFiles": [
-    "Creative Ideas/Idea 2.md",
-    "Creative Ideas/Idea.md",
+    "6 Main Notes/Untitled.base",
+    "5 Templates/Full Note.md",
     "Creative Ideas/GMTK 2025.md",
+    "Creative Ideas/Idea.md",
+    "Creative Ideas/Idea 2.md",
     "2 Source Material/Novels/Fyodor Dostoevsky/Notes from Underground.md",
     "2 Source Material/Novels/Cormac McCarthy/Blood Meridian.md",
     "6 Main Notes",
@@ -268,12 +269,10 @@
     "2 Source Material/Novels/James Joyce",
     "2 Source Material/Novels/Georges Bataille/The Accursed Share.md",
     "2 Source Material/Novels/Georges Bataille/Story of the Eye.md",
-    "2 Source Material/Novels/Georges Bataille",
     "conflict-files-obsidian-git.md",
     "2 Source Material/Poetry/Thomas Ligotti/This Degenerate Little Town.md",
     "2 Source Material/Poetry/Thomas Ligotti/I Have a Special Plan for This World.md",
     "2 Source Material/Ulysses.md",
-    "5 Templates/Full Note.md",
     "Main Notes/Untitled 1.md",
     "1 Source Material/Ulysses.md",
     "asd.md"
