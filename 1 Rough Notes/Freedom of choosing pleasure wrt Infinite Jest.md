@@ -1,2 +1,0 @@
-Due to the new designs of cartridges people can now choose exactly what they would like to watch. The A.F.R. are also releasing Infinite Jest and giving the American people the choice to sacrifice their own map for infinite pleasure or to live in suffering.
-But what of the freedom-to? Not just the freedom-from? the child who chooses sweets and the father who tells the child what to choose
