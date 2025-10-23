@@ -1,9 +1,11 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "6 Main Notes",
+  "newFileFolderPath": "1 Rough Notes",
   "useTab": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "tabSize": 3,
   "showLineNumber": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
