@@ -1,1 +1,0 @@
-The goal in life is to have maximal pleasure in everything. Suffering is bad and should be avoided at all costs. see note freedom of choice
