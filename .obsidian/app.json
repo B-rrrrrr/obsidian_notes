@@ -2,7 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "1 Rough Notes",
   "useTab": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "tabSize": 3,
   "showLineNumber": false,
   "strictLineBreaks": true,

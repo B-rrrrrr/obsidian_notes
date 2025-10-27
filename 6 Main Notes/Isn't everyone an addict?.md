@@ -2,7 +2,6 @@
 
 Tags:
 # Isn't everyone an addict?
-
 In our life we will definitely eventually become addicted to something. It is the way our minds our structured. But the real question is, do I need help against my addiction? 
 
 Infinite Jest mentions how every one-in-a-million times a person comes in AA with a very mild addiction and doesn’t actually require the extreme methods that AA brings. However, if you think you are this person, I’m sorry to say, you’re an addict. 
