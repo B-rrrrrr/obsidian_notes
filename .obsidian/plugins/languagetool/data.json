@@ -12,5 +12,5 @@
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
-  "disabledRules": "FRENCH_WHITESPACE"
+  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE"
 }
