@@ -9,8 +9,6 @@ It all begins with the wanting of something. We want to have a toy, we want mone
 Once this stage has been reached, people lose hope. Usually when the middle-age crisis is talked about, it refers to exactly this state: I’ve achieved everything I wanted, and yet I’m not happy or really fulfilled. Now people begin to develop an empty and numb feeling within themselves. They realize that that which used to give them self-worth now doesn’t, and now they don’t know what to do with themselves any more. And now the despair and hopelessness begins, and it’s a downward spiral all the way down. The only way to avoid this is by realizing where true fulfilment and self-worth comes from.
 
 Wanting something is invigorating but achieving that something does not confer to the interior worth we thought it would have on us.
-
-
 # References
 Page 693 Infinite Jest
 Maybe “Also Sprach Zarathustra”

@@ -13,7 +13,6 @@ So by these three lines of thought, isn’t everyone in the world an addict and 
 While we all find ourselves in a constant battle of balance and controlling temptation the real question is, do I need help in combating it? And if you don’t, you will understand this on a subconscious level. You don’t need to make up a highly intellectual and analytical approach to why you don’t need help. You would only do this if you truly are in Denial and want to try and prove that you’re not.
 
 We are all addicted to something but whether we need serious help for these problems is a different question. By trying to reason your way out of help you are only proving that you need it. If you don’t you will know this on a subconscious level.
-
 # References
 [[Eliminating Denial]]
 Page 1002 Infinite Jest

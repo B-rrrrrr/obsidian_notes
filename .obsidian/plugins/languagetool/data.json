@@ -8,7 +8,10 @@
     "pt": "pt-PT",
     "ca": "ca-ES"
   },
-  "dictionary": [],
+  "dictionary": [
+    "Gompert",
+    "Gompert"
+  ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
