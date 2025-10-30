@@ -20,3 +20,9 @@ Chapitre 10:
 Le petit prince a découvert une planète avec un roi. Il lui-dit que le roi de sa planète et d’univers. Mais le petit prince a interrogé le roi et réaliser que le roi a régné sur rien. Il départ la planète et trouve les grandes personnes très étranges
 Chapitre 11:
 Dans la deuxième planète, le petit prince a trouvé un vaniteux. Il veut que le petit prince ait admiré il, mais le petit prince ne comprend pas parce qu’il est la seule personne de sa planète. Le petit prince trouve encore que les grandes personnes ont bizarre.
+Chapitre 12:
+La troisième planète est habitée par un buveur qui boit pour oublier.
+Chapitre 13:
+Dans la quatrième planète, le businessman est habité. Il a compté des étoiles et il a pensé qu’il possède des étoiles. Le roi a régné sur les étoiles. Le petit prince n’a pas compris et enfin, il a fui.
+Chapitre 14:
+Dans cette planète s’habite un allumeur qui le petit prince ne trouve pas bizarre. La planète est si petite et l’allumeur a éteint son réverbère en enfin du jour et rallumé en fin du jour. Le petit prince suggère que l’allumeur a marché lentement pour rester toujours dans le soleil. Mais l’allumeur veule sa consigne faire.
