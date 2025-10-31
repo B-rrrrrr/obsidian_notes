@@ -26,3 +26,13 @@ Chapitre 13:
 Dans la quatrième planète, le businessman est habité. Il a compté des étoiles et il a pensé qu’il possède des étoiles. Le roi a régné sur les étoiles. Le petit prince n’a pas compris et enfin, il a fui.
 Chapitre 14:
 Dans cette planète s’habite un allumeur qui le petit prince ne trouve pas bizarre. La planète est si petite et l’allumeur a éteint son réverbère en enfin du jour et rallumé en fin du jour. Le petit prince suggère que l’allumeur a marché lentement pour rester toujours dans le soleil. Mais l’allumeur veule sa consigne faire.
+Chapitre 15:
+Dans la sixième planète, le petit prince trouve un géographe. Il a noté des souvenirs des explorateurs, mais il n’explore pas. Le géographe interroge le petit prince de sa planète et le petit prince raconte de ses trois volcans et de sa fleur. Le géographe dit que la fleur est éphémère et il ne note pas là. Le petit prince réalisé qu'il laisse sa fleur toute seul dans sa planète et il interroge le géographe sur lequel le petit prince peut visiter. Il répond la Terre.
+Chapitre 16:
+La Terre est vraiment très grande et il y a beaucoup de grandes personnes.
+Chapitre 17:
+Le petit prince arrive sur la Terre dans un désert en Afrique. Il trouve un serpent qui dit qu’il tue les personnes de la Terre quand ils ont touché le. Mais le prince n’est pas un homme du Terre et le serpent pense que le petit prince est très faible et quand il regrette trop sa planète, le serpent veule lui aider.
+Chapitre 18:
+Il traverse le désert et trouve une fleur qui dit, il existe des hommes.
+Chapitre 19:
+

@@ -11,4 +11,5 @@ Once this stage has been reached, people lose hope. Usually when the middle-age 
 Wanting something is invigorating but achieving that something does not confer to the interior worth we thought it would have on us.
 # References
 Page 693 Infinite Jest
+[[Reaching goals]]
 Maybe “Also Sprach Zarathustra”
