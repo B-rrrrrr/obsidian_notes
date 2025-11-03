@@ -1,0 +1,1 @@
+adults are going through life to quickly they don’t stop and look at the things that actually matter in life only the things they think matter the serious things. only the children, those with an imagination, can find the true beauty in life not by looking with the eyes but looking with the heart

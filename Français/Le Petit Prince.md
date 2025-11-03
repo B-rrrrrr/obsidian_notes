@@ -35,4 +35,21 @@ Le petit prince arrive sur la Terre dans un désert en Afrique. Il trouve un ser
 Chapitre 18:
 Il traverse le désert et trouve une fleur qui dit, il existe des hommes.
 Chapitre 19:
+Il a monté une montagne et il a posé des questions et la réponse ce sont les échos du petit prince. Il a pensé dans la Terre, ils répètent ce qu’on leur dit, mais sa fleur parlait toujours la première.
+Chapitre 20:
+Il a trouvé un jardin de roses et le petit prince s’a senti mal parce que sa fleur, il-dit, elle était seule dans l’univers.
+Chapitre 21:
+Le petit prince a trouvé un renard. Le renard, dit-il qu'il y a beaucoup de roses et des renards, mais ce sont les roses et les renards qui vous “apprivoisez” qui est importante. Le petit prince comprends-la et fait d’amitié avec le renard. Enfin, quand il a fui pour son voyage le renard dit-il son grand secret: l’essentiel est invisible pour les yeux et le temps qui tu as perdu pour ta rose fait ta rose plus importante.
+Chapitre 22:
+L’aiguilleur parle avec le petit prince au sujet du peuple dans le train. Les grandes personnes n’étaient pas contentes, mais les enfants savent ce qu'est importante et ils ont de la chance.
+Chapitre 23:
+Le marchand vend de pilules perfectionnées avec le quelqu'un épargne 53 minutes du temps par semaine parce que vous n’aviez pas soif. Le petit prince ne comprend pas pourquoi quelqu’un veut la faire.
+Chapitre 24:
+Le pilot n’a pas d’eau après huit jours dans le désert et il et le petit prince marchent pour trouver un puits. Le pilot comprend enfin ce que le petit prince veule dire et le pilot trouve le petit prince le plus fragile sur la Terre. Quand le soleil se lève, ils trouvent un puits.
+Chapitre 25:
+Ils boivent l’eau et ils trouvent l’eau le meilleur qu’ils aient bu. Le petit prince trouve les dessins du pilot pas de réalité et le pilot veut partir de désert avec son avion réparé. Le petit prince aussi dit que sa chute sur la Terre s'en sera une année. Le pilot veut pleurer, mais le petit prince lui rassure qu’il est parti.
+Chapitre 26:
+Le petit prince a parlé avec le serpent et avec le venin du serpent, il est allé sur sa planète. Mais le pilot ça ne veut pas et il a essayé trier le serpent. Le serpent a morsure doucement le petit prince et le pilot sert lui dans ses bras. Il ne veut pas que le petit prince soit mort, mais le petit prince dit que ça, c'est le meilleur pour lui. Enfin le petit prince a tombé sur les sables.
+Chapitre 27:
+Le pilot ne trouve pas le corps du petit prince. Il a aussi des chagrins comme le mouton mange la fleur du petit prince ou non parce que le pilot a oublié dessiner la courroie de cuir.
 
