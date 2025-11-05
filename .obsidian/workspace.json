@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0331874f991295d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Main Notes/What makes something or somebody special?.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What makes something or somebody special?"
-            }
-          },
-          {
             "id": "179736d0ae01759b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Main Notes/Love should be decided.md",
+                "file": "6 Main Notes/Happiness through suffering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Love should be decided"
+              "title": "Happiness through suffering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +193,15 @@
   },
   "active": "179736d0ae01759b",
   "lastOpenFiles": [
-    "6 Main Notes/Keeping goals.md",
+    "6 Main Notes/Happiness through suffering.md",
+    "6 Main Notes/Balance of body and mind.md",
+    "Français/Les Justes.md",
+    "Français/Le Petit Prince.md",
     "6 Main Notes/Isn't everyone an addict?.md",
+    "6 Main Notes/Suicide does not arise from hopelessness.md",
+    "6 Main Notes/What makes something or somebody special?.md",
+    "6 Main Notes/Love should be decided.md",
+    "6 Main Notes/Keeping goals.md",
     "6 Main Notes/Improvement.md",
     "6 Main Notes/Escaping addiction.md",
     "6 Main Notes/Eliminating Denial.md",
@@ -227,16 +209,12 @@
     "1 Rough Notes/Cages wrt Infinite Jest.md",
     "1 Rough Notes/Addiction/Addiction.md",
     "1 Rough Notes/Why we cringe at past versions of ourselves.md",
-    "6 Main Notes/What makes something or somebody special?.md",
     "6 Main Notes/We would rather want than have.md",
     "6 Main Notes/Reaching goals.md",
     "1 Rough Notes/Go too fast wrt Le Petit Prince.md",
-    "Français/Le Petit Prince.md",
     "6 Main Notes/Why do we become addicted?.md",
-    "6 Main Notes/Love should be decided.md",
     "1 Rough Notes/We need that which we do not have wrt Ulysses.md",
     "6 Main Notes/Maximizing pleasure.md",
-    "6 Main Notes/Suicide does not arise from hopelessness.md",
     "6 Main Notes/True freedom.md",
     "5 Templates/Full Note.md",
     "1 Rough Notes/Untitled.base",
@@ -244,9 +222,6 @@
     "Creative Ideas/Idea 2.md",
     "Français",
     "conflict-files-obsidian-git.md",
-    "Creative Ideas/Extended essay ideas.md",
-    "2 Source Material/Novels/Piranesi.md",
-    "Creative Ideas/Idea.md",
     "1 Rough Notes/Addiction",
     "2 Source Material/Bible",
     "2 Source Material/Novels/Cormac McCarthy",
