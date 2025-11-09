@@ -15,4 +15,4 @@ If we stop transcending ourselves and our inner limits, we will become tired of 
 # References
 [[We would rather want than have]]
 [[Reaching goals]]
-14 Die fröhliche Wissenschaft
+14 Was alles Liebe genannt wird, Die fröhliche Wissenschaft

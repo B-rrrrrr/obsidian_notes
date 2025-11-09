@@ -6,3 +6,9 @@ C’est le jour de l'attentat, mais ils n’ont pas lancé la bombe. Stepan est 
 
 Acte troisième:
 C’est le jour quand ils veulent tuer le grand-duc. Dora a préparé une autre bombe et ils discutent. Mais Voinov a de honte parce qu’il a de peur et il ne veut pas lancer la bombe. Au lieu de là, il voudrait faire la propagande. Kaliayev pense, c'est sa faute, mais Voinov dit, il aime lui. Annenkov prend la place du Voinov et ils se préparent pour l’attentat. Kaliayev et Dora parlent sur notre amour pour leur et Dora a réalisé qu’ils n’ont pas aimé parce que la révolution. Ensuite l’heure est arrivée et Kaliayev lance la bombe et Annenkov ne lance pas là. 
+
+Acte quatrième:
+Kaliayev est dans la prison et il est avec Foka. Foka lui dit comme il a tué trois personnes et ne regrette rien et ne comprend pas pourquoi Kaliayev a tué le grand-duc. Il pense que Kaliayev n’acte pas juste et le gardien rit beaucoup, parce que Foka n’est pas un prisonnier et un accomplisse de Skouratov, qui entre. Skouratov dit à Kaliayev, que s’acte n’est pas juste et quand il a donné les informations de ses collègues, il ne voudrait pas exécuter. Mais Kaliayev dit que ça qu’il fait, c'est juste et il respecte ses collègues. Enfin la grand-duchesse a entré et elle a pardonné Kaliayev, mais elle voudrait que Kaliayev a prié à Dieu pour son pardon. Il dit contre elle que s’acte est juste et il n’a pas besoin de pardon de Dieu et il n’a pas donné des informations de ses collègues parce que l’amour avec leurs trop forts. 
+
+Acte cinquième:
+Les collègues de Kaliayev ont les doutes sur lui, parce qu’il a vu la grand-duchesse. Mais ensuite Stepan et Voinov a des informations du Orlov, qui dit que Kaliayev est mort. Il n’a pas tremblé et ne dit rien. Kaliayev ne veut pas toucher la croix parce qu’il ne pense pas que ça il fait, c'est mal. Mais Dora pense que la révolution n’a pas fini et elle demande qu’elle a lancé une bombe, pour la cause de l’Organisation et joint avec Kaliayev. 

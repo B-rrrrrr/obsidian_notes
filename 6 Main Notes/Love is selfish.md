@@ -13,4 +13,4 @@ But, there does indeed lie a kind of love that goes past this intense narcissism
 Love between the two genders is an inherently selfish act, with a desire from the one to be the highest desire of the other. Only the love from friendship is an act of true love that builds itself off of the other’s uniqueness.
 
 # References
-14 Die fröhliche Wissenschaft
+14 Was alles Liebe genannt wird, Die fröhliche Wissenschaft
