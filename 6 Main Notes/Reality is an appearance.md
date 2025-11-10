@@ -12,4 +12,5 @@ However, it shouldn’t be seen in such a nihilistic tone. By consciously recogn
 
 Because reality is filtered through our perception of it, meaning and value arise from our interpretations of reality. Life becomes worthwhile, not because it inherently is, but because we choose to see it as such.
 # References
+[[Becoming oneself]]
 54 Das Bewusstsein vom Scheine, Die fröhliche Wissenschaft
