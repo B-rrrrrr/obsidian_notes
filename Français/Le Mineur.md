@@ -1,0 +1,2 @@
+Chapitre 1:
+Le narrateur est parti sa vie en Tokyo avec pas de raison. Il n’a pas pu beaucoup des bagages et il a marché dans la région. Il trouve des personnes et un lui dit, qu’il était une mine et le narrateur lui a suivi.

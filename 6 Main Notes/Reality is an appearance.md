@@ -8,8 +8,8 @@ Everything we perceive is filtered through our interpretations. Reality is not o
 
 Initially, this realization can lead to despair. Life and meaning can be seen as an illusion and therefore seem pointless. Nothing in life has inherent significance and instead has been based on our constructions of reality.
 
-However, it shouldn’t be seen in such a nihilistic tone. By consciously recognizing this fact and engaging with life through it, our interpretation and therefore also our meaning of life changes. Failures become stepping stones, tedious work becomes productive, and pessimism turns to optimism. Similarly, emotions like love can be seen as either doubtful or real, since there are no objective truths to emotions. But since the way we see love is based on appearance, we can see their actions as life-affirming and real. Life becomes worth living, because it we see it as such, and vice versa.
+However, it shouldn’t be seen in such a nihilistic tone. By consciously recognizing this fact and engaging with life through it, our interpretation and therefore also our meaning of life changes. By embracing it, we make life worth living, simply because life is that way. Life becomes worth living, because it we see it as such, and vice versa. 
 
-Reality is not objective and is instead based on our appearances of it. Therefore, meaning and the value of life are derived from our interpretations of reality.
+Because reality is filtered through our perception of it, meaning and value arise from our interpretations of reality. Life becomes worthwhile, not because it inherently is, but because we choose to see it as such.
 # References
 54 Das Bewusstsein vom Scheine, Die fröhliche Wissenschaft
