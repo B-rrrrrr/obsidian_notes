@@ -1,1 +1,0 @@
-one can live on without a body
