@@ -24,3 +24,11 @@ Chapitre 12:
 Nous a su pourquoi il a quitté sa famille, c’est parce qu’il veut une vie pas normale et ennui. Lui aussi a parlé sur son deux filles, un carré et un rond, qui ont de symboles de la vie stricte et de la vie émotionnelle.
 Chapitre 13:
 Les deux ont marché plus en plus et le narrateur a pensé sur le suicide. Il veut prendre le train et ils ont le pris.
+Chapitre 14:
+Ils sont attendus pour le train, et ils ont utilisé l’urinal. Le narrateur a encore pensé les choses philosophiques et ensuite, il a dit Chozo qu’il veut partir seul. Mais Chozo a dit, que le narrateur lui besoin pour le travail.
+Chapitre 15:
+Ils ont pris le train et le narrateur a réalisé, qu’il n’a pas eu d’argent pour le train. Il a pensé encore dans les philosophiques et ensuite, il a regardé l’argent qu’il a eu.
+Chapitre 16:
+Chozo a demandé si le narrateur a eu assez d’argent pour un billet et il a replié au début oui, mais ensuite, il a dit, il a eu pas plus d’argent. Chozo a pris le portemonnaie du narrateur, que c’est très luxurieuse et payé les deux billets. 
+Chapitre 17:
+Ils sont montrés le train et dans le, le narrateur a écouté des autres conversations. Beaucoup des gens sont allés dans la mine, et la personne a droit du Chozo lui demande, si le petit a travaillé sur la mine.

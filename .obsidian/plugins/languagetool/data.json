@@ -18,10 +18,12 @@
     "Kaliayev",
     "Orlov",
     "Skouratov",
-    "Voinov"
+    "Voinov",
+    "hozo",
+    "hozo"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
-  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE,MANY_NN,MANY_NN,MANY_NN,MANY_NN"
+  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE,MANY_NN,MANY_NN,MANY_NN,MANY_NN,VERB_PRONOUN"
 }
