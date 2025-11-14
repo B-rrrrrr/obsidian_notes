@@ -32,3 +32,9 @@ Chapitre 16:
 Chozo a demandé si le narrateur a eu assez d’argent pour un billet et il a replié au début oui, mais ensuite, il a dit, il a eu pas plus d’argent. Chozo a pris le portemonnaie du narrateur, que c’est très luxurieuse et payé les deux billets. 
 Chapitre 17:
 Ils sont montrés le train et dans le, le narrateur a écouté des autres conversations. Beaucoup des gens sont allés dans la mine, et la personne a droit du Chozo lui demande, si le petit a travaillé sur la mine.
+Chapitre 18:
+Il a pensé sur la relation de mourir avec de sommeil et il a dormi dans le train. Ensuite, le train a arrêté et il s’a levé. Il n’a pas su si les événements ces réelles. 
+Chapitre 19:
+Ils sont descendus le train et ont marché dans une vielle village. Il a pensé que son âme n’a pas eu des choses nécessaires et que son âme n’a pas eus assez.
+Chapitre 20:
+Ils ont marché dans le pied en la mine. Le narrateur s’a interrogé pourquoi il fait qu’il fait.
