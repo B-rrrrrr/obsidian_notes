@@ -9,10 +9,20 @@
     "ca": "ca-ES"
   },
   "dictionary": [
-    "Gompert"
+    "Annenkov",
+    "Chozo",
+    "dotèra",
+    "dotéra",
+    "Foka",
+    "Gompert",
+    "hozo",
+    "Kaliayev",
+    "Orlov",
+    "Skouratov",
+    "Voinov"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
-  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE"
+  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE,MANY_NN,MANY_NN,MANY_NN,MANY_NN,VERB_PRONOUN"
 }
