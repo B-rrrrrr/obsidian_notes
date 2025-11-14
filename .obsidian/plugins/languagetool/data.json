@@ -1,0 +1,18 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "autoCheckDelay": 3000,
+  "shouldAutoCheck": true,
+  "languageVariety": {
+    "en": "en-GB",
+    "de": "de-CH",
+    "pt": "pt-PT",
+    "ca": "ca-ES"
+  },
+  "dictionary": [
+    "Gompert"
+  ],
+  "syncDictionary": false,
+  "remoteDictionary": [],
+  "pickyMode": false,
+  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE"
+}
