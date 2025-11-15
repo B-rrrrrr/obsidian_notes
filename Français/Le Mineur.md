@@ -38,3 +38,11 @@ Chapitre 19:
 Ils sont descendus le train et ont marché dans une vielle village. Il a pensé que son âme n’a pas eu des choses nécessaires et que son âme n’a pas eus assez.
 Chapitre 20:
 Ils ont marché dans le pied en la mine. Le narrateur s’a interrogé pourquoi il fait qu’il fait.
+Chapitre 21:
+Encore, ils ont marché dans le pied en la mine et ils ont regardé une grande montagne et le soleil qu’il a couché. Le narrateur a eu faim.
+Chapitre 22:
+Le narrateur veut manger dans un restaurant et ils sont allés passer la dernière restaurant. Mais Chozo a vu un homme avec une couverture rouge et ils ont parlé.
+Chapitre 23:
+Le narrateur a réalisé que Chozo a interrogé l’homme avec une couverture rouge sur le travail dans la mine. Le narrateur a été furieux et a réalisé qu’il n’a pas spécial ou unique. L’homme avec une couverture rouge a répondu la même que le narrateur a répondu Chozo.
+Chapitre 24:
+Le narrateur a pensé beaucoup sur sa condition et sur l’homme avec une couverture rouge. Sa conclusion est, c’est mieux avec le peuple au lieu d’être seul.
