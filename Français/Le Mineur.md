@@ -46,3 +46,21 @@ Chapitre 23:
 Le narrateur a réalisé que Chozo a interrogé l’homme avec une couverture rouge sur le travail dans la mine. Le narrateur a été furieux et a réalisé qu’il n’a pas spécial ou unique. L’homme avec une couverture rouge a répondu la même que le narrateur a répondu Chozo.
 Chapitre 24:
 Le narrateur a pensé beaucoup sur sa condition et sur l’homme avec une couverture rouge. Sa conclusion est, c’est mieux avec le peuple au lieu d’être seul.
+Chapitre 25:
+Ils ont continué avec l’homme rouge et le narrateur a dit qu’il a eu faim. Ils ont arrêté dans une baraque et ils ont pris des patates.
+Chapitre 26:
+Ils ont marché dans le pied sur la mine. Le soleil s’a couché et la montagne est très grande et sombre. Il y a une rivière et c’est très froid. C’est mai. Le narrateur a vu un petit garçon qui a 13-14 ans.
+Chapitre 27:
+Chozo a offert une patate au garçon qui l’a mangé. Il n’a rien dit et le narrateur a pensé que le garçon a plus faim que lui. Le garçon ne dit rien et il a une expression étrange.
+Chapitre 28:
+Le garçon n’a pas eu un sur lui et Chozo a interrogé lui s’il veut travailler dans la mine. Le garçon a accepté et ils ont marché ensemble. Le narrateur à notice les similarités sur lui et le garçon.
+Chapitre 29:
+C’est nuit et ils ont avancé. Ils n’ont rien dit.
+Chapitre 30:
+Le narrateur a pensé beaucoup dans sa situation. Il a pensé qu’il était docile.
+Chapitre 31:
+Il a raconté qu’ils ont marché dans la forêt à la nuit. Le petit garçon s’enfuir.
+Chapitre 32:
+Chozo a crié pour le garçon, mais il n’y a pas une réponse. Ils ont continué et, quand ils sont arrivés dans une maison avec une lampe, le petit garçon était là.
+Chapitre 33:
+Chozo a entré la maison et a dit, qu’ils ont dormi dans là. Le narrateur a pensé encore dans la docilité.
