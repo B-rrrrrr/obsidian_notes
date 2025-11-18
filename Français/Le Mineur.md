@@ -64,3 +64,11 @@ Chapitre 32:
 Chozo a crié pour le garçon, mais il n’y a pas une réponse. Ils ont continué et, quand ils sont arrivés dans une maison avec une lampe, le petit garçon était là.
 Chapitre 33:
 Chozo a entré la maison et a dit, qu’ils ont dormi dans là. Le narrateur a pensé encore dans la docilité.
+Chapitre 34:
+Le narrateur a pensé qu’est-ce que c’est un humain. Ils sont entrés dans la maison.
+Chapitre 35:
+Il y a un patron dans la maison, et il a les yeux seulement pour Chozo. Le narrateur a de problèmes de pas dormir.
+Chapitre 36:
+Ils ont dormi, mais le narrateur s’a levé toujours dans la nuit. Enfin, ils leur sont levés et ont laissé la maison pour arriver en la mine avant midi. 
+Chapitre 37:
+Chozo a interrogé le narrateur qu’il veut manger, mais le narrateur est plus timide et n’a pas dit qu’il veut. Chozo a remercié Kuma, qu’il a de maison et ils ont marché encore dans la mine.

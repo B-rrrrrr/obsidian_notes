@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Main Notes/Vanity causes imitation.md",
+                "file": "6 Main Notes/Bad images not bad people.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vanity causes imitation"
+              "title": "Bad images not bad people"
+            }
+          },
+          {
+            "id": "3b424e9a2ce6da9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Main Notes/Art creates meaning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Art creates meaning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,19 +216,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "179736d0ae01759b",
+  "active": "3b424e9a2ce6da9f",
   "lastOpenFiles": [
+    "6 Main Notes/Becoming oneself.md",
+    "6 Main Notes/Art creates meaning.md",
+    "6 Main Notes/Bad images not bad people.md",
+    "Français/Le Mineur.md",
+    "6 Main Notes/Vanity causes imitation.md",
     "6 Main Notes/Using suffering.md",
     "6 Main Notes/Only creation can change reality.md",
-    "6 Main Notes/Vanity causes imitation.md",
     "6 Main Notes/We would rather want than have.md",
     "6 Main Notes/Why do we become addicted?.md",
     "6 Main Notes/What makes something or somebody special?.md",
-    "6 Main Notes/Bad images not bad people.md",
-    "Français/Le Mineur.md",
     "6 Main Notes/Narcotics dressed up as art.md",
     "6 Main Notes/Balance of body and mind.md",
-    "6 Main Notes/Becoming oneself.md",
     "6 Main Notes/Isn't everyone an addict?.md",
     "6 Main Notes/Appearances can only change through new appearances.md",
     "Français/Les Justes.md",
@@ -218,7 +244,6 @@
     "6 Main Notes/Dangers of immortalization.md",
     "6 Main Notes/Escaping addiction.md",
     "6 Main Notes/Improvement.md",
-    "6 Main Notes/Keeping goals.md",
     "1 Rough Notes/Untitled.base",
     "1 Rough Notes/Untitled 1.base",
     "Français",
