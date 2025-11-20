@@ -72,3 +72,21 @@ Chapitre 36:
 Ils ont dormi, mais le narrateur s’a levé toujours dans la nuit. Enfin, ils leur sont levés et ont laissé la maison pour arriver en la mine avant midi. 
 Chapitre 37:
 Chozo a interrogé le narrateur qu’il veut manger, mais le narrateur est plus timide et n’a pas dit qu’il veut. Chozo a remercié Kuma, qu’il a de maison et ils ont marché encore dans la mine.
+Chapitre 38:
+Ils sont montrés une montagne et ont marché dans les nuages. Aucun a parlé.
+Chapitre 39:
+Enfin, ils sont arrivés dans le village dans la montagne où ils veulent travailler sur la mine.
+Chapitre 40:
+Les maisons des mineurs ç'a très mal. Il n’y a pas de place, et les mineurs ont de mots plus compliqués, et que le narrateur n’a pas compris ou à de courage pour interroger.
+Chapitre 41:
+L’homme couverture rouge et le petit garçon ont disparu, quand ils sont arrivés dans le village. C’est seulement le narrateur qui veut être mineur. Il a interrogé Chozo comment il a deviné mineur et Chozo a replié qu’il fait de négociations.
+Chapitre 42:
+Chozo est parti, le narrateur et le chef et il n’a pas vu Chozo ensuite. Le chef, a-t-il dit, que Chozo a menti et être mineur, ce n'est rien pour lui.
+Chapitre 43:
+Mais le narrateur veut travailler dans la mine et il a dit qu’il n’a pas besoin l’argent. Le chef, qui s’appelle Hara, a connu beaucoup d'étudiants qui sont partis avant 10 jours dans la mine et il n’a pas eu d’espoir pour lui. Le narrateur a pensé qu’est-ce qu’il a fait, parce qu'il n’a pas d’argent, et Chozo lui a abandonné.
+Chapitre 44:
+Le narrateur n’a pas renoncé le travail et il a dit, Monsieur Hara, qu’il n’a pas eu une maison.
+Chapitre 45:
+Enfin, Monsieur Hara a donné le travail pour le narrateur. Il veut essayer et si ça n’a pas fonctionné, il est parti la mine.
+Chapitre 46:
+Monsieur Hara lui dit, qu’il n’a pas gagné d’argent et il y a quatre formes de mineur. Maintenant, il veut installer sur les quartiers avec quelqu’un.
