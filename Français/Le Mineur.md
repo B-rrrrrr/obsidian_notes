@@ -90,3 +90,12 @@ Chapitre 45:
 Enfin, Monsieur Hara a donné le travail pour le narrateur. Il veut essayer et si ça n’a pas fonctionné, il est parti la mine.
 Chapitre 46:
 Monsieur Hara lui dit, qu’il n’a pas gagné d’argent et il y a quatre formes de mineur. Maintenant, il veut installer sur les quartiers avec quelqu’un.
+Chapitre 47:
+Une vielle femme s’il a accompagné sur le chauffoir. Là, il a vu beaucoup des mineurs qui ont un visage très brutal. 
+Chapitre 48:
+Les mineurs lui a intimidé avec leurs criés et leurs apparences.
+Chapitre 49:
+Un des mineurs lui dit, il ne veut pas travailler dans la mine et les autres ont ri beaucoup.
+Chapitre 50:
+Le narrateur a répondu aux mineurs, mais il a raillé sur les Les mineurs lui disent encore fous le camp!
+Chapitre 51:
