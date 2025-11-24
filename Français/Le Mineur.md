@@ -99,3 +99,29 @@ Un des mineurs lui dit, il ne veut pas travailler dans la mine et les autres ont
 Chapitre 50:
 Le narrateur a répondu aux mineurs, mais il a raillé sur les Les mineurs lui disent encore fous le camp!
 Chapitre 51:
+La vielle femme lui a donné un petit portion du riz et le narrateur veut le manger, mais le riz a glissé dans ses baguettes. Les mineurs ont ri beaucoup.
+Chapitre 52:
+Les mineurs ont moqué le narrateur encore, mais ils ont distrait sur le lamento et ils ont regroupé dans la fenêtre.  
+Chapitre 53:
+Le lamento, c'est une rituelle funèbre avec de musique. Les mineurs veulent que père Kin aussi a vu le, mais il est vraiment vielle et malade pour se lever. 
+Chapitre 54:
+Les mineurs ont discuté la vie après la mort. Ils ont oublié le narrateur et c’est comme le narrateur était un des mineurs.
+Chapitre 55:
+Le vieil homme a laissé sa femme à engager avec un autre pour 5 yens et il n’a pas utilisé l’argent parce qu’il a eu malade. Les mineurs ont moqué le.
+Chapitre 56:
+Une autre groupe des hommes est entré dans la salle et les mineurs sont partis. Des nouveaux hommes se sont assis dans la salle. L’un a demandé que le narrateur a été nouveau et il dit oui.
+Chapitre 57:
+Encore, la vielle femme a parlé avec le narrateur et apporté sur le lieu pour dormir. La natte et la couverture à coût. Enfin, il a dormi, mais la natte et trop petit pour lui.
+Chapitre 58:
+Il y a des punaises qu’ils ont piquées. Il y a aussi de ris d’autres mineurs.
+Chapitre 59:
+Au matin, le narrateur a pensé dans des punaises et se levé. Les autres mineurs ont rendu à leur travail dans la mine.
+Chapitre 60:
+Il a demandé, où la toilette est et fait la toilette. Il a mangé ça petit déjeuner qu’est de soupe à miso et de riz et la vielle femme lui dit, qu’il est venu sur le chef. Mais, un homme lui dit qu’il a accompagné sur la mine et le narrateur lui a suivi.
+Chapitre 61:
+Hatsu a pris les choses pour faire le travail dans la mine au narrateur et ils ont marché dans la mine.
+Chapitre 62:
+Ils ont entré dans la mine et Hatsu a marché très vite. Il a parlé sur le gril, où il a jeté le minerai ou aussi le mineur…
+Chapitre 63:
+L’entrée de la mine est apparu comme une lune et ils ont marché plus loin. Ils sont arrivés dans un centre dans la mine où Hatsu a parlé avec les généraux.
+Chapitre 64:

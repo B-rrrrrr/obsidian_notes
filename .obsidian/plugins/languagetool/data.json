@@ -18,13 +18,15 @@
     "Hara",
     "hozo",
     "Kaliayev",
+    "Kin",
     "Kuma",
     "Orlov",
     "Skouratov",
-    "Voinov"
+    "Voinov",
+    "Hatsu"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
-  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE,MANY_NN,MANY_NN,MANY_NN,MANY_NN,VERB_PRONOUN,J_N2"
+  "disabledRules": "FRENCH_WHITESPACE,ENGLISH_WORD_REPEAT_RULE,MANY_NN,MANY_NN,MANY_NN,MANY_NN,VERB_PRONOUN,J_N2,NOUN_AROUND_IT"
 }
