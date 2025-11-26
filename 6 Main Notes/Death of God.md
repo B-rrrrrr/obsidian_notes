@@ -10,6 +10,7 @@ Namely, all values become groundless and utterly meaningless. Without a thing gr
 
 The only thing that can bring a person out of despair, is transcendence. God was an easy way of doing this, but without one, a person must become their own “God”. With this it is not meant something to worship, but rather, something that can create and transform the self. Without an outside force dictating what should and should not be, one must create these forces and create one’s own meaning and values to transcend the self. 
 
-Without the outside forces of a God, everything becomes meaningless. To transcend this, one must create own values and meaning to not succumb to despair.
+Without the outside forces of a God, everything becomes meaningless. To transcend this, one must create their own values and meaning to not succumb to despair.
 # References
 /125/ Der tolle Mensch, Die fröhliche Wissenschaft
+/151/ Vom Ursprunge der Religion, Die fröhliche Wissenschaft

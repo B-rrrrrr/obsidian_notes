@@ -123,5 +123,20 @@ Hatsu a pris les choses pour faire le travail dans la mine au narrateur et ils o
 Chapitre 62:
 Ils ont entré dans la mine et Hatsu a marché très vite. Il a parlé sur le gril, où il a jeté le minerai ou aussi le mineur…
 Chapitre 63:
-L’entrée de la mine est apparu comme une lune et ils ont marché plus loin. Ils sont arrivés dans un centre dans la mine où Hatsu a parlé avec les généraux.
+L’entrée de la mine est apparue comme une lune et ils ont marché plus loin. Ils sont arrivés dans un centre dans la mine où Hatsu a parlé avec les généraux.
 Chapitre 64:
+Hatsu le guide dans la mine. Ils ont rampé.
+Chapitre 65:
+Le narrateur s’inquiète parce que sa lampe est presque éteinte, mais Hatsu lui dit que la lampe n’est pas éteinte.
+Chapitre 66:
+Ils ont marché encore dans la mine et il y a une chute dans laquelle ils ont glissé. Le narrateur a réalisé, quand il l'écrit, que Hatsu lui moquer.
+Chapitre 67:
+Ils sont arrivés dans un site d’extraction et ils ont vu trois autres hommes.
+Chapitre 68:
+Hatsu a introduit le narrateur aux trois hommes et ils ont parlé sûr des femmes et de mort.
+Chapitre 69:
+Le narrateur a pensé ce que les autres a pensé sur lui. Le feraient-ils? Pleurer peut-être? Ensuite, il y a des fracas.
+Chapitre 70:
+Il y a beaucoup de fumée dans la mine et c’est parce que la dynamite a explosé. Ils ont marché encore et Hatsu veut guider le narrateur au gril.
+Chapitre 71:
+Ils sont arrivés dans le gril et le narrateur a eu de peur parce que la fosse est très grande et noir. Le ramasseur a jeté les sacs dans la grande fosse et ensuite, ils ont fait de blagues sur le narrateur, parce qu’il la ne fait pas.
