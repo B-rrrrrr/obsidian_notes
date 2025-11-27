@@ -139,4 +139,12 @@ Le narrateur a pensé ce que les autres a pensé sur lui. Le feraient-ils? Pleur
 Chapitre 70:
 Il y a beaucoup de fumée dans la mine et c’est parce que la dynamite a explosé. Ils ont marché encore et Hatsu veut guider le narrateur au gril.
 Chapitre 71:
-Ils sont arrivés dans le gril et le narrateur a eu de peur parce que la fosse est très grande et noir. Le ramasseur a jeté les sacs dans la grande fosse et ensuite, ils ont fait de blagues sur le narrateur, parce qu’il la ne fait pas.
+Ils sont arrivés dans le gril et le narrateur a eu de peur parce que la fosse est très grande et noire. Le ramasseur a jeté les sacs dans la grande fosse et ensuite, ils ont fait de blagues sur le narrateur, parce qu’il la ne fait pas.
+Chapitre 72:
+Ils sont arrivés dans un lieu, où ils doivent descendre. Hatsu a demandé le narrateur qu’il veut descendre et il dit oui. Hatsu est descendu et le narrateur a de peur.
+Chapitre 73:
+Le narrateur est aussi descendu et ensuite est arrivé sur le sol. Il a beaucoup de peur et il y a des moments quand il n’a pas vu Hatsu et quand sa lampe a perdu le feu. Mais, il y a six échelles sur le sol et le narrateur n’a pas vu Hatsu.
+Chapitre 74:
+Après 15 échelles, ils sont arrivés dans le vrai sol, mais Hatsu lui dit qu’il y a encore de marché. Il y a de l’eau en le sol et le narrateur a de l’inquiétude.
+Chapitre 75:
+Ils ont marché encore dans l’eau et Hatsu lui dit que c’est normal dans la galerie 8. Ils étaient dans la mine pour huit heures, mais Hatsu a trouvé que c’est le moyen temps pour marcher dans la mine dans le plus profond.
