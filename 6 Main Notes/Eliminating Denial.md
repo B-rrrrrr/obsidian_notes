@@ -10,5 +10,6 @@ In order to get out of Denial what’s needed is to gain the self-awareness to c
 
 In order to escape from Denial the substance must lose its ability to console in tough situations. 
 # References
+[[Will is not the origin but the result]]
 [[Escaping addiction]] 
 Page 345 Infinite Jest

@@ -1,0 +1,1 @@
+"Rilke writes somewhere that modern man can no longer die a dramatic death. He dies in a hospital room, like a bee inside a honeycomb cell. Death in the modern age, whether due to illness or accident, is devoid of drama. We live in an age in which there is no heroic death." Mishima
