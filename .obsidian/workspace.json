@@ -35,21 +35,9 @@
             "id": "73bfc0a61a291a70",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "2de0b0623b15377d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "6 Main Notes/We like similarities of ourselves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "We like similarities of ourselves"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +216,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2de0b0623b15377d",
+  "active": "73bfc0a61a291a70",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "6 Main Notes/Will is not the origin but the result.md",
     "6 Main Notes/Voluntary distance from comfort for joy.md",
-    "6 Main Notes/Untitled.md",
+    "6 Main Notes/We like similarities of ourselves.md",
     "6 Main Notes/Our surroundings reveal our drives.md",
     "6 Main Notes/Morality is not individuality.md",
     "6 Main Notes/Fulfilment leads to greater joy and greater despair.md",
