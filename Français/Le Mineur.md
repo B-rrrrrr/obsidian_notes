@@ -148,3 +148,10 @@ Chapitre 74:
 Après 15 échelles, ils sont arrivés dans le vrai sol, mais Hatsu lui dit qu’il y a encore de marché. Il y a de l’eau en le sol et le narrateur a de l’inquiétude.
 Chapitre 75:
 Ils ont marché encore dans l’eau et Hatsu lui dit que c’est normal dans la galerie 8. Ils étaient dans la mine pour huit heures, mais Hatsu a trouvé que c’est le moyen temps pour marcher dans la mine dans le plus profond.
+Chapitre 76:
+Hatsu a trouvé qu’ils ont marché assez et ils sont retournés. Dans le pied des échelles, Hatsu veut parler avec quelqu’un et le narrateur est paralysé.
+Chapitre 77:
+Hatsu a quitté le narrateur et il n’a pas bougé ses jambes. Le narrateur a pensé de sa conscience et de bonheur.
+Chapitre 78:
+Dans sa conscience, il a dit qu’il va mort, mais il a ouvré ses yeux et a ignoré ces pensées. Hatsu a retourné et ils sont montrés les échelles.
+Chapitre 79:
