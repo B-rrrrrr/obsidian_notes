@@ -10,6 +10,6 @@ By doing this, we create an environment that consists of only comfort. We establ
 
 As a result of this, we learn less about the world. Our horizons remain limited, and we are unable to grow as a person, for growth originates from discomfort, and we can only expand our minds through taking in new ideas, especially those that show our weaknesses. 
 
-Through only listenting to and surrounding ourselves with those who bring us comfort, we only interact with similarities of us, therefore losing the need to improve ourselves. 
+Through only listening to and surrounding ourselves with those who bring us comfort, we only interact with similarities of us, therefore losing the need to improve ourselves. 
 # References
 /166/ Immer in unserer Gesellschaft, Die fröhliche Wissenschaft
