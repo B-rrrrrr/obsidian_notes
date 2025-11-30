@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f6a459b3034e239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "9e7cf7a6402bfc0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Français/Le Mineur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Le Mineur"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +193,14 @@
   },
   "active": "9e7cf7a6402bfc0c",
   "lastOpenFiles": [
-    "6 Main Notes/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "6 Main Notes/We like similarities of ourselves.md",
-    "6 Main Notes/How to improve oneself.md",
+    "6 Main Notes/Does removing harm help?.md",
+    "6 Main Notes/Becoming oneself.md",
+    "6 Main Notes/Appearing profound vs being profound.md",
+    "6 Main Notes/Art creates meaning.md",
     "Français/Le Mineur.md",
+    "6 Main Notes/We like similarities of ourselves.md",
+    "conflict-files-obsidian-git.md",
+    "6 Main Notes/How to improve oneself.md",
     "6 Main Notes/Reality is an appearance.md",
     "6 Main Notes/Voluntary distance from comfort for joy.md",
     "6 Main Notes/Weariness of the self.md",
@@ -241,9 +219,6 @@
     "6 Main Notes/Only creation can change reality.md",
     "6 Main Notes/Narcotics dressed up as art.md",
     "6 Main Notes/Our surroundings reveal our drives.md",
-    "6 Main Notes/Vanity causes imitation.md",
-    "6 Main Notes/Happiness through suffering.md",
-    "6 Main Notes/Eliminating Denial.md",
     "1 Rough Notes/Untitled.base",
     "1 Rough Notes/Untitled 1.base",
     "Français",

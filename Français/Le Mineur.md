@@ -147,7 +147,7 @@ Le narrateur est aussi descendu et ensuite est arrivé sur le sol. Il a beaucoup
 Chapitre 74:
 Après 15 échelles, ils sont arrivés dans le vrai sol, mais Hatsu lui dit qu’il y a encore de marché. Il y a de l’eau en le sol et le narrateur a de l’inquiétude.
 Chapitre 75:
-Ils ont marché encore dans l’eau et Hatsu lui dit que c’est normal dans la galerie 8. Ils étaient dans la mine pour huit heures, mais Hatsu a trouvé que c’est le moyen temps pour marcher dans la mine dans le plus profond.
+Ils ont marché encore dans l’eau et Hatsu lui dit que c’est normal dans la Galerie 8. Ils étaient dans la mine pour huit heures, mais Hatsu a trouvé que c’est le moyen temps pour marcher dans la mine dans le plus profond.
 Chapitre 76:
 Hatsu a trouvé qu’ils ont marché assez et ils sont retournés. Dans le pied des échelles, Hatsu veut parler avec quelqu’un et le narrateur est paralysé.
 Chapitre 77:
@@ -155,3 +155,12 @@ Hatsu a quitté le narrateur et il n’a pas bougé ses jambes. Le narrateur a p
 Chapitre 78:
 Dans sa conscience, il a dit qu’il va mort, mais il a ouvré ses yeux et a ignoré ces pensées. Hatsu a retourné et ils sont montrés les échelles.
 Chapitre 79:
+Pendant qu’il a monté les échelles, il a arrêté et Hatsu est allé plus vite. Le narrateur a pensé sur le suicide et quand il veut lâcher l’échelle…
+Chapitre 80:
+Mais il veut vivre. Le mort sur le sol d’une très mauvaise mine et où Hatsu lui découvre, a vu très mal pour lui. Et il a monté les échelles et ensuite, il est arrivé tout en haut.
+Chapitre 81:
+Hatsu a parlé avec le narrateur et il veut dire plusieurs choses, parce qu’il n’aime plus Hatsu, mais il ne le dit pas et ils ont marché. Hatsu est très vite et le narrateur a des pensées sur lui.
+Chapitre 82:
+Le narrateur a perdu Hatsu et il a vu des autres mineurs. Un de leur a parlé avec le narrateur.
+Chapitre 83:
+Le mineur a parlé avec le narrateur. Il a expliqué sa situation et le mineur veut lui aider.
