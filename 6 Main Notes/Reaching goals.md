@@ -1,6 +1,6 @@
 2025-10-31 07:15
 
-Tags:
+Tags: [[transcendence]] [[desire]]
 # Reaching goals
 Ever had that feeling that having something did not equate to wanting it? Usually this experience is connected with buying something but can also be related to other experiences. Now what happens when a persons’ meaning of life was achieving this goal and then the realization hits that it doesn’t make happy as much as it was believed to make happy. What happens now? Depression, suicide, something else? Or can this be avoided in any way? 
 

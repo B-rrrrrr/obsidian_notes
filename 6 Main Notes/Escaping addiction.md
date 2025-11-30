@@ -1,6 +1,6 @@
 2025-10-26 08:54
 
-Tags:
+Tags: [[addiction]] [[will]]
 # Escaping addiction
 Isolation, despair, hopelessness, disappointment: these are all feelings felt by those who try to escape addiction. They know that what they’re doing is bad but they can’t stop, or if they can then they can only hold on for a couple of days before relapsing. No matter what they can’t escape the hold the addiction has on them. But how can you escape?
 

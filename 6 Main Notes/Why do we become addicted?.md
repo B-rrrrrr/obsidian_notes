@@ -1,6 +1,6 @@
 2025-10-30 07:17
 
-Tags:
+Tags: [[addiction]] [[escapism]]
 # Why do we become addicted?
 When it was announced that there existed a film that was so enjoyable that anyone who watched it would lose the will to eat, drink or even live in order to watch the film, most people ignored it. Except at some point almost everyone will decide to sit down and watch it and then die from it. But why would a person willingly sit down with such a thing and basically kill themselves by engaging with the ultimate pleasure?
 

@@ -1,6 +1,6 @@
 2025-10-24 07:17
 
-Tags:
+Tags: [[altruism]] [[happiness]]
 # Maximizing pleasure
 In life we want to maximize pleasure and minimize suffering for ourselves. We want people to adhere to us, to respect us and to serve us. In other words we want domesticated pets as friends, lovers and colleagues. But this is not a healthy society and it is not a society that can exist, because if everyone has this goal then no one can have this goal. So, how can two people achieve maximal pleasure even though such a thing is impossible?
 

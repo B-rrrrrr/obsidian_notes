@@ -1,6 +1,6 @@
 2025-11-28 07:12
 
-Tags:
+Tags: [[criticism]] [[self-improvement]]
 # We like similarities of ourselves
 Throughout time but especially through the invention of the internet have we always tried to search for those who are like us. We love those people who give us praise and validation. In fact, we like this so much, that critiques seem harmful to us, and so we avoid them. By doing this, we only hear things that we ourselves know, and therefore lack the sight to see our own weaknesses and then lack the will or even need for self-improvement. 
 

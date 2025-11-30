@@ -1,6 +1,6 @@
 2025-11-15 08:15
 
-Tags:
+Tags: [[appearances]] 
 # Bad images not bad people
 Society likes to create stereotypes of people. Women have to be obedient, men must be commanding, programmers always look like nerds, jacked men are stupid, etc. When fitted into these boxes, they are in a way rewarded for them, unless the image is seen as bad. Then the people are seen in a negative light. If they then break free of them though, it is seen as damaging and strange. Thus, a negative cycle is created that they can’t escape from. But there is a way to escape it: through the image itself.
 

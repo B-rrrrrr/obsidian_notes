@@ -1,6 +1,6 @@
 2025-11-06 07:15
 
-Tags:
+Tags: [[transcendence]]
 # Weariness of the self
 Eines Besitzes überdrüssig werden, das ist: unser selber überdrüssig werden.
 
@@ -11,7 +11,6 @@ In life, no matter what we do, we are always in a state of possessing our bodies
 In order to stop this weariness of ourselves, we must create the desire again. We must want to become something again to reignite the desire, the value, for the possession again. We must transform ourselves into something new. Through transcending the limits of ourselves, or even merely trying to reach those limits, this chase for the want invigorates the self and will make it seem as if we don’t possess the self that we want.
 
 If we stop transcending ourselves and our inner limits, we will become tired of ourselves, for we will have possessed ourselves without desire for too long.
-
 # References
 [[We would rather want than have]]
 [[Reaching goals]]

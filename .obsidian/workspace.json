@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b616448e8333a86",
+        "id": "0b0a869e4bd4e8e1",
         "type": "tabs",
         "children": [
           {
-            "id": "9e7cf7a6402bfc0c",
+            "id": "40532c4d61f36fe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/Le Mineur.md",
+                "file": "6 Main Notes/Becoming oneself.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Le Mineur"
+              "title": "Becoming oneself"
             }
           }
         ]
@@ -191,34 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e7cf7a6402bfc0c",
+  "active": "40532c4d61f36fe9",
   "lastOpenFiles": [
-    "6 Main Notes/Does removing harm help?.md",
-    "6 Main Notes/Becoming oneself.md",
-    "6 Main Notes/Appearing profound vs being profound.md",
-    "6 Main Notes/Art creates meaning.md",
-    "Français/Le Mineur.md",
-    "6 Main Notes/We like similarities of ourselves.md",
-    "conflict-files-obsidian-git.md",
-    "6 Main Notes/How to improve oneself.md",
-    "6 Main Notes/Reality is an appearance.md",
-    "6 Main Notes/Voluntary distance from comfort for joy.md",
-    "6 Main Notes/Weariness of the self.md",
-    "6 Main Notes/Acknowledging sin for life, not for God.md",
-    "6 Main Notes/Balance of body and mind.md",
-    "Creative Ideas/Idea 3.md",
-    "Creative Ideas/Idea 2.md",
-    "Creative Ideas/Idea.md",
+    "3 Tags/art.md",
     "6 Main Notes/Will is not the origin but the result.md",
-    "6 Main Notes/Why do we become addicted?.md",
-    "6 Main Notes/We would rather want than have.md",
-    "6 Main Notes/Suicide does not arise from hopelessness.md",
-    "6 Main Notes/Improvement.md",
-    "6 Main Notes/Death of God.md",
+    "6 Main Notes/Using suffering.md",
+    "3 Tags/self-improvement.md",
+    "3 Tags/transcendence.md",
+    "6 Main Notes/Art creates meaning.md",
+    "6 Main Notes/Reaching goals.md",
+    "3 Tags/idk.md",
+    "6 Main Notes/Acknowledging sin for life, not for God.md",
+    "6 Main Notes/Appearing profound vs being profound.md",
+    "6 Main Notes/Bad images not bad people.md",
+    "6 Main Notes/Balance of body and mind.md",
+    "6 Main Notes/Becoming oneself.md",
+    "6 Main Notes/Being the instrument rather than being the player.md",
+    "6 Main Notes/Continue rather than return for knowledge.md",
     "6 Main Notes/Dangers of immortalization.md",
-    "6 Main Notes/Only creation can change reality.md",
-    "6 Main Notes/Narcotics dressed up as art.md",
-    "6 Main Notes/Our surroundings reveal our drives.md",
+    "6 Main Notes/Death of God.md",
+    "6 Main Notes/Eliminating Denial.md",
+    "6 Main Notes/Escaping addiction.md",
+    "6 Main Notes/Fulfilment leads to greater joy and greater despair.md",
+    "6 Main Notes/What makes something or somebody special?.md",
+    "6 Main Notes/Why do we become addicted?.md",
+    "6 Main Notes/Weariness of the self.md",
+    "6 Main Notes/We would rather want than have.md",
+    "6 Main Notes/We like similarities of ourselves.md",
+    "6 Main Notes/Voluntary distance from comfort for joy.md",
     "1 Rough Notes/Untitled.base",
     "1 Rough Notes/Untitled 1.base",
     "Français",

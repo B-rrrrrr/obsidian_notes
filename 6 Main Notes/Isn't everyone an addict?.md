@@ -1,6 +1,6 @@
 2025-10-22 07:38
 
-Tags:
+Tags: [[addiction]] 
 # Isn't everyone an addict?
 In our life we will definitely eventually become addicted to something. It is the way our minds our structured. But the real question is, do I need help against my addiction? 
 

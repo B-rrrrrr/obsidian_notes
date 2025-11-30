@@ -1,6 +1,6 @@
 2025-11-13 07:17
 
-Tags:
+Tags: [[transformation]] [[self-improvement]]
 # Using suffering
 Throughout life, we all experience a kind of suffering within ourselves. Boredom, displeasure, and dissatisfaction with oneself are all very common forms of this, and they cause a desire for action. This suffering cannot be escaped from, and eventually this desire will grow so strong that it must be acted upon. This can occur in two ways: via transformation of the self, or via a projection onto the world.
 

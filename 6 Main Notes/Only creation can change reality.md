@@ -1,6 +1,6 @@
 2025-11-14 07:22
 
-Tags:
+Tags: [[appearances]] [[reality]]
 # Only creation can change reality
 The way things appear is more important than what they are.
 

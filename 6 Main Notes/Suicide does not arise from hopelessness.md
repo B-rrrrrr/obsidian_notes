@@ -1,8 +1,7 @@
 2025-10-29 07:21
 
-Tags:
+Tags: [[suicide]]
 # Suicide does not arise from hopelessness
-
 A person is trapped within a burning building and finds themselves stuck on the third floor. The flames have entrenched the entire place and smoke clouds the rooms. This person has only one route of escape: jump out of the window. They try to delay this for as long as possible because jumping out is almost certain death. Maybe help will arrive eventually? People outside scream for them to not do it for help is on the way but the flames… the flames are too hot to bear. They open up the window and jump.
 
 This is an equivalent given from Kate Gompert in Infinite Jest to how she experiences the pain of living and why people attempt to commit suicide. For her depression has eaten her up so much, that instead of just being a numb empty feeling, it’s turned into a divine anguish that torments her everyday. She feels there is no escape from it and thus turns to suicide, trying to find relief from the flames. It is not a selfish act, as some like to believe.

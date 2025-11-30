@@ -1,6 +1,6 @@
 2025-10-25 20:41
 
-Tags:
+Tags: [[addiction]] [[escapism]]
 # Denial
 “When I was drunk I wanted to get sober and when I was sober I wanted to get drunk.“  Welcome to Denial. This is the point at which the user doesn’t realize that the thing causing all their problems is the coping mechanism they used to escape from it all. But how can someone escape from Denial if the substance keeps them from the realization and from reality?
 

@@ -1,6 +1,6 @@
 2025-11-01 08:57
 
-Tags:
+Tags: [[self-improvement]] [[transcendence]]
 # How to improve oneself
 When a person improves themselves significantly, can’t you say that this person has changed fundamentally? And if a person continues this improvement constantly, what makes them similar to themselves in the past, if anything? Isn’t this a new person, completely different from their past selves, a being that has overcome limits that defined these past selves?
 

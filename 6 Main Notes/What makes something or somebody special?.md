@@ -1,6 +1,6 @@
 2025-11-02 08:10
 
-Tags:
+Tags: [[interpretation]]
 # What makes something or somebody special?
 In the little prince he finds a rose on his planet suddenly. It tells him, that it is the only rose in the universe, and the little prince falls in love with it. Eventually the little prince decides to leave his planet and falls onto the earth, where he finds a garden full of hundereds of roses and he wonders, why should I care about my rose when there are hundereds here?
 
@@ -12,4 +12,5 @@ This also extends beyond the life of the rose itself. Even if the rose dies, des
 
 The most important things are blind to the eye. Therefore one must see not with the eyes, but with the heart.
 # References
+[[Voluntary distance from comfort for joy]]
 Chapitre 21 Le Petit Prince

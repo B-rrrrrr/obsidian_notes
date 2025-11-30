@@ -1,6 +1,6 @@
 2025-11-21 07:25
 
-Tags:
+Tags: [[individualism]] [[freedom]] [[consciousness]]
 # Continue rather than return for knowledge
 It seems that there are many cases of people who criticize consciousness. They think that it is an evolutionary mishap and that it is a curse. They long to become the animals who know not and long for simplicity. But this is simply impossible, and one must live with the knowledge that we have now. This thought process remains true when creating one’s own values and finding hardship with the realizations that one makes about life.
 

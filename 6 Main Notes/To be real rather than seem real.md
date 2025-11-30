@@ -1,6 +1,6 @@
 2025-11-10 07:10
 
-Tags:
+Tags: [[reality]] [[appearances]] [[transcendence]]
 # To be real rather than seem real
 With the invention of the Internet, it seems even more common to want to post things about oneself. People have to say what they’re doing at all times, and if they don’t, it doesn’t even seem like they exist. In fact, with the intense speeds the Internet moves at, it is actually the case that they don’t exist any more in that sense. Others will forget them, and taking this in is hard to swallow. So people keep posting, but is there a way to break this and simply exist without this desire?
 

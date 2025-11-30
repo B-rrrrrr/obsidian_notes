@@ -1,6 +1,6 @@
 2025-10-28 07:33
 
-Tags:
+Tags: [[desire]] 
 # We would rather want than have
 Everyone knows what happens when someone finally gets what they want: they realize it doesn’t matter as much as they thought it would. Look at all the extremely famous rock stars and how once they’ve reached their goal they suddenly realize that it doesn’t fulfil them as a person and in the worst case scenario they end up killing themselves. It’s tragic, and yet it’s a pattern that’s been repeated countless times. But how do people reach this stage?
 

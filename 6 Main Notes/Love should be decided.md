@@ -1,6 +1,6 @@
 2025-10-27 07:32
 
-Tags:
+Tags: [[love]] [[decisions]]
 # Love should be decided
 We all worship that which we love. Whether that be a nation, friend, lover, object, job or something else, these things will make us who we are. Because what you worship decides all other decisions, virtues and morals that you have. But how should we choose what to worship? Can we even choose? And how does what I love, change my self?
 

@@ -1,6 +1,6 @@
 2025-11-24 07:28
 
-Tags:
+Tags: [[transgression]] [[god]]
 # Acknowledging sin for life, not for God
 The reason we know about sin and think that is is bad, is because of religion. Without it, believing in different Gods would not be something to be ashamed of. And with the advent of disbelief in God, these thoughts about sin should be discarded. But how can we do that?
 

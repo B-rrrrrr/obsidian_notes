@@ -1,6 +1,6 @@
 2025-11-27 07:23
 
-Tags:
+Tags: [[self-improvement]] [[happiness]] [[balance]]
 # Voluntary distance from comfort for joy
 There have been many times when I’ve had friendships that’ve died out. However, the main reason for them, is not because of too much distance, but rather through too much connection. Despite us having so much joy being in each other's company, it gets too much for the two of us, and we grow tired of each other. Thus, distance is sought, and sometimes we reunite and these cases of reunion are wonderful. But eventually, no more renunciations happen, and it fully dies out. But, as Nietzsche says, these distances should not be caused naturally, but done purposefully to keep the world and life fresh.
 

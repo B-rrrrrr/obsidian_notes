@@ -1,6 +1,6 @@
 2025-11-22 09:47
 
-Tags:
+Tags: [[will]]
 # Will is not the origin but the result
 When a drug addict finally quits, the drug people will congratulate them on being stronger than their inner desires. Their will has let them quit, and this will has finally appeared and acted upon them. Except, this is not the full picture. The will to quit is not something that magically appears, but rather is the result of many other smaller things gathering that culminate into the Will.
 
@@ -12,4 +12,5 @@ Still, the self has to interpret the culmination and see if a will is required. 
 
 Will is not a magical force that changes us, but the result from the self to a culmination of suffering.
 # References
+[[Eliminating Denial]]
 /127/ Nachwirkung der ältesten Religiosität, Die fröhliche Wissenschaft

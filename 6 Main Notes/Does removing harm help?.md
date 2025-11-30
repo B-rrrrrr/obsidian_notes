@@ -1,6 +1,6 @@
 2025-11-03 07:21
 
-Tags:
+Tags: [[addiction]]
 # Does removing harm help?
 We all know the situation, when you want to get something harmful to your wellbeing out of your life. Whether that be drugs, alcohol, television, computers, etc. it is usually better to not have them in daily life. But, don’t they come right back again? Simply removing them from daily life seems to be not enough, because either something just as harmful takes place or the harmful substance finds itself back into life again? So, what was done wrong?
 

@@ -1,6 +1,6 @@
 2025-10-23 07:14
 
-Tags:
+Tags: [[freedom]] [[decisions]] 
 # True freedom
 Two fathers and their children enter a grocery store. The one father lets his child pick whatever they want. The child ends up filling the shopping cart with nothing but sweets and junk food. The second father, however, has taught his child the importance of a balanced diet and lets his child have the choice to choose between that which is healthy and that which is unhealthy. His son fills up the shopping cart with only some sweets and junk food and has prioritized nutrition over pleasure. Now, which child has experienced more freedom?
 

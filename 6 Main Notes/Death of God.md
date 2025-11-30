@@ -1,6 +1,6 @@
 2025-11-23 08:00
 
-Tags:
+Tags: [[god]] [[transcendence]] [[meaning]] 
 # Death of God
 God is dead. A famous phrase uttered by Nietzsche and one that has been falsely interpreted many times. With this phrase, Nietzsche does not mean to say that God is literally dead through an event, but rather, our belief in God has dried up and wilted. Most people have become proud atheists and do not see the wrong in that. They do not understand, that not believing in something greater than the self will lead to despair. The way to not succumb to this, is to become one’s own “God”.
 

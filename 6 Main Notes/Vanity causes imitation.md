@@ -1,6 +1,6 @@
 2025-11-17 07:25
 
-Tags:
+Tags: [[appearances]] [[individualism]]
 # Vanity causes imitation
 When I started writing, I thought that by writing with big words and flowery prose would make my text stand out and make it automatically great. I didn’t realize, that these things would actually hinder my development as a writer, and it is probably why I stopped writing for a while. This need to seem smart and educated held me off from truly writing the story I wanted to write. The way my story appeared took priority over the story itself.
 
@@ -9,6 +9,6 @@ People often think too much about how others perceive them. This leads them to w
 This perception of appearance is not the way to find one's speciality. It is the exact opposite. Through solitude and eliminating the need for acknowledgement from others can the inner self be truly found. It is through this process that one’s true values and meaning form and a truly special life can be created.
 
 Vanity can attract admiration and appreciation from others, but vanity prevents true discovery of oneself.
-
 # References
+[[Appearing profound vs being profound]]
 /87/ Von der Eitelkeit der Künstler, Die fröhliche Wissenschaft

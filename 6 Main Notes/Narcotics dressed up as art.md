@@ -1,6 +1,6 @@
 2025-11-16 08:55
 
-Tags:
+Tags: [[art]] [[transformation]] [[escapism]]
 # Narcotics dressed up as art
 In culture, tragedy and comedy are profound forms of art. We seek inspiration and feel extreme emotions from these pieces of art. Yet in most cases those who consume this art do not grow through it and instead simulate themselves within it, making them continue to stay the way they are.
 

@@ -1,6 +1,6 @@
 2025-11-20 07:24
 
-Tags:
+Tags: [[altruism]] [[individualism]]
 # Morality is not individuality
 “Moralität ist Herden-Instinkt im einzelnen.”
 

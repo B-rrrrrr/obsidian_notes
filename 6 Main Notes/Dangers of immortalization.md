@@ -1,6 +1,6 @@
 2025-11-12 07:22
 
-Tags:
+Tags: [[present]]
 # Dangers of immortalization
 The flesh is merely one form of existence. It is possible for people to transcend this limit and live on long after the process of decay. Authors of bygone times, composers whose works are still played hundreds of years after their death, memories of dead people live on inside those who remember them, and in more recent times the internet has become a home for all thoughts and expressions; how many of those people are still alive today?
 

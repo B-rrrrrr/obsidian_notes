@@ -1,6 +1,6 @@
 2025-11-10 07:09
 
-Tags:
+Tags: [[reality]] [[appearances]] [[interpretation]]
 # Becoming oneself
 My identity online is different from the one in the real world. Likewise, the way I act to my parents is quite different to the way I act in school or with my colleagues. Hell, even the way I act between my friends is different depending on the person. But who am I, in that case? The sum of all these parts? Or an independent being, separated from all of them into one unique identity only known to my subconscious?
 
