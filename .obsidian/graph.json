@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:3 Tags",
+      "query": "path:\"3 Tags\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 15086387
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 11.4583333333333,
   "linkStrength": 1,
   "linkDistance": 314,
-  "scale": 0.6990180035000662,
+  "scale": 0.3106746682222515,
   "close": true
 }

@@ -13,3 +13,5 @@ As a result of this, we learn less about the world. Our horizons remain limited,
 Through only listenting to and surrounding ourselves with those who bring us comfort, we only interact with similarities of us, therefore losing the need to improve ourselves. 
 # References
 /166/ Immer in unserer Gesellschaft, Die fröhliche Wissenschaft
+/190/ Gegen die Lobenden, Die fröhliche Wissenschaft
+/196/ Grenze unsres Hörsinns, Die fröhliche Wissenschaft

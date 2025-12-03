@@ -164,3 +164,29 @@ Chapitre 82:
 Le narrateur a perdu Hatsu et il a vu des autres mineurs. Un de leur a parlé avec le narrateur.
 Chapitre 83:
 Le mineur a parlé avec le narrateur. Il a expliqué sa situation et le mineur veut lui aider.
+Chapitre 84:
+Le mineur a lui dit parce qu’il était dans la mine. La raison est un crime qu’il a fait et c'est sa septième année dans la mine.
+Chapitre 85:
+Le mineur s’appelle Yasu et il a expliqué au narrateur, pourquoi il doit fuir la mine. 
+Chapitre 86:
+Le narrateur a fait la décision pour ne travailler plus sur la mine et Yasu a été très joli. Il veut le narrateur aider, mais il n’accepte pas.
+Chapitre 87:
+Mais Yasu a laissé sa décision et veut qu’il méditerait sur là. Il a accompagné sur le chemin de fuir la mine et Yasu veut que le narrateur a fait un rendez-vous en cinq heures. Le narrateur a pensé sur la société, Yasu crime et sa peine, et dans le suicide de lui-même.
+Chapitre 88:
+Le narrateur est sorti la mine et Hatsu s’a approché sur lui. Le narrateur a de haine pour lui et il a dit, il ne travaille plus sur la mine.
+Chapitre 89:
+Hatsu a apporté le narrateur dans le chef, et il lui dit, il veut voir le docteur au demain. Ensuite, le narrateur est resté.
+Chapitre 90:
+Le narrateur est allé sur le baraquement du Yasu et il a lui dit, il ne veut pas partir la mine et veut s’intégrer sur la mine. Yasu a ri beaucoup et ne comprend pas, pourquoi il a là voulu, mais le narrateur lui dit, il n’avait plus d’endroit. 
+Chapitre 91:
+Il est parti le baraquement du Yasu et est allé sur son baraquement, il a entendu les criées et plusieurs jeunes et il a retourné sur le baraquement du Yasu et a dormi là.
+Chapitre 92:
+Dans la nuit, il est encore piqué dans des punaises et il a pensé sur sa famille et quoi, ils ont fait pas lui. Il a aussi pensé sur deux femmes, qu’il a aimé beaucoup, mais, il a pensé qu’ils ont oublié lui. Le narrateur a voulu dormir en paix.
+Chapitre 93:
+Il s’a levé et a mangé du riz. Il a marché sur l’infirmière et le réceptionniste est très arrogant.
+Chapitre 94:
+Dans la salle d’attente, il y a un autre jeune homme et le docteur a voulu vu le narrateur. Il a fait des tests et ensuite a remarqué qu’il a de bronchite. 
+Chapitre 95:
+Il n’avait plus d’espoir et il est allé sur la maison du chef. Le chef lui dit qu’il ne travaillait plus sur la mine, mais le narrateur a dit encore qu’il n’avait plus une maison pour retourner. Ensuite, le chef a voulu que le narrateur a retourné sur lui demain.
+Chapitre 96:
+En demain, le chef lui a donné le travail pour tenir les comptes du baraquement. Le narrateur a accepté le travail et ça faire pour cinq monates. Ensuite, il a retourné a Tokyo.
