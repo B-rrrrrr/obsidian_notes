@@ -8,8 +8,9 @@ Mishima was able to do this and wrote about it in Sun and Steel. In it he commen
 
 Instead, he thinks that building muscle strengthens this connection between body and mind. Through building muscle one comes into voluntary contact with suffering and death and whilst teetering on this edge of life and death, not only can the body improve and purify itself, but also unite the mind through discipline. No one has ever said that having muscle was a bad thing.
 
-However, he warns that only building muscle is also not good. Both of the extremes are not good to have, and one must strike a balance between the two. Through only having muscle, the body becomes an instrument and one lives like an animal. There are no real thoughts experienced, and life is lived purely on discipline and suffering alone. It is not a complete body that is created in such a case.
+However, he warns that only building muscle is also not good. Both of the extremes are not good to have, and one must strike a balance between the two. Through only having muscle, the body becomes an instrument and one lives like an animal. There are no real thoughts experienced, and life is lived purely on discipline and suffering alone. It is not a complete body that is created in such a case. 
 
 Only through training both the mind and the body equally can a person have a complete, authentic and aesthetic life.
 # References
+[[Strong character and spirit]]
 Sun and Steel
