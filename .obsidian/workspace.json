@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b0a869e4bd4e8e1",
+        "id": "94307b5009796ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "c2c5b915eb7bf2c8",
+            "id": "e580f9e6a194b34c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/La Déchéance d'un homme.md",
+                "file": "6 Main Notes/Vanity causes imitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "La Déchéance d'un homme"
+              "title": "Vanity causes imitation"
             }
           }
         ]
@@ -191,34 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2c5b915eb7bf2c8",
+  "active": "e580f9e6a194b34c",
   "lastOpenFiles": [
-    "Français/Le Horla.md",
+    "3 Tags/consciousness.md",
+    "3 Tags/appearances.md",
+    "6 Main Notes/Stuck with the old.md",
+    "Français/La Déchéance d'un homme.md",
+    "Français/Le Mineur.md",
     "Français/Les Justes.md",
     "Français/Le Petit Prince.md",
-    "Français/Le Mineur.md",
-    "Français/La Déchéance d'un homme.md",
-    "6 Main Notes/Balance of body and mind.md",
-    "3 Tags/self-improvement.md",
-    "6 Main Notes/Strong character and spirit.md",
-    "6 Main Notes/Taking thoughts from others.md",
-    "6 Main Notes/We like similarities of ourselves.md",
-    "3 Tags/criticism.md",
-    "6 Main Notes/Our thoughts cannot explain us.md",
-    "3 Tags/understanding.md",
-    "6 Main Notes/Belief in virtues.md",
-    "6 Main Notes/Fulfilment leads to greater joy and greater despair.md",
+    "Français/Le Horla.md",
     "6 Main Notes/Forming ourselves to our ideals.md",
-    "3 Tags/individualism.md",
-    "6 Main Notes/Trying to be better than others.md",
-    "6 Main Notes/Happiness through suffering.md",
-    "6 Main Notes/Bad images not bad people.md",
-    "3 Tags/self-realization.md",
-    "6 Main Notes/Guilt from being oneself.md",
-    "3 Tags/stereotypes.md",
-    "6 Main Notes/How to improve oneself.md",
+    "3 Tags/transformation.md",
+    "3 Tags/self-improvement.md",
     "3 Tags/transcendence.md",
+    "6 Main Notes/Death of God.md",
+    "3 Tags/meaning.md",
+    "6 Main Notes/Art creates meaning.md",
+    "3 Tags/reality.md",
     "6 Main Notes/Becoming oneself.md",
+    "6 Main Notes/Dominating others.md",
+    "6 Main Notes/Continue rather than return for knowledge.md",
+    "6 Main Notes/Being the instrument rather than being the player.md",
+    "6 Main Notes/Voluntary distance from comfort for joy.md",
+    "6 Main Notes/Belief in virtues.md",
+    "3 Tags/balance.md",
+    "1 Rough Notes/slave.md",
+    "1 Rough Notes/power.md",
+    "6 Main Notes/Balance of body and mind.md",
     "1 Rough Notes/Untitled.base",
     "1 Rough Notes/Untitled 1.base",
     "Français",
