@@ -12,4 +12,4 @@ Desiring to be such a tool by others makes the self hollow, and it is unable to 
 
 Being selfless in the way that one becomes used by another, eliminates the art of creating and forces such a person to adhere to others to find meaning and use in existence.
 # References
-/117/ Kein Altruismus!, Die fröhliche Wissenschaft
+/119/ Kein Altruismus!, Die fröhliche Wissenschaft

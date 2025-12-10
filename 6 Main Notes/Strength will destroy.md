@@ -10,5 +10,5 @@ Likewise, weaker people will also be crushed by the strength. Strong people will
 
 Witnessing or having strength can both build a person up, but also bring a person down, through self-destruction, which will either be reparable or irreparable.
 # References
-28 Mit seinem Besten Schaden, Die fröhliche Wissenschaft
+/28/ Mit seinem Besten Schaden, Die fröhliche Wissenschaft
 Ecce Homo maybe
