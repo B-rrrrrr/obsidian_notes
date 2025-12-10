@@ -1,6 +1,6 @@
 2025-11-05 07:15
 
-Tags: [[balance]] [[happiness]]
+Tags: [[suffering]] [[balance]] [[happiness]]
 # Happiness through suffering
 Give a rich man a hundred dollars, and he won’t care. Give a hundred dollars to a homeless man, and he’s the happiest person in the world. But why is this the case?
 

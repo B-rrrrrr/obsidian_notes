@@ -1,6 +1,6 @@
 2025-11-18 07:20
 
-Tags: [[reality]] [[meaning]] [[interpretation]] [[art]]
+Tags: [[reality]] [[meaning]] [[art]] [[transformation]]
 # Art creates meaning
 Nihilists firmly believe that reality is cruel, and this is true. Reality itself has no inherent meaning and ultimately, people fall into despair. Some believe that if they act good, then they can be good people and thus have a meaning to live. But these people will also fall into despair, because what happens when they can no longer uphold that utter impossibility? No, it is through art that one can find life in living.
 

@@ -1,6 +1,6 @@
 2025-11-30 08:43
 
-Tags: [[consciousness]] [[understanding]]
+Tags: [[consciousness]] [[understanding]] [[individualism]]
 # Our thoughts cannot explain us
 Gedanken sind die Schatten unserer Empfindungen – immer dunkler, leerer, einfacher als diese.
 

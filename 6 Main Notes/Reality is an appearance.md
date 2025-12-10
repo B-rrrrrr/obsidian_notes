@@ -1,6 +1,6 @@
 2025-11-09 08:37
 
-Tags: [[reality]] [[interpretation]]
+Tags: [[reality]] [[interpretation]] [[meaning]] [[appearances]]
 # Reality is an appearance
 There are two kinds of workers: one who sees their work as pointless and draining, and another who sees it as a productive and useful thing in their life. Both of these workers can be doing the same work, and yet their ways of living are quite different, but still real to them. Likewise, one lover can feel doubtful about the love from their partner, while the other sees it as deeply enriching. So how can there be two different realities within one objective reality?
 

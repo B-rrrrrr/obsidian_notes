@@ -1,6 +1,6 @@
 2025-11-04 07:24
 
-Tags: [[self-improvement]] [[balance]]
+Tags: [[transformation]] [[balance]] 
 # Balance of body and mind
 In life, there are usually two types of extremes with regard to where one sets their goals. Either one puts heavy focus on the intellectual aspect of life and therefore has a weak body, but a strong mind, or one puts heavy focus on the body, making one seem strong but is intellectually weak on the inside. Both of these extremes are extremely common and are even stereotyped today, but what if one could combine both?
 

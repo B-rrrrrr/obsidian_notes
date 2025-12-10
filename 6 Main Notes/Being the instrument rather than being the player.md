@@ -1,6 +1,6 @@
 2025-11-19 07:24
 
-Tags: [[altruism]] [[individualism]]
+Tags: [[individualism]] [[morality]] [[freedom]]
 # Being the instrument rather than being the player
 In society, being a selfless person is praised and is called a noble thing to want to do. However, this desire to be selfless can make the actual self worse. By helping others, one loses one’s own art to create and becomes a hollow being if one cannot find another being to infuse themselves with.
 

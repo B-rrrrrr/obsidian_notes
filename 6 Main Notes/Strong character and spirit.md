@@ -1,6 +1,6 @@
 2025-12-06 10:12
 
-Tags: [[balance]] [[self-improvement]]
+Tags: [[balance]] [[self-realization]]
 # Strong character and spirit
 Character dictates one’s ability to stay grounded in one’s beliefs. Character constitutes discipline and consistency in their work. A person with a strong character has a strong will that endures even in the toughest of conditions and forms a consistent self.
 

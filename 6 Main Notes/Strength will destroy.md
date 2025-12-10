@@ -1,6 +1,6 @@
 2025-11-08 09:09
 
-Tags: [[self-improvement]] 
+Tags: [[self-realization]] [[transformation]] 
 # Strength will destroy
 Say you go to a gym for the first time. In the gym you see plenty of people of different levels of strength, but in the middle of the gym there is one man who seems to have lived in the gym his whole life and is bench pressing more kilograms than that fat dude on the treadmill weighs. This strong man motivates you to want to achieve his strength, but that motivation ends up being your downfall, and you tear a muscle that same day trying too hard. That strong man as well ends up injured after doing 10 reps of that weight. But the saying that strength destroys is not only for physical strength, but also for mental.
 

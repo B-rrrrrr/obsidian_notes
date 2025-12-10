@@ -1,6 +1,6 @@
 2025-11-29 07:25
 
-Tags: [[appearances]] 
+Tags: [[appearances]] [[understanding]] [[criticism]]
 # Appearing profound vs being profound
 There have been many people who like to make vague statements. They intentionally hide what they mean in their statements through strange wordings and weird sentences. I’ve read many authors who do this (I’m looking at you Baudrillard) and have always thought that my understanding was too little to understand it. That simply, it was my fault that I couldn’t comprehend the lines. But, in actuality, it is actually the author who is at fault. Those who have something profound to say form their thoughts clearly, whereas others don’t in order to appear clearer.
 

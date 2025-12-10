@@ -1,6 +1,6 @@
 2025-11-25 07:21
 
-Tags: [[self-improvement]]
+Tags: [[happiness]] [[suffering]]
 # Fulfilment leads to greater joy and greater despair
 Those with a more developed inner life go into deeper waters for fulfilment and can fall under the waves. Those who don’t tread into deep water cannot even comprehend such depths.
 

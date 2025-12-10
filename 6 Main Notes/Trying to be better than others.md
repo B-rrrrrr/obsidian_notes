@@ -1,6 +1,6 @@
 2025-12-02 07:21
 
-Tags: [[individualism]] 
+Tags: [[individualism]] [[self-realization]] [[desire]]
 # Trying to be better than others
 Something encouraged over and over again in society is the need to be better than others. One must become better and strive to produce better work than those who came before. This can be with regard to parents but also to others, like teachers or other artists. But, there is a danger that comes with this line of thinking, since it creates a need to improve with an origin of anxiety and not an origin of creativity and joy. Working with the former in mind will not lead to a joyous life but rather despair.
 

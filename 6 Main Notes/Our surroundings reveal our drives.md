@@ -1,6 +1,6 @@
 2025-11-26 07:19
 
-Tags: [[self-improvement]]
+Tags: [[reality]] [[individualism]] [[self-realization]]
 # Our surroundings reveal our drives
 For a long time I told myself I was a game developer without making much. All of my games were unfinished prototypes and just in general bad copies of various tutorials. Looking at the way I spent my time throughout the day, it was almost completely spent on distractions, such as YouTube, video games or other random things that didn’t help me achieve my actual goals. Despite this, I claimed to be a developer, but my environment revealed my actual being: a consumer.
 

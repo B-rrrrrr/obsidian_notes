@@ -1,6 +1,6 @@
 2025-11-07 07:21
 
-Tags: [[love]]
+Tags: [[love]] [[desire]] [[individualism]]
 # Love is selfish
 The definition of selfishness could very well have arisen from the concept of love, despite our society seeing love as the most selfless thing one can do. 
 

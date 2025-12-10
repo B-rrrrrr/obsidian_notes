@@ -1,6 +1,6 @@
 2025-12-07 06:35
 
-Tags: [[slave]] [[power]]
+Tags: [[slave]] [[power]] [[individualism]]
 # Ruling others
 
 I can fix her. The obvious answer to this is, you can’t. But why?

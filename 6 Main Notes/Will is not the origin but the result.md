@@ -1,6 +1,6 @@
 2025-11-22 09:47
 
-Tags: [[will]]
+Tags: [[will]] [[suffering]] [[desire]]
 # Will is not the origin but the result
 When a drug addict finally quits, the drug people will congratulate them on being stronger than their inner desires. Their will has let them quit, and this will has finally appeared and acted upon them. Except, this is not the full picture. The will to quit is not something that magically appears, but rather is the result of many other smaller things gathering that culminate into the Will.
 

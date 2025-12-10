@@ -1,6 +1,6 @@
 2025-12-01 09:50
 
-Tags: [[self-realization]] [[stereotypes]] [[self-improvement]]
+Tags: [[individualism]] [[morality]]
 # Guilt from being oneself
 A dream of mine for a long time has been to become a game designer, that has now expanded into being a musician as well as artist and novelist. However, these ideas of what I want to become into question often by others, since I feel like they don’t benefit society that much. Being a doctor would be much better, no? And so, every time someone asked me I felt a deep sense of shame for being myself. Having experimental interests as well did not help whatsoever. So I tried to do what society told me, but I ended up feeling empty. Thus, over time I’ve noticed that it is much more important to be who you are, than what others tell you: The guilt of the inside is far greater than the guilt of the outside world.
 

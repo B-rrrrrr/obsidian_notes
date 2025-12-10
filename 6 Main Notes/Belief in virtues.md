@@ -1,6 +1,6 @@
 2025-12-04 07:37
 
-Tags: [[appearances]] 
+Tags: [[appearances]] [[goals]] 
 # Belief in virtues
 Virtues do not exist, only the belief in them.
 

@@ -1,6 +1,6 @@
 2025-12-08 08:05
 
-Tags: [[transformation]] [[addiction]] 
+Tags: [[transformation]] [[addiction]] [[balance]]
 # Stuck with the old
 For the longest time I was stuck playing Genshin Impact even though it wasn’t providing me much joy. It used to, but the more I played it, the more I stopped finding anything fulfilling with it. I was trapped and hopelessly addicted to it. And yet I kept playing it despite this. Why? And why does this happen for almost everything I do?
 
