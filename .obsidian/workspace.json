@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e580f9e6a194b34c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Tags/escapism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "escapism"
-            }
-          },
-          {
-            "id": "33eb4a4fbd7dc4ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Tags/understanding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "understanding"
-            }
-          },
-          {
             "id": "e633ba6dadbbf84f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Main Notes/Morality is not individuality.md",
+                "file": "Français/La Déchéance d'un homme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Morality is not individuality"
+              "title": "La Déchéance d'un homme"
             }
           }
         ]
@@ -132,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,34 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21dfb3938eb80414",
+  "active": "e633ba6dadbbf84f",
   "lastOpenFiles": [
-    "6 Main Notes/Keeping goals.md",
-    "1 Rough Notes/goals.md",
-    "6 Main Notes/Belief in virtues.md",
-    "3 Tags/present-moment.md",
-    "6 Main Notes/Dangers of immortalization.md",
-    "3 Tags/reality.md",
-    "3 Tags/meaning.md",
-    "3 Tags/love.md",
-    "3 Tags/idk.md",
-    "3 Tags/appearances.md",
-    "6 Main Notes/Love should be decided.md",
-    "3 Tags/decisions.md",
-    "3 Tags/desire.md",
-    "3 Tags/criticism.md",
-    "3 Tags/will.md",
-    "3 Tags/transgression.md",
+    "Français/Le Horla.md",
+    "Français/Les Justes.md",
+    "Français/Le Petit Prince.md",
+    "Français/Le Mineur.md",
+    "Français/La Déchéance d'un homme.md",
+    "6 Main Notes/Morality is not individuality.md",
     "3 Tags/understanding.md",
+    "3 Tags/goals.md",
+    "6 Main Notes/Bad images not bad people.md",
     "3 Tags/transformation.md",
-    "3 Tags/transcendence.md",
-    "3 Tags/suicide.md",
-    "3 Tags/stereotypes.md",
-    "3 Tags/self-realization.md",
-    "3 Tags/self-improvement.md",
-    "6 Main Notes/How to improve oneself.md",
-    "6 Main Notes/Balance of body and mind.md",
-    "6 Main Notes/Dominating others.md",
+    "6 Main Notes/Suicide does not arise from hopelessness.md",
+    "3 Tags/criticism.md",
+    "1 Rough Notes/Cages wrt Infinite Jest.md",
+    "1 Rough Notes/Why we cringe at past versions of ourselves.md",
+    "1 Rough Notes/We need that which we do not have wrt Ulysses.md",
+    "1 Rough Notes/The Absurd.md",
+    "1 Rough Notes/NihilismNote.md",
+    "1 Rough Notes/Die fröhliche Wissenschaft.md",
+    "1 Rough Notes/Death in the modern age.md",
+    "3 Tags/relationships.md",
+    "1 Rough Notes/2025-12-09.md",
+    "1 Rough Notes/altruism.md",
+    "6 Main Notes/Maximizing pleasure.md",
+    "3 Tags/power.md",
+    "3 Tags/slave.md",
+    "3 Tags/suffering.md",
     "1 Rough Notes/Untitled 1.base",
     "Untitled.canvas",
     "1 Rough Notes/Untitled.base",
