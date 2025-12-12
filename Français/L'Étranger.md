@@ -1,0 +1,3 @@
+Chapitre I
+La mère est morte et le narrateur a pris l’autobus en l’asile de lui. Son patron n’a pas eu content et il s’a excusé. Dans l’asile, il a rencontré les amis de sa mère et aussi le fiancé de lui. Il n’a pas eu beaucoup d'émotions pour sa mère et a regardé tout avec un certain distance. Après les amis et lui est parti de sa mère en la morgue de l’asile, le narrateur et des autres personnes ont pris une voiture en le prochain jour pour enterrer vraiment en dehors de l’asile. Le fiancé d’elle est aussi allé. À la fin du chapitre, il a pris encore l’autobus pour retourner à sa ville et il a dormi.
+Chapitre II

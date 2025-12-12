@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/La Déchéance d'un homme.md",
+                "file": "Français/L'Étranger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "La Déchéance d'un homme"
+              "title": "L'Étranger"
+            }
+          },
+          {
+            "id": "978b4c459ac06abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Main Notes/False appearances of oneself.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "False appearances of oneself"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,13 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e633ba6dadbbf84f",
+  "active": "978b4c459ac06abc",
   "lastOpenFiles": [
+    "3 Tags/identity.md",
+    "6 Main Notes/False appearances of oneself.md",
+    "Français/L'Étranger.md",
+    "Français/La Déchéance d'un homme.md",
     "Français/Le Horla.md",
     "Français/Les Justes.md",
     "Français/Le Petit Prince.md",
     "Français/Le Mineur.md",
-    "Français/La Déchéance d'un homme.md",
     "6 Main Notes/Morality is not individuality.md",
     "3 Tags/understanding.md",
     "3 Tags/goals.md",
@@ -216,9 +244,6 @@
     "1 Rough Notes/2025-12-09.md",
     "1 Rough Notes/altruism.md",
     "6 Main Notes/Maximizing pleasure.md",
-    "3 Tags/power.md",
-    "3 Tags/slave.md",
-    "3 Tags/suffering.md",
     "1 Rough Notes/Untitled 1.base",
     "Untitled.canvas",
     "1 Rough Notes/Untitled.base",
