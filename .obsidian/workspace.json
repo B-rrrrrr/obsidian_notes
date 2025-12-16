@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français/L'Étranger.md",
+                "file": "1 Rough Notes/Using politeness as a mask.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L'Étranger"
+              "title": "Using politeness as a mask"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Bukowski freedom loneliness poem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,9 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978b4c459ac06abc",
+  "active": "e633ba6dadbbf84f",
   "lastOpenFiles": [
     "Français/L'Étranger.md",
+    "1 Rough Notes/Using politeness as a mask.md",
     "1 Rough Notes/Bukowski freedom loneliness poem.md",
     "Français/La Déchéance d'un homme.md",
     "1 Rough Notes/Cages wrt Infinite Jest.md",
@@ -244,7 +244,6 @@
     "3 Tags/freedom.md",
     "3 Tags/criticism.md",
     "3 Tags/balance.md",
-    "3 Tags/appearances.md",
     "1 Rough Notes/Untitled",
     "1 Rough Notes/Untitled 1.base",
     "Untitled.canvas",
