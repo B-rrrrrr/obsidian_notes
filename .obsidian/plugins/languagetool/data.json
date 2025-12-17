@@ -9,6 +9,7 @@
     "ca": "ca-ES"
   },
   "dictionary": [
+    "Algier",
     "Annenkov",
     "Chozo",
     "dotèra",
@@ -26,6 +27,7 @@
     "Kin",
     "Kuma",
     "Orlov",
+    "Salamono",
     "Shizuko",
     "Skouratov",
     "Tags",
@@ -33,9 +35,7 @@
     "Ultrakill",
     "Voinov",
     "Yasu",
-    "Yozo",
-    "Salamono",
-    "Algier"
+    "Yozo"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
