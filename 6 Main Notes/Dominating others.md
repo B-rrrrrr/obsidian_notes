@@ -2,7 +2,6 @@
 
 Tags: [[slave]] [[power]] [[individualism]]
 # Ruling others
-
 I can fix her. The obvious answer to this is, you can’t. But why?
 
 When someone cannot rule themselves, they seem lesser than someone who can. This logic leads to the belief of being able to rule over such a person, since they can’t do it themselves. But, this person who lacks inner discipline cannot be easily controlled. They will act in chaotic ways and require more support by their master. 
