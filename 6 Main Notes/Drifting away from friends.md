@@ -1,6 +1,6 @@
 2025-12-22 08:07
 
-Tags: [[relationships]] 
+Tags: [[relationships]] [[distance]]
 # Drifting away from friends
 There have been multiple occasions where I’ve had extremely strong friendships that ended up wilting away. I thought this was bad, and so I did everything in my power to keep them alive, to no avail. Eventually, I accepted the fact that it was no more, but it is only now that I realize that this is actually for the better and that if we meet again it makes it only that much more fulfilling and joyful.
 

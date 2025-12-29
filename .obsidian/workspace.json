@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94307b5009796ccb",
+        "id": "4a4e0549611d909f",
         "type": "tabs",
         "children": [
           {
-            "id": "e633ba6dadbbf84f",
+            "id": "22d14ecf6c60b225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Main Notes/Suicide comes from reasoning.md",
+                "file": "6 Main Notes/Being able to critique.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Suicide comes from reasoning"
+              "title": "Being able to critique"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"6 Main Notes/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,34 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e633ba6dadbbf84f",
+  "active": "22d14ecf6c60b225",
   "lastOpenFiles": [
+    "3 Tags/criticism.md",
+    "6 Main Notes/Taking thoughts from others.md",
+    "6 Main Notes/Being able to critique.md",
+    "6 Main Notes/Appearing profound vs being profound.md",
+    "3 Tags/understanding.md",
+    "6 Main Notes/True help comes from seeking it out.md",
+    "6 Main Notes/Drifting away from friends.md",
+    "3 Tags/distance.md",
+    "6 Main Notes/Weariness of the self.md",
+    "6 Main Notes/Voluntary distance from comfort for joy.md",
+    "6 Main Notes/We would rather want than have.md",
+    "3 Tags/balance.md",
+    "3 Tags/goals.md",
+    "3 Tags/desire.md",
+    "3 Tags/comfort.md",
+    "6 Main Notes/Leaving comfort for richness.md",
+    "6 Main Notes/Self-esteem must be won.md",
+    "1 Rough Notes/self-esteem.md",
+    "6 Main Notes/Reality is an appearance.md",
+    "3 Tags/appearances.md",
+    "6 Main Notes/Our environment dictates our actions.md",
+    "3 Tags/environment.md",
+    "3 Tags/art.md",
+    "6 Main Notes/Suicide comes from reasoning.md",
     "3 Tags/suicide.md",
     "6 Main Notes/Suicide does not arise from hopelessness.md",
-    "6 Main Notes/Our thoughts cannot explain us.md",
-    "3 Tags/understanding.md",
-    "6 Main Notes/Appearing profound vs being profound.md",
-    "6 Main Notes/Suicide comes from reasoning.md",
-    "6 Main Notes/Drifting away from friends.md",
-    "3 Tags/relationships.md",
-    "3 Tags/balance.md",
-    "6 Main Notes/Voluntary distance from comfort for joy.md",
-    "6 Main Notes/Love is selfish.md",
-    "6 Main Notes/Maximizing pleasure.md",
-    "Français/L'Étranger.md",
-    "3 Tags/love.md",
-    "6 Main Notes/Uncertainty over certainty (death).md",
-    "6 Main Notes/Freedom for creation.md",
-    "Creative Ideas/Idea.md",
-    "6 Main Notes/Dominating others.md",
-    "6 Main Notes/Isn't everyone an addict?.md",
-    "3 Tags/addiction.md",
-    "6 Main Notes/Eliminating Denial.md",
-    "6 Main Notes/Fulfilment leads to greater joy and greater despair.md",
-    "6 Main Notes/Forming ourselves to our ideals.md",
-    "6 Main Notes/Appearing better out of love.md",
-    "6 Main Notes/Love should be decided.md",
-    "6 Main Notes/Morality is not individuality.md",
     "1 Rough Notes/Untitled.base",
     "Pasted image 20251215075521.png",
     "1 Rough Notes/Untitled",

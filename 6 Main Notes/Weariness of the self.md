@@ -1,6 +1,6 @@
 2025-11-06 07:15
 
-Tags: [[self-realization]] [[transformation]] [[desire]]
+Tags: [[self-realization]] [[transformation]] [[desire]] 
 # Weariness of the self
 Eines Besitzes überdrüssig werden, das ist: unser selber überdrüssig werden.
 
