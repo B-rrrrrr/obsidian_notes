@@ -11,24 +11,10 @@
             "id": "22d14ecf6c60b225",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Main Notes/Being able to critique.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Being able to critique"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"6 Main Notes/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,9 +179,24 @@
   },
   "active": "22d14ecf6c60b225",
   "lastOpenFiles": [
+    "6 Main Notes/Suicide comes from reasoning.md",
+    "3 Tags/morality.md",
+    "3 Tags/meaning.md",
+    "3 Tags/suicide.md",
+    "6 Main Notes/Actions determine values.md",
+    "3 Tags/values.md",
+    "6 Main Notes/Freedom for creation.md",
+    "6 Main Notes/Forming ourselves to our ideals.md",
+    "6 Main Notes/Death of God.md",
+    "6 Main Notes/Continue rather than return for knowledge.md",
+    "6 Main Notes/Blind trust in others.md",
+    "6 Main Notes/Being the instrument rather than being the player.md",
+    "3 Tags/self-esteem.md",
+    "3 Tags/interpretation.md",
+    "6 Main Notes/Interpretation rather than finding truth within life.md",
+    "6 Main Notes/Being able to critique.md",
     "3 Tags/criticism.md",
     "6 Main Notes/Taking thoughts from others.md",
-    "6 Main Notes/Being able to critique.md",
     "6 Main Notes/Appearing profound vs being profound.md",
     "3 Tags/understanding.md",
     "6 Main Notes/True help comes from seeking it out.md",
@@ -204,21 +205,6 @@
     "6 Main Notes/Weariness of the self.md",
     "6 Main Notes/Voluntary distance from comfort for joy.md",
     "6 Main Notes/We would rather want than have.md",
-    "3 Tags/balance.md",
-    "3 Tags/goals.md",
-    "3 Tags/desire.md",
-    "3 Tags/comfort.md",
-    "6 Main Notes/Leaving comfort for richness.md",
-    "6 Main Notes/Self-esteem must be won.md",
-    "1 Rough Notes/self-esteem.md",
-    "6 Main Notes/Reality is an appearance.md",
-    "3 Tags/appearances.md",
-    "6 Main Notes/Our environment dictates our actions.md",
-    "3 Tags/environment.md",
-    "3 Tags/art.md",
-    "6 Main Notes/Suicide comes from reasoning.md",
-    "3 Tags/suicide.md",
-    "6 Main Notes/Suicide does not arise from hopelessness.md",
     "1 Rough Notes/Untitled.base",
     "Pasted image 20251215075521.png",
     "1 Rough Notes/Untitled",
