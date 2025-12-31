@@ -11,10 +11,24 @@
             "id": "22d14ecf6c60b225",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6 Main Notes/Becoming worse through helping others.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Becoming worse through helping others"
             }
           }
         ]
@@ -179,8 +193,12 @@
   },
   "active": "22d14ecf6c60b225",
   "lastOpenFiles": [
-    "6 Main Notes/Suicide comes from reasoning.md",
     "3 Tags/morality.md",
+    "6 Main Notes/Becoming worse through helping others.md",
+    "3 Tags/criticism.md",
+    "6 Main Notes/Too much self-control.md",
+    "3 Tags/freedom.md",
+    "6 Main Notes/Suicide comes from reasoning.md",
     "3 Tags/meaning.md",
     "3 Tags/suicide.md",
     "6 Main Notes/Actions determine values.md",
@@ -195,16 +213,12 @@
     "3 Tags/interpretation.md",
     "6 Main Notes/Interpretation rather than finding truth within life.md",
     "6 Main Notes/Being able to critique.md",
-    "3 Tags/criticism.md",
     "6 Main Notes/Taking thoughts from others.md",
     "6 Main Notes/Appearing profound vs being profound.md",
     "3 Tags/understanding.md",
     "6 Main Notes/True help comes from seeking it out.md",
     "6 Main Notes/Drifting away from friends.md",
     "3 Tags/distance.md",
-    "6 Main Notes/Weariness of the self.md",
-    "6 Main Notes/Voluntary distance from comfort for joy.md",
-    "6 Main Notes/We would rather want than have.md",
     "1 Rough Notes/Untitled.base",
     "Pasted image 20251215075521.png",
     "1 Rough Notes/Untitled",
