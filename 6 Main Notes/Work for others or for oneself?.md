@@ -10,4 +10,5 @@ However, stopping the work that others need, whether that be in order to pursue 
 
 Society prioritizes doing work that benefits others, but by doing own work, one goes against this system, isolating oneself from others.
 # References
+[[Work for oneself, not for others]]
 “Say Hey Kid” by Death Grips
