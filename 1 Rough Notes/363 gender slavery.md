@@ -1,0 +1,1 @@
+Now when it comes to traditional gender roles, Nietzsche says that a man who wants to be possessed is not a man anymore, but a slave, a slave to his woman. But a woman who embraces her possession makes her an even better woman. But, what about homosexual relationships? Is there a specific role each person takes? And who takes it? Is one partner therefore automatically wrong?
