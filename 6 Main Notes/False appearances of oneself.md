@@ -10,4 +10,5 @@ Eventually, Yozo stops believing that he exists as a human. He feels disqualifie
 
 When one creates a fake version of themselves, they receive validation for that fake version, hiding the true self and leading to despair.
 # References
+[[To be real rather than seem real]]
 No Longer Human

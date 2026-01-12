@@ -11,24 +11,10 @@
             "id": "d98fe41eb30ebe24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creative Ideas/Bio IA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bio IA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"6 Main Notes\" lain ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,12 +180,15 @@
   },
   "active": "d98fe41eb30ebe24",
   "lastOpenFiles": [
-    "Creative Ideas/Idea 3.md",
+    "6 Main Notes/To be real rather than seem real.md",
+    "6 Main Notes/False appearances of oneself.md",
+    "6 Main Notes/Confronted with true reality.md",
+    "Français/Nous Autres.md",
     "Creative Ideas/Bio IA.md",
+    "Creative Ideas/Idea 3.md",
     "Creative Ideas/Idea 2.md",
     "Creative Ideas/Idea.md",
     "6 Main Notes/Two kinds of suffering.md",
-    "Français/Nous Autres.md",
     "6 Main Notes/True mastery through pain.md",
     "3 Tags/desire.md",
     "6 Main Notes/Demands of the genders.md",
@@ -216,9 +206,6 @@
     "6 Main Notes/Creation of nihilism.md",
     "1 Rough Notes/NihilismNote.md",
     "1 Rough Notes/Death in the modern age.md",
-    "3 Tags/morality.md",
-    "6 Main Notes/To create, we must understand.md",
-    "6 Main Notes/Learning to love.md",
     "1 Rough Notes/Untitled.base",
     "Pasted image 20251215075521.png",
     "1 Rough Notes/Untitled",

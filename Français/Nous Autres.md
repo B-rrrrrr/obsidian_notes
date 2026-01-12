@@ -14,3 +14,7 @@ Note 7:
 Il a eu un rêve et ce sont très bizarres pour lui. Il a pensé qu’il avait une malade mentale. Il est allé sur l’Intégral où l'hymne nationale jouait toujours et il a rencontré O encore. Il a parlé avec elle avec les termes misogynie et elle veut qu’il soit allé sur l’hôpital. Dans sa maison en soir, il a pensé qu’il y a une faux chose avec lui-même.
 Note 8: 
 Il s’a souvenu de sa prof en l’école et de sa pensée torturées parce qu’il n’a pas su, c'était la racine de moins un. En sa journée, il a rencontré O et le poète R-13 qui il a connu de son enfance. Il a formé un triangle, mais R-13 s’était distancé de tout. Il n’a pas écrit une chose aujourd’hui parce qu’il a fait un procès. 
+Note 9:
+Il y a un jour de rencontre le Bienfaiteur, qui avait très grosses mains. Il y a aussi une Machine et dans ce jour, ils veulent faire un sacrifice. Deux poètes a dit quelque chose au Bienfaiteur et ensuite un criminel est allé dans la tribune pour le sacrifice. Il est vaporisé quand le Bienfaiteur a activé la Machine.
+Note 10:
+Il a reçu une lettre de I qui veut qu’il soit allé dans leur place. Quand il est arrivé, elle a changé les vêtements et après là, elle a fermé les rideaux. Elle a eu de l’alcool et de nicotine et il a demandé, où elle l’a eu, mais elle ne disait rien. Il a pris un peu de l’alcool et quand il a réalisé qu’il était 22:25, il a couru dans sa maison et a pensé, elle était mal. En sa maison, il n’a pas dormi et il était paranoïde, parce qu’il a coûté s’il serait découvert en la rue après 22:30.
