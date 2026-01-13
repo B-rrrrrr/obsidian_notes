@@ -18,3 +18,7 @@ Note 9:
 Il y a un jour de rencontre le Bienfaiteur, qui avait très grosses mains. Il y a aussi une Machine et dans ce jour, ils veulent faire un sacrifice. Deux poètes a dit quelque chose au Bienfaiteur et ensuite un criminel est allé dans la tribune pour le sacrifice. Il est vaporisé quand le Bienfaiteur a activé la Machine.
 Note 10:
 Il a reçu une lettre de I qui veut qu’il soit allé dans leur place. Quand il est arrivé, elle a changé les vêtements et après là, elle a fermé les rideaux. Elle a eu de l’alcool et de nicotine et il a demandé, où elle l’a eu, mais elle ne disait rien. Il a pris un peu de l’alcool et quand il a réalisé qu’il était 22:25, il a couru dans sa maison et a pensé, elle était mal. En sa maison, il n’a pas dormi et il était paranoïde, parce qu’il a coûté s’il serait découvert en la rue après 22:30.
+Note 11:
+Il s’a vu dans un miroir et n’a pas pensé, qu’il était le même. R-13 lui a visité et il a parlé d'Adam et Ève qui ont choisi la liberté et pas le bonheur. R lui a aussi demandé qu’il y a un autre dans leur triangle et R connait aussi I, et ça étonnait lui. R est parti pour faire un poème du paradis et l’auteur était très confus.
+Note 12:
+Il a écrit sur la poésie et comment la mathématique leur a aidé. Il a aussi pensé sur les sauvages et leur Dieu, éspoir, etc. et au fin de cette note, il a écrit qu’ils sont des Dieux.
