@@ -21,4 +21,9 @@ Il a reçu une lettre de I qui veut qu’il soit allé dans leur place. Quand il
 Note 11:
 Il s’a vu dans un miroir et n’a pas pensé, qu’il était le même. R-13 lui a visité et il a parlé d'Adam et Ève qui ont choisi la liberté et pas le bonheur. R lui a aussi demandé qu’il y a un autre dans leur triangle et R connait aussi I, et ça étonnait lui. R est parti pour faire un poème du paradis et l’auteur était très confus.
 Note 12:
-Il a écrit sur la poésie et comment la mathématique leur a aidé. Il a aussi pensé sur les sauvages et leur Dieu, éspoir, etc. et au fin de cette note, il a écrit qu’ils sont des Dieux.
+Il a écrit sur la poésie et comment la mathématique leur a aidé. Il a aussi pensé sur les sauvages et leur Dieu, espoir, etc. et à la fin de cette note, il a écrit qu’ils sont des Dieux.
+Note 13:
+I lui a téléphoné pour un rendez-vous au coin de rue et après là, ils sont allés en le Bureau Médicale pour un billet. Alors, ils ont pris encore un avion et ils ont entré dans la maison où c’était très semblable avec le rêve qu’il avait eu. Il a vu des lèvres qui était le même de lui.
+Note 14:
+Il est allé dans l’appartement du O et il lui a tout dit. Il n’a pas trouvé qu’il existait dans ce monde, mais dans le monde de l’ancien. O n’était pas d’accord et il est parti. 
+Note 15:
