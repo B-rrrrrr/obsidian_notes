@@ -27,3 +27,6 @@ I lui a téléphoné pour un rendez-vous au coin de rue et après là, ils sont 
 Note 14:
 Il est allé dans l’appartement du O et il lui a tout dit. Il n’a pas trouvé qu’il existait dans ce monde, mais dans le monde de l’ancien. O n’était pas d’accord et il est parti. 
 Note 15:
+Il a retourné à son travail et ils lui ont dit qu’il y avait eu une personne qui n’avait pas un numéro. Ils lui ont aussi questionné pourquoi il était parti pour deux jours. Il a pensé qu’il était un criminel et ne veut pas travailler.
+Note 16:
+Il est allé dans plusieurs locations et ensuite une personne lui a apporté dans le Bureau Médicale. Là, ils veulent faire une opération pour éviter l’imagination, parce qu’il a eu une âme. Mais, le docteur lui a donné un billet pour être malade pour deux jours et lui a dit, qu’il devrait aller dans la Maison Antique.
