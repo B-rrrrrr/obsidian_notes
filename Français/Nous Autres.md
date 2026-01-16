@@ -30,3 +30,7 @@ Note 15:
 Il a retourné à son travail et ils lui ont dit qu’il y avait eu une personne qui n’avait pas un numéro. Ils lui ont aussi questionné pourquoi il était parti pour deux jours. Il a pensé qu’il était un criminel et ne veut pas travailler.
 Note 16:
 Il est allé dans plusieurs locations et ensuite une personne lui a apporté dans le Bureau Médicale. Là, ils veulent faire une opération pour éviter l’imagination, parce qu’il a eu une âme. Mais, le docteur lui a donné un billet pour être malade pour deux jours et lui a dit, qu’il devrait aller dans la Maison Antique.
+Note 17:
+Il est allé dans la Maison Antique et en chemin, il a pensé sur les sauvages, les murs et la nature. Là, il a cherché pour I, mais il a rencontré seulement un S. Il a caché dans une armoire et il est mort pour un peu secondes. Ensuite, il s’est levé et a trouvé une porte dans laquelle le docteur de Bureau Médicale était.
+Note 18:
+Il a rêvé de tout et il était inquiet avec sa vie. Il a pensé de beaucoup des choses et trouvé qu’il était un autre. Il a reçu une lettre de O, qui lui a écrit qu’elle aimait lui, mais ne le vaudrait pas voir.
