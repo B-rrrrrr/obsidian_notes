@@ -34,3 +34,11 @@ Note 17:
 Il est allé dans la Maison Antique et en chemin, il a pensé sur les sauvages, les murs et la nature. Là, il a cherché pour I, mais il a rencontré seulement un S. Il a caché dans une armoire et il est mort pour un peu secondes. Ensuite, il s’est levé et a trouvé une porte dans laquelle le docteur de Bureau Médicale était.
 Note 18:
 Il a rêvé de tout et il était inquiet avec sa vie. Il a pensé de beaucoup des choses et trouvé qu’il était un autre. Il a reçu une lettre de O, qui lui a écrit qu’elle aimait lui, mais ne le vaudrait pas voir.
+Note 19:
+Quand il a retourné à sa maison, il a reçu une lettre de O, qui lui a écrit elle veule encore essayer. Dans son travail, il y avait une explosion et 10 personnes sont morts. O lui a rencontré à sa maison et ils parlaient de la vie, ses envies, etc.
+Note 20:
+Il a philosophie de tout de l’Intégrale, ses droits et les personnes qui les suivaient. Il a aussi écrit des autres planètes et des hommes qui l'ont vécu.  
+Note 21:
+Il a pensé beaucoup sur les choses de l’Intégral. Il a voulu rencontrer I et il est allé dans la Maison Antique, où il a trouvé un gardien qui lui a dit que la réalité était différent. Il a retourné à sa maison en soir et a parlé avec I.
+Note 22:
+Il a rencontré avec U et lui a aimé. Dans cette note, il a pensé que le “nous” et plus important que le “je”. U lui a dit que le jour d’Unanimité était bientôt et il avait de peur.
